@@ -1,0 +1,2001 @@
+YEAR,MONTH,DAY,COUNTRY,SESSION_ID,PAGE1,PAGE2,COLOUR,LOCATION,MODEL_PHOTOGRAPHY,PRICE,PRICE2,PAGE,converted,revenue
+2008,5,13,France,400,skirts,P034,navy blue,2,profile,146.76,2,5,0,0.0
+2008,5,9,Australia,7248,skirts,P158,burgundy,1,profile,146.71,2,4,0,0.0
+2008,8,27,India,6407,skirts,P060,black,1,profile,168.62,2,2,0,0.0
+2008,6,26,Italy,883,sale,P007,white,2,profile,88.72,1,2,0,0.0
+2008,7,14,Sweden,3566,sale,P008,green,2,en face,11.77,1,1,0,0.0
+2008,5,9,Sweden,4286,sale,P081,brown,4,en face,54.96,1,3,0,0.0
+2008,4,2,USA,1180,skirts,P079,beige,5,profile,159.13,2,3,0,0.0
+2008,5,1,UK,5449,blouses,P217,olive,3,en face,65.95,1,3,1,182.97
+2008,8,4,Sweden,4245,trousers,P084,blue,5,profile,125.24,2,4,0,0.0
+2008,8,12,Italy,5219,skirts,P243,burgundy,3,profile,52.92,1,4,0,0.0
+2008,5,5,Germany,3977,skirts,P285,burgundy,1,profile,165.07,2,4,0,0.0
+2008,5,9,USA,2131,sale,P204,red,6,profile,167.08,2,1,0,0.0
+2008,6,14,Sweden,5079,blouses,P197,navy blue,1,en face,157.21,2,4,0,0.0
+2008,8,20,USA,457,skirts,P135,olive,1,profile,134.47,2,2,0,0.0
+2008,4,9,UK,5583,trousers,P064,gray,6,en face,129.51,2,2,0,0.0
+2008,8,13,USA,5176,sale,P078,black,4,profile,33.45,1,1,0,0.0
+2008,4,25,USA,1951,skirts,P252,beige,6,en face,113.06,2,1,0,0.0
+2008,5,11,France,5373,sale,P025,beige,4,profile,75.11,1,5,0,0.0
+2008,6,6,Sweden,690,sale,P299,violet,1,en face,114.95,2,5,1,135.17
+2008,4,9,France,8853,skirts,P091,green,6,profile,105.24,1,1,0,0.0
+2008,8,2,USA,6526,trousers,P095,blue,2,en face,38.08,1,2,0,0.0
+2008,6,21,Australia,9822,sale,P027,beige,2,profile,49.25,1,1,0,0.0
+2008,7,4,France,6489,skirts,P108,black,2,profile,74.06,1,1,0,0.0
+2008,8,24,UK,6922,trousers,P002,navy blue,5,en face,123.94,2,1,0,0.0
+2008,5,5,UK,1954,blouses,P199,white,2,profile,48.28,1,5,0,0.0
+2008,6,22,France,7635,trousers,P189,beige,2,profile,17.03,1,2,0,0.0
+2008,7,4,USA,5637,sale,P064,green,6,en face,177.59,2,1,0,0.0
+2008,4,2,USA,7155,sale,P131,navy blue,6,profile,83.59,1,2,0,0.0
+2008,6,3,Australia,8425,sale,P110,green,3,profile,144.35,2,5,0,0.0
+2008,8,10,Australia,6611,sale,P203,navy blue,1,profile,42.6,1,5,0,0.0
+2008,7,3,Germany,2711,blouses,P072,beige,2,en face,126.04,2,2,0,0.0
+2008,5,25,USA,8731,sale,P275,beige,5,profile,139.83,2,3,1,195.49
+2008,6,20,France,3202,blouses,P098,blue,4,profile,90.55,1,4,0,0.0
+2008,6,6,India,4350,skirts,P123,olive,4,en face,192.51,2,3,0,0.0
+2008,6,13,USA,4139,skirts,P012,brown,3,profile,60.25,1,4,0,0.0
+2008,4,4,Germany,1885,sale,P134,red,6,en face,30.89,1,5,1,44.55
+2008,8,23,Germany,8640,blouses,P080,red,5,profile,58.32,1,3,0,0.0
+2008,7,19,France,4486,trousers,P098,violet,4,profile,111.2,2,1,0,0.0
+2008,6,18,UK,2495,sale,P053,brown,4,en face,59.11,1,2,0,0.0
+2008,6,12,Australia,5948,trousers,P178,green,5,en face,169.98,2,1,0,0.0
+2008,6,14,Italy,3037,skirts,P151,pink,1,profile,186.8,2,1,0,0.0
+2008,4,28,Sweden,5778,trousers,P190,black,6,en face,83.41,1,5,0,0.0
+2008,6,25,India,3604,trousers,P249,navy blue,3,profile,187.95,2,2,0,0.0
+2008,8,15,UK,846,trousers,P243,green,5,profile,75.12,1,1,0,0.0
+2008,5,19,Australia,543,sale,P023,brown,3,en face,155.9,2,2,0,0.0
+2008,5,2,Germany,3725,blouses,P239,pink,6,en face,81.15,1,4,0,0.0
+2008,5,15,UK,4188,blouses,P058,pink,3,profile,173.21,2,4,0,0.0
+2008,5,20,Australia,3680,trousers,P107,burgundy,5,en face,20.34,1,3,0,0.0
+2008,6,18,USA,8900,skirts,P181,brown,2,en face,119.91,2,4,0,0.0
+2008,8,2,India,7968,trousers,P273,burgundy,4,en face,26.92,1,2,0,0.0
+2008,4,24,France,8486,trousers,P071,brown,3,en face,64.64,1,3,1,163.62
+2008,4,17,France,6076,skirts,P132,green,4,profile,37.45,1,3,0,0.0
+2008,7,10,Italy,7341,trousers,P011,red,6,profile,122.48,2,1,0,0.0
+2008,8,25,India,8226,skirts,P261,navy blue,5,en face,13.74,1,1,0,0.0
+2008,4,13,Australia,7247,blouses,P097,red,1,en face,44.52,1,1,0,0.0
+2008,7,15,Australia,9711,skirts,P267,navy blue,3,en face,103.55,1,5,0,0.0
+2008,6,9,USA,8291,trousers,P214,black,2,en face,132.58,2,4,0,0.0
+2008,7,22,Italy,7138,sale,P043,olive,1,en face,30.47,1,4,0,0.0
+2008,5,10,Germany,2965,sale,P138,black,1,en face,91.36,1,3,0,0.0
+2008,8,2,Italy,7560,trousers,P098,olive,3,profile,143.43,2,2,1,333.33
+2008,5,12,USA,2530,sale,P202,olive,4,profile,109.22,2,4,0,0.0
+2008,6,22,USA,7285,sale,P238,brown,5,profile,160.43,2,2,0,0.0
+2008,6,3,France,5773,skirts,P059,gray,2,profile,65.04,1,2,0,0.0
+2008,6,9,Germany,1049,skirts,P058,olive,1,en face,103.68,1,5,0,0.0
+2008,8,17,UK,7046,trousers,P278,violet,6,profile,181.84,2,2,0,0.0
+2008,5,21,USA,1961,trousers,P047,pink,3,profile,89.11,1,3,0,0.0
+2008,5,25,Australia,2531,trousers,P218,navy blue,5,profile,151.81,2,3,0,0.0
+2008,5,7,India,9049,trousers,P141,green,3,profile,11.83,1,2,0,0.0
+2008,4,10,Italy,7604,sale,P049,brown,5,profile,150.55,2,3,0,0.0
+2008,8,18,USA,6525,trousers,P147,violet,5,en face,22.64,1,1,0,0.0
+2008,7,25,Australia,238,trousers,P241,brown,4,en face,100.51,1,4,0,0.0
+2008,8,1,India,4918,skirts,P238,violet,4,profile,197.88,2,4,0,0.0
+2008,7,27,Germany,6480,blouses,P058,green,2,profile,28.0,1,2,0,0.0
+2008,7,14,Australia,1134,sale,P142,burgundy,6,profile,113.69,2,1,0,0.0
+2008,5,13,Australia,6977,sale,P238,blue,4,en face,73.55,1,2,1,125.28
+2008,4,9,UK,5902,trousers,P059,green,5,profile,194.62,2,4,0,0.0
+2008,4,21,UK,9058,trousers,P041,pink,6,profile,22.31,1,2,0,0.0
+2008,6,14,India,4260,trousers,P134,violet,6,profile,172.85,2,1,0,0.0
+2008,7,10,Sweden,8841,trousers,P157,red,4,en face,56.66,1,2,0,0.0
+2008,4,15,UK,6966,trousers,P181,navy blue,1,en face,91.55,1,2,0,0.0
+2008,8,24,France,9980,blouses,P047,navy blue,4,profile,80.67,1,1,0,0.0
+2008,7,4,India,793,skirts,P046,blue,2,en face,55.8,1,5,0,0.0
+2008,6,2,France,1986,skirts,P284,blue,6,profile,185.11,2,5,0,0.0
+2008,6,15,France,5657,sale,P062,olive,6,en face,129.08,2,2,0,0.0
+2008,8,2,Italy,8740,trousers,P261,pink,6,en face,21.04,1,5,0,0.0
+2008,6,24,Italy,7936,sale,P231,navy blue,1,en face,169.28,2,2,0,0.0
+2008,4,8,Sweden,6098,skirts,P279,blue,5,en face,184.08,2,3,1,509.85
+2008,4,21,Italy,5908,blouses,P214,violet,1,en face,98.27,1,3,0,0.0
+2008,5,22,Australia,7374,skirts,P254,gray,1,profile,44.44,1,2,0,0.0
+2008,7,19,UK,8129,skirts,P078,gray,1,en face,44.36,1,4,0,0.0
+2008,5,21,Sweden,2979,sale,P175,beige,6,profile,44.39,1,4,0,0.0
+2008,4,25,UK,8862,trousers,P225,beige,2,profile,73.18,1,3,0,0.0
+2008,7,14,USA,9302,blouses,P278,blue,4,en face,196.0,2,3,0,0.0
+2008,8,5,Italy,6722,skirts,P187,pink,1,en face,121.86,2,1,0,0.0
+2008,5,20,France,7843,trousers,P296,pink,6,profile,192.51,2,1,0,0.0
+2008,4,3,Sweden,5525,skirts,P214,olive,5,profile,24.6,1,4,0,0.0
+2008,5,22,USA,8722,blouses,P226,blue,4,profile,147.7,2,1,0,0.0
+2008,6,22,UK,8432,trousers,P230,burgundy,2,profile,60.63,1,2,0,0.0
+2008,7,22,UK,9009,blouses,P267,black,3,en face,119.01,2,1,0,0.0
+2008,8,1,Italy,8604,sale,P018,blue,1,profile,85.24,1,2,0,0.0
+2008,8,18,USA,7175,sale,P242,beige,5,profile,182.58,2,3,0,0.0
+2008,4,4,USA,3920,skirts,P016,olive,4,profile,140.83,2,5,0,0.0
+2008,6,12,Italy,3139,blouses,P055,olive,1,en face,75.78,1,5,0,0.0
+2008,8,13,Italy,9417,skirts,P195,burgundy,1,profile,33.3,1,1,0,0.0
+2008,6,22,Australia,9934,blouses,P009,burgundy,6,profile,30.19,1,5,0,0.0
+2008,7,6,Italy,5790,trousers,P055,burgundy,1,profile,182.1,2,1,0,0.0
+2008,4,19,Italy,4074,trousers,P128,navy blue,3,en face,36.74,1,2,0,0.0
+2008,5,28,UK,3288,blouses,P198,pink,1,profile,114.28,2,3,0,0.0
+2008,8,4,USA,3230,blouses,P280,gray,1,profile,97.19,1,5,1,104.76
+2008,8,6,Australia,1827,skirts,P152,olive,2,en face,77.45,1,1,0,0.0
+2008,5,10,USA,5549,blouses,P013,white,1,profile,82.18,1,3,0,0.0
+2008,5,13,India,594,skirts,P062,gray,4,profile,77.48,1,2,0,0.0
+2008,5,22,UK,2726,sale,P087,burgundy,6,en face,133.51,2,5,0,0.0
+2008,4,12,USA,4138,blouses,P061,brown,4,profile,52.19,1,5,0,0.0
+2008,4,5,Germany,561,skirts,P055,green,4,en face,173.1,2,2,0,0.0
+2008,5,26,UK,7407,sale,P146,burgundy,1,en face,27.95,1,2,0,0.0
+2008,4,6,France,8807,trousers,P145,pink,3,profile,138.92,2,2,0,0.0
+2008,7,15,Italy,8387,blouses,P068,gray,1,profile,33.44,1,1,0,0.0
+2008,6,10,Australia,244,blouses,P279,green,6,profile,120.59,2,3,0,0.0
+2008,4,18,UK,7269,sale,P084,violet,3,en face,86.7,1,5,0,0.0
+2008,7,2,Sweden,5436,skirts,P174,blue,4,profile,155.87,2,3,1,312.93
+2008,8,22,Germany,4438,sale,P055,olive,1,en face,124.94,2,3,0,0.0
+2008,4,14,India,9685,sale,P244,black,5,en face,163.68,2,3,0,0.0
+2008,6,3,UK,8107,blouses,P056,green,4,en face,18.55,1,2,0,0.0
+2008,8,3,Italy,406,sale,P049,blue,3,profile,95.33,1,4,0,0.0
+2008,5,5,Sweden,1443,sale,P087,gray,1,en face,85.91,1,4,0,0.0
+2008,6,4,India,262,sale,P023,black,5,en face,105.34,1,4,0,0.0
+2008,5,22,Australia,4407,trousers,P262,blue,1,profile,16.88,1,4,0,0.0
+2008,8,8,France,7634,blouses,P292,green,5,en face,138.35,2,4,0,0.0
+2008,4,28,India,9534,trousers,P249,black,3,en face,147.63,2,4,0,0.0
+2008,8,8,Sweden,1690,trousers,P127,white,3,profile,133.8,2,4,0,0.0
+2008,5,2,UK,9867,skirts,P262,blue,1,en face,15.58,1,2,0,0.0
+2008,4,5,France,1726,sale,P286,pink,5,en face,34.6,1,3,0,0.0
+2008,8,13,UK,8995,trousers,P066,violet,4,en face,103.14,1,5,1,144.33
+2008,5,25,Australia,4931,skirts,P054,burgundy,6,en face,91.69,1,4,1,210.03
+2008,7,1,USA,5963,blouses,P021,green,6,profile,137.87,2,2,0,0.0
+2008,6,21,UK,2497,blouses,P286,green,4,profile,167.93,2,2,0,0.0
+2008,8,6,Italy,9015,sale,P298,pink,2,en face,164.3,2,5,0,0.0
+2008,4,15,India,6905,skirts,P064,beige,3,en face,160.42,2,4,0,0.0
+2008,5,9,USA,6107,blouses,P049,beige,5,en face,184.94,2,1,0,0.0
+2008,8,10,UK,8201,skirts,P138,red,1,profile,117.53,2,4,0,0.0
+2008,4,25,UK,341,blouses,P031,black,4,en face,185.27,2,1,0,0.0
+2008,5,24,USA,2409,skirts,P101,violet,5,en face,156.58,2,4,0,0.0
+2008,5,15,Australia,1602,blouses,P295,white,1,profile,54.25,1,1,0,0.0
+2008,6,14,Germany,9865,skirts,P028,red,5,profile,197.68,2,4,0,0.0
+2008,8,28,Australia,8360,trousers,P251,violet,2,profile,87.5,1,3,0,0.0
+2008,7,6,France,5783,skirts,P156,violet,2,en face,40.83,1,2,1,120.21
+2008,5,23,Sweden,4577,trousers,P176,blue,4,en face,40.2,1,4,0,0.0
+2008,8,15,Germany,7972,trousers,P028,navy blue,4,en face,53.49,1,1,1,117.85
+2008,4,27,India,3726,skirts,P199,pink,4,en face,120.04,2,3,0,0.0
+2008,8,27,Germany,2557,skirts,P186,white,4,en face,82.15,1,2,0,0.0
+2008,6,2,Italy,2786,blouses,P123,olive,5,profile,14.1,1,1,0,0.0
+2008,4,21,USA,1524,sale,P117,olive,2,profile,144.6,2,2,0,0.0
+2008,6,9,Australia,7718,blouses,P176,gray,4,en face,183.74,2,2,0,0.0
+2008,7,22,India,2508,trousers,P170,burgundy,6,profile,12.6,1,4,0,0.0
+2008,7,6,USA,2832,sale,P210,white,3,en face,192.16,2,2,0,0.0
+2008,8,16,Italy,1013,trousers,P005,green,4,en face,45.48,1,1,0,0.0
+2008,6,28,UK,5281,sale,P057,black,3,profile,70.55,1,1,0,0.0
+2008,5,7,Germany,4896,trousers,P109,navy blue,6,en face,192.14,2,3,0,0.0
+2008,7,9,Italy,1767,trousers,P072,violet,2,en face,69.55,1,2,1,127.34
+2008,6,25,India,4552,blouses,P015,violet,4,en face,73.16,1,5,0,0.0
+2008,5,26,Australia,7122,sale,P207,blue,2,profile,23.91,1,5,0,0.0
+2008,6,12,USA,6550,trousers,P093,brown,2,profile,89.87,1,5,0,0.0
+2008,8,24,Italy,4038,sale,P269,black,4,profile,162.95,2,4,0,0.0
+2008,7,17,France,8271,sale,P200,white,1,profile,195.38,2,4,0,0.0
+2008,5,25,UK,149,blouses,P093,red,3,en face,173.74,2,4,1,446.03
+2008,8,4,India,286,blouses,P047,brown,1,en face,75.08,1,1,0,0.0
+2008,6,5,France,7801,skirts,P074,brown,2,profile,156.26,2,4,0,0.0
+2008,5,24,France,9652,sale,P223,olive,6,profile,75.59,1,1,0,0.0
+2008,8,1,Sweden,364,blouses,P015,violet,6,profile,136.05,2,5,0,0.0
+2008,5,10,Sweden,5368,skirts,P262,pink,4,profile,107.97,2,3,0,0.0
+2008,6,8,Germany,9946,skirts,P258,black,5,en face,94.79,1,2,0,0.0
+2008,4,28,France,8411,sale,P025,navy blue,4,en face,158.05,2,3,0,0.0
+2008,7,25,Sweden,9454,trousers,P019,olive,5,profile,199.54,2,4,0,0.0
+2008,7,9,Germany,4726,trousers,P025,olive,2,en face,48.54,1,4,0,0.0
+2008,4,8,USA,7272,sale,P035,white,2,en face,190.53,2,3,0,0.0
+2008,6,8,Australia,6771,sale,P247,white,2,profile,52.69,1,1,0,0.0
+2008,4,19,UK,4444,trousers,P150,violet,3,en face,169.65,2,3,0,0.0
+2008,7,8,India,7447,sale,P132,navy blue,5,profile,14.85,1,5,1,15.38
+2008,4,14,Germany,237,blouses,P047,gray,2,profile,114.14,2,1,0,0.0
+2008,5,2,Germany,7710,skirts,P243,olive,5,profile,88.14,1,2,0,0.0
+2008,4,26,France,9586,trousers,P293,blue,6,profile,101.99,1,3,0,0.0
+2008,5,2,Sweden,2563,sale,P193,red,1,en face,122.69,2,1,0,0.0
+2008,4,14,Italy,7124,trousers,P082,gray,6,en face,101.98,1,1,0,0.0
+2008,5,22,USA,8537,sale,P040,violet,6,profile,154.3,2,1,0,0.0
+2008,5,27,Italy,9603,trousers,P119,red,3,en face,196.64,2,5,0,0.0
+2008,4,9,India,5520,trousers,P250,burgundy,2,profile,57.06,1,2,0,0.0
+2008,4,25,USA,9614,blouses,P145,red,5,profile,190.36,2,5,0,0.0
+2008,4,21,France,3084,blouses,P151,beige,2,en face,35.64,1,2,0,0.0
+2008,4,1,Sweden,2960,trousers,P191,burgundy,3,en face,54.63,1,2,0,0.0
+2008,5,4,France,2103,blouses,P030,gray,1,profile,105.22,2,1,1,239.99
+2008,7,18,Germany,633,skirts,P056,brown,1,en face,74.85,1,2,0,0.0
+2008,7,18,Australia,6814,sale,P246,olive,4,profile,82.97,1,1,1,118.7
+2008,8,10,France,2494,sale,P286,white,6,profile,144.62,2,4,0,0.0
+2008,4,23,France,2666,trousers,P255,olive,1,profile,172.92,2,2,0,0.0
+2008,7,6,USA,8495,skirts,P275,brown,6,profile,92.45,1,4,0,0.0
+2008,4,22,Germany,8426,skirts,P022,red,3,profile,175.57,2,4,1,216.9
+2008,6,27,Australia,9267,blouses,P263,gray,5,profile,104.87,1,5,0,0.0
+2008,4,4,France,4212,sale,P270,white,4,profile,60.84,1,3,0,0.0
+2008,7,20,USA,3875,sale,P179,brown,2,profile,189.28,2,4,0,0.0
+2008,7,1,UK,2818,blouses,P200,white,4,profile,168.05,2,2,1,307.29
+2008,4,6,UK,8269,trousers,P251,olive,1,en face,179.95,2,2,0,0.0
+2008,8,28,Germany,9816,trousers,P291,beige,1,profile,107.72,2,1,0,0.0
+2008,8,9,USA,7427,sale,P209,blue,1,en face,71.17,1,4,0,0.0
+2008,8,25,India,8603,trousers,P265,gray,1,en face,94.54,1,1,1,107.85
+2008,4,3,Germany,8476,trousers,P197,green,2,en face,105.21,1,2,0,0.0
+2008,4,26,France,1736,blouses,P165,red,3,profile,41.18,1,4,0,0.0
+2008,4,24,USA,7398,trousers,P006,olive,1,profile,173.13,2,3,0,0.0
+2008,5,3,Sweden,4256,blouses,P298,red,6,profile,135.72,2,3,0,0.0
+2008,7,2,Italy,8289,sale,P185,green,6,profile,152.66,2,3,0,0.0
+2008,6,13,UK,2476,blouses,P030,brown,4,en face,119.83,2,3,0,0.0
+2008,4,17,Sweden,9985,blouses,P234,beige,6,profile,135.68,2,5,0,0.0
+2008,6,5,France,3714,blouses,P195,red,6,profile,89.13,1,1,0,0.0
+2008,4,14,France,8979,trousers,P124,navy blue,2,en face,154.67,2,4,0,0.0
+2008,8,6,Australia,1805,trousers,P261,blue,1,en face,75.27,1,1,0,0.0
+2008,6,27,Sweden,708,sale,P022,navy blue,2,en face,54.37,1,2,0,0.0
+2008,7,14,Italy,9192,trousers,P208,red,3,en face,130.29,2,2,0,0.0
+2008,8,25,France,5190,trousers,P239,gray,3,en face,24.0,1,2,0,0.0
+2008,8,25,UK,5473,skirts,P148,black,4,en face,94.51,1,4,0,0.0
+2008,8,20,Sweden,73,sale,P187,red,5,en face,126.82,2,5,1,136.37
+2008,4,21,Sweden,7844,trousers,P262,white,1,en face,125.11,2,3,0,0.0
+2008,6,18,Germany,5102,trousers,P006,gray,2,en face,122.71,2,1,0,0.0
+2008,5,23,UK,6765,trousers,P203,navy blue,6,profile,36.67,1,5,0,0.0
+2008,6,19,Sweden,1126,sale,P185,pink,5,profile,80.07,1,2,0,0.0
+2008,8,28,India,1242,trousers,P258,violet,1,profile,137.53,2,5,0,0.0
+2008,5,3,India,8254,trousers,P278,red,6,profile,120.77,2,4,0,0.0
+2008,8,4,Sweden,2350,blouses,P116,olive,3,profile,56.36,1,5,0,0.0
+2008,7,5,France,6603,blouses,P249,red,4,en face,92.53,1,5,0,0.0
+2008,5,16,Australia,6781,skirts,P084,blue,4,en face,145.15,2,1,0,0.0
+2008,6,4,France,4359,blouses,P187,burgundy,4,en face,185.53,2,2,0,0.0
+2008,8,8,India,1344,skirts,P128,olive,3,en face,153.5,2,1,0,0.0
+2008,7,24,UK,9989,trousers,P178,beige,4,en face,140.88,2,2,0,0.0
+2008,7,16,Sweden,8680,skirts,P121,beige,5,profile,172.82,2,3,0,0.0
+2008,4,27,USA,9576,trousers,P123,red,1,en face,131.07,2,3,0,0.0
+2008,5,18,USA,6653,sale,P264,green,4,en face,37.64,1,2,0,0.0
+2008,8,15,Australia,1101,trousers,P263,blue,3,en face,16.49,1,2,0,0.0
+2008,7,27,Sweden,7328,trousers,P070,burgundy,6,en face,120.26,2,5,0,0.0
+2008,4,27,France,7623,trousers,P238,navy blue,5,profile,83.3,1,4,0,0.0
+2008,7,28,India,988,blouses,P089,black,1,profile,18.38,1,5,0,0.0
+2008,7,6,USA,2853,blouses,P067,blue,3,profile,64.27,1,1,0,0.0
+2008,8,13,India,631,blouses,P086,blue,6,en face,69.92,1,1,0,0.0
+2008,7,11,Sweden,1250,sale,P231,green,5,en face,187.94,2,1,0,0.0
+2008,4,11,France,3180,skirts,P117,blue,6,profile,142.17,2,1,0,0.0
+2008,5,5,France,483,trousers,P042,brown,1,profile,103.59,1,2,0,0.0
+2008,8,18,Germany,3041,blouses,P098,blue,2,en face,149.77,2,2,0,0.0
+2008,6,14,Germany,5011,skirts,P011,beige,1,profile,105.53,1,3,1,225.56
+2008,4,25,UK,8728,trousers,P095,beige,4,profile,23.58,1,1,0,0.0
+2008,8,12,Germany,7001,sale,P222,red,2,profile,166.73,2,3,0,0.0
+2008,7,19,Sweden,3274,skirts,P012,brown,4,profile,10.74,1,2,0,0.0
+2008,5,8,Italy,7228,trousers,P034,red,1,profile,115.8,2,2,0,0.0
+2008,7,26,Australia,3684,trousers,P083,green,6,profile,138.68,2,4,1,178.31
+2008,6,4,Sweden,6675,skirts,P062,pink,1,en face,31.76,1,3,0,0.0
+2008,5,26,UK,6808,trousers,P227,brown,4,profile,119.66,2,5,0,0.0
+2008,4,27,Australia,9739,blouses,P201,red,1,profile,66.49,1,3,1,141.75
+2008,7,28,France,1317,sale,P016,white,4,en face,79.92,1,4,0,0.0
+2008,6,28,Italy,3226,sale,P141,burgundy,2,en face,22.45,1,2,0,0.0
+2008,6,17,Australia,1073,skirts,P233,violet,3,profile,154.74,2,2,0,0.0
+2008,8,22,Germany,4816,trousers,P256,white,6,en face,51.78,1,1,0,0.0
+2008,4,17,UK,8460,trousers,P166,beige,1,profile,80.19,1,1,0,0.0
+2008,4,13,Germany,5753,sale,P162,blue,5,en face,31.53,1,2,0,0.0
+2008,7,17,Germany,9146,sale,P061,burgundy,1,en face,81.67,1,5,0,0.0
+2008,5,24,USA,4617,sale,P054,brown,3,profile,86.86,1,4,0,0.0
+2008,5,8,Germany,3098,trousers,P169,green,4,profile,95.08,1,4,0,0.0
+2008,5,8,India,6870,sale,P188,black,5,en face,119.23,2,5,0,0.0
+2008,8,8,Italy,1301,blouses,P094,gray,5,en face,55.0,1,5,0,0.0
+2008,5,15,France,7286,skirts,P167,gray,4,profile,169.07,2,5,0,0.0
+2008,7,2,UK,6285,sale,P153,white,6,en face,154.13,2,2,0,0.0
+2008,6,13,India,5496,trousers,P194,white,6,profile,32.85,1,5,0,0.0
+2008,7,10,Sweden,5292,skirts,P010,red,3,profile,26.85,1,2,0,0.0
+2008,4,15,USA,1799,skirts,P001,violet,3,en face,69.41,1,5,0,0.0
+2008,8,12,Italy,5204,blouses,P251,brown,3,en face,197.1,2,4,0,0.0
+2008,8,10,Italy,8228,trousers,P297,pink,3,en face,100.53,1,3,0,0.0
+2008,6,20,France,5048,blouses,P282,pink,4,en face,60.19,1,2,0,0.0
+2008,7,1,France,6442,blouses,P252,burgundy,6,en face,106.96,2,1,1,304.4
+2008,7,24,UK,8106,sale,P296,olive,2,profile,76.22,1,1,0,0.0
+2008,5,11,Italy,2360,trousers,P288,gray,4,profile,48.04,1,2,0,0.0
+2008,6,19,France,9381,skirts,P004,violet,6,profile,76.19,1,2,0,0.0
+2008,5,6,Germany,3655,trousers,P052,burgundy,3,profile,71.23,1,1,0,0.0
+2008,5,21,India,7053,skirts,P185,gray,5,en face,133.82,2,3,0,0.0
+2008,6,9,France,1287,sale,P078,green,4,profile,119.78,2,1,0,0.0
+2008,4,23,Germany,9127,trousers,P083,olive,3,en face,109.37,2,2,0,0.0
+2008,8,16,Australia,4446,blouses,P208,pink,1,en face,18.24,1,1,0,0.0
+2008,4,1,USA,2138,blouses,P266,burgundy,6,profile,111.08,2,5,1,166.46
+2008,4,23,France,6788,trousers,P110,brown,4,profile,115.07,2,3,1,300.27
+2008,4,13,Italy,9753,trousers,P114,green,5,profile,53.18,1,4,0,0.0
+2008,4,17,UK,8511,skirts,P158,pink,2,profile,77.12,1,4,0,0.0
+2008,5,12,Germany,9540,skirts,P171,olive,6,profile,65.46,1,4,0,0.0
+2008,8,1,Australia,6895,trousers,P038,burgundy,3,en face,72.76,1,2,0,0.0
+2008,5,7,Sweden,8570,skirts,P202,white,3,en face,176.45,2,1,0,0.0
+2008,7,12,UK,7152,trousers,P119,violet,2,profile,81.63,1,2,0,0.0
+2008,8,6,India,964,sale,P126,white,6,profile,30.76,1,2,0,0.0
+2008,6,3,Sweden,6013,skirts,P103,pink,4,en face,138.21,2,4,1,189.55
+2008,8,10,India,4883,skirts,P002,olive,2,profile,175.3,2,3,1,509.36
+2008,4,3,Germany,141,skirts,P122,navy blue,5,profile,50.14,1,2,0,0.0
+2008,8,9,Australia,9033,sale,P043,beige,4,en face,17.93,1,5,1,42.26
+2008,5,5,Sweden,6937,blouses,P021,white,2,profile,84.55,1,4,0,0.0
+2008,5,25,Sweden,6543,blouses,P201,pink,3,en face,152.83,2,4,0,0.0
+2008,6,19,Australia,5244,blouses,P295,gray,3,profile,89.33,1,1,1,207.33
+2008,6,15,Italy,4432,blouses,P046,red,6,profile,52.42,1,1,0,0.0
+2008,4,1,France,407,sale,P286,black,6,en face,126.43,2,4,0,0.0
+2008,4,8,Sweden,8213,skirts,P098,beige,4,en face,58.03,1,1,0,0.0
+2008,4,17,India,8377,trousers,P121,blue,6,profile,82.6,1,5,0,0.0
+2008,7,17,Sweden,8628,sale,P176,beige,1,profile,167.55,2,4,0,0.0
+2008,7,7,France,8235,blouses,P291,blue,3,profile,156.09,2,3,0,0.0
+2008,4,7,UK,4400,sale,P069,beige,2,profile,191.02,2,2,0,0.0
+2008,7,2,UK,5253,blouses,P195,green,4,en face,12.63,1,1,0,0.0
+2008,6,19,India,12,skirts,P225,beige,6,en face,112.68,2,1,0,0.0
+2008,8,20,Sweden,4761,trousers,P157,pink,6,profile,71.53,1,1,0,0.0
+2008,4,25,Germany,1178,sale,P239,navy blue,3,en face,185.56,2,3,0,0.0
+2008,7,24,France,2864,sale,P293,pink,4,en face,56.91,1,5,0,0.0
+2008,8,15,Sweden,6472,sale,P019,brown,5,en face,73.65,1,2,0,0.0
+2008,8,15,Australia,6229,trousers,P145,olive,4,profile,13.77,1,3,0,0.0
+2008,5,10,India,2990,skirts,P197,white,1,en face,96.19,1,2,0,0.0
+2008,6,9,UK,7118,sale,P166,violet,4,profile,110.17,2,3,0,0.0
+2008,7,21,Italy,7011,trousers,P222,olive,6,en face,197.49,2,3,0,0.0
+2008,8,8,India,8558,sale,P079,violet,4,en face,88.72,1,5,0,0.0
+2008,8,3,Sweden,1441,blouses,P181,black,3,profile,69.04,1,2,0,0.0
+2008,7,19,Australia,9748,blouses,P158,beige,4,en face,92.15,1,2,0,0.0
+2008,4,5,Australia,2876,sale,P148,navy blue,1,profile,142.61,2,5,0,0.0
+2008,4,18,USA,9099,blouses,P026,olive,3,en face,146.12,2,5,0,0.0
+2008,4,13,Australia,8789,sale,P245,green,3,en face,152.54,2,3,0,0.0
+2008,8,17,France,7233,sale,P254,navy blue,2,en face,39.21,1,4,0,0.0
+2008,4,7,UK,3727,blouses,P065,blue,5,profile,78.49,1,4,0,0.0
+2008,6,23,UK,2773,trousers,P096,burgundy,2,profile,93.57,1,5,0,0.0
+2008,7,27,Australia,455,skirts,P148,beige,5,en face,192.22,2,3,0,0.0
+2008,6,11,Sweden,8190,trousers,P004,olive,5,en face,148.7,2,1,0,0.0
+2008,7,4,USA,1368,sale,P014,brown,4,profile,172.32,2,2,0,0.0
+2008,6,13,UK,3713,trousers,P230,brown,3,en face,112.0,2,5,0,0.0
+2008,7,3,UK,9853,trousers,P266,olive,3,profile,20.15,1,3,0,0.0
+2008,6,25,France,1389,skirts,P172,red,2,en face,91.56,1,1,0,0.0
+2008,7,11,USA,1001,trousers,P003,green,3,en face,109.99,2,4,0,0.0
+2008,4,28,Australia,7762,skirts,P006,violet,3,en face,40.12,1,2,0,0.0
+2008,5,24,Italy,3554,blouses,P014,blue,6,profile,106.59,2,3,0,0.0
+2008,6,22,USA,4115,skirts,P259,violet,1,profile,63.97,1,4,0,0.0
+2008,8,25,India,1668,trousers,P055,white,4,profile,43.3,1,2,0,0.0
+2008,7,20,Germany,3174,trousers,P005,brown,4,en face,161.2,2,3,0,0.0
+2008,4,10,Italy,9398,blouses,P003,olive,3,en face,37.24,1,4,0,0.0
+2008,7,28,USA,489,blouses,P141,white,5,profile,75.92,1,1,0,0.0
+2008,5,1,Sweden,3231,blouses,P022,brown,3,en face,179.28,2,5,0,0.0
+2008,8,4,Italy,3829,sale,P103,brown,3,profile,171.53,2,5,1,350.04
+2008,6,15,France,8652,skirts,P215,beige,2,en face,75.33,1,2,0,0.0
+2008,8,11,Australia,5209,sale,P007,navy blue,4,en face,91.88,1,1,1,177.33
+2008,5,16,UK,7849,skirts,P055,gray,3,en face,36.62,1,1,0,0.0
+2008,4,5,Germany,5705,trousers,P005,blue,4,profile,167.65,2,4,0,0.0
+2008,6,20,France,9640,skirts,P160,burgundy,1,profile,132.53,2,4,0,0.0
+2008,8,4,Germany,8134,blouses,P282,burgundy,4,profile,178.52,2,5,0,0.0
+2008,7,18,India,704,skirts,P162,violet,1,en face,146.94,2,4,0,0.0
+2008,6,18,USA,5106,skirts,P150,violet,3,en face,75.6,1,4,0,0.0
+2008,6,7,Sweden,8894,blouses,P200,blue,1,en face,134.51,2,3,0,0.0
+2008,4,22,USA,3292,sale,P014,beige,1,en face,115.31,2,5,0,0.0
+2008,6,28,France,8126,sale,P009,gray,6,en face,73.57,1,4,0,0.0
+2008,8,13,Germany,9632,trousers,P177,navy blue,2,en face,181.37,2,3,0,0.0
+2008,6,1,Australia,9022,trousers,P278,brown,5,en face,54.21,1,3,1,142.56
+2008,4,11,France,4910,sale,P242,navy blue,1,en face,53.66,1,5,0,0.0
+2008,8,17,UK,4441,skirts,P247,navy blue,5,profile,186.62,2,5,0,0.0
+2008,8,15,Sweden,987,sale,P222,violet,5,profile,125.27,2,5,0,0.0
+2008,5,2,USA,9237,trousers,P142,white,5,en face,119.1,2,4,0,0.0
+2008,6,20,India,9884,trousers,P186,navy blue,6,en face,196.28,2,3,0,0.0
+2008,5,10,France,7706,blouses,P135,burgundy,1,profile,56.37,1,1,0,0.0
+2008,6,5,UK,6258,trousers,P089,violet,6,en face,89.08,1,2,1,187.67
+2008,7,10,Australia,6090,sale,P059,black,6,profile,26.47,1,1,1,65.07
+2008,8,23,UK,5239,sale,P068,brown,2,profile,91.5,1,1,0,0.0
+2008,7,25,Sweden,1199,trousers,P288,pink,3,profile,122.12,2,4,0,0.0
+2008,5,11,France,9071,trousers,P247,beige,3,profile,87.18,1,2,0,0.0
+2008,6,4,Italy,7520,sale,P099,red,5,profile,149.18,2,5,0,0.0
+2008,5,14,Australia,6813,blouses,P115,black,4,en face,42.07,1,2,0,0.0
+2008,5,10,Italy,8321,sale,P083,blue,5,profile,10.3,1,4,0,0.0
+2008,6,3,Sweden,7176,trousers,P162,blue,1,en face,89.41,1,1,0,0.0
+2008,7,20,Australia,4471,skirts,P053,gray,2,profile,199.48,2,2,0,0.0
+2008,8,24,USA,892,skirts,P179,black,2,profile,71.0,1,1,0,0.0
+2008,5,28,Sweden,1970,sale,P014,burgundy,3,profile,17.45,1,4,0,0.0
+2008,8,15,France,5758,skirts,P261,gray,5,en face,39.37,1,1,0,0.0
+2008,6,22,Italy,6528,blouses,P198,green,3,profile,48.49,1,5,0,0.0
+2008,4,24,USA,6295,blouses,P218,brown,1,profile,25.36,1,1,1,74.56
+2008,8,22,USA,7596,sale,P164,pink,4,profile,38.31,1,4,0,0.0
+2008,8,25,France,3250,trousers,P190,blue,6,en face,75.43,1,1,0,0.0
+2008,7,17,Italy,6571,skirts,P092,white,2,en face,76.25,1,4,0,0.0
+2008,7,27,Italy,6639,blouses,P297,brown,2,profile,116.5,2,3,0,0.0
+2008,4,17,Germany,7352,blouses,P173,beige,3,en face,103.2,1,3,0,0.0
+2008,6,17,Germany,9173,skirts,P077,blue,3,profile,24.29,1,5,0,0.0
+2008,5,15,UK,7474,trousers,P066,brown,6,en face,151.15,2,2,0,0.0
+2008,6,13,France,9602,sale,P059,olive,5,profile,169.68,2,4,0,0.0
+2008,4,20,Italy,8674,skirts,P270,gray,3,profile,82.01,1,4,0,0.0
+2008,4,28,Sweden,1240,blouses,P135,red,4,en face,77.76,1,5,0,0.0
+2008,6,24,Sweden,2290,trousers,P070,blue,2,profile,96.16,1,1,0,0.0
+2008,8,28,Germany,2741,skirts,P133,blue,5,en face,103.98,1,5,0,0.0
+2008,7,2,Germany,4586,skirts,P017,pink,5,en face,94.77,1,4,0,0.0
+2008,8,15,Sweden,1230,blouses,P140,navy blue,4,en face,172.3,2,1,0,0.0
+2008,8,4,Sweden,6981,trousers,P139,violet,1,profile,82.08,1,5,0,0.0
+2008,5,22,Australia,5179,skirts,P118,olive,4,en face,28.0,1,2,0,0.0
+2008,8,10,Australia,4294,trousers,P294,burgundy,3,profile,183.8,2,1,0,0.0
+2008,5,21,India,1059,blouses,P275,violet,5,en face,189.59,2,1,0,0.0
+2008,8,13,USA,6263,trousers,P023,gray,3,en face,136.03,2,5,0,0.0
+2008,8,13,Sweden,282,skirts,P004,burgundy,4,profile,52.61,1,5,0,0.0
+2008,7,8,Germany,969,skirts,P210,red,6,profile,112.16,2,1,0,0.0
+2008,6,10,India,3954,sale,P165,beige,4,en face,15.89,1,2,0,0.0
+2008,5,13,Sweden,1940,blouses,P040,gray,6,profile,97.7,1,4,0,0.0
+2008,5,7,India,8465,skirts,P188,violet,6,en face,55.46,1,2,0,0.0
+2008,6,22,USA,1275,trousers,P019,white,6,en face,140.53,2,4,0,0.0
+2008,7,24,Australia,620,sale,P027,green,6,en face,175.02,2,5,0,0.0
+2008,8,23,UK,8506,skirts,P260,black,1,profile,124.71,2,2,0,0.0
+2008,6,23,Sweden,1743,trousers,P195,red,2,en face,176.45,2,2,0,0.0
+2008,5,16,UK,1391,sale,P022,black,1,profile,45.66,1,2,0,0.0
+2008,8,12,Australia,2204,skirts,P263,brown,4,en face,158.52,2,5,1,385.59
+2008,5,7,Australia,3569,sale,P279,violet,5,en face,187.23,2,3,0,0.0
+2008,6,16,Australia,6117,blouses,P273,violet,5,profile,186.98,2,4,0,0.0
+2008,7,28,Germany,9971,skirts,P095,red,1,profile,166.76,2,4,0,0.0
+2008,5,8,Sweden,6053,blouses,P096,black,2,profile,163.47,2,2,0,0.0
+2008,8,17,Australia,3179,sale,P107,pink,2,profile,123.93,2,2,1,131.61
+2008,6,21,India,3193,trousers,P159,blue,3,en face,63.77,1,1,0,0.0
+2008,7,4,Germany,6100,trousers,P252,red,2,profile,72.72,1,4,0,0.0
+2008,6,24,Germany,7030,sale,P118,green,5,en face,169.43,2,5,0,0.0
+2008,8,22,Italy,576,skirts,P126,burgundy,1,en face,44.44,1,1,0,0.0
+2008,7,17,Sweden,6657,blouses,P137,gray,6,profile,83.84,1,2,0,0.0
+2008,8,1,Sweden,7116,trousers,P021,red,2,profile,76.18,1,4,0,0.0
+2008,5,27,Italy,8803,trousers,P208,white,6,profile,34.95,1,2,0,0.0
+2008,8,17,USA,6277,blouses,P117,pink,2,en face,188.43,2,5,0,0.0
+2008,7,17,Sweden,8985,sale,P057,gray,1,profile,16.48,1,5,0,0.0
+2008,5,8,Italy,5898,trousers,P066,burgundy,3,en face,137.39,2,5,1,400.12
+2008,8,22,UK,5725,blouses,P220,pink,2,profile,97.91,1,3,0,0.0
+2008,7,22,UK,270,skirts,P189,green,5,en face,191.46,2,3,0,0.0
+2008,7,21,Sweden,630,sale,P076,brown,4,profile,87.51,1,1,0,0.0
+2008,6,5,Germany,3082,sale,P018,brown,3,en face,164.34,2,2,1,467.22
+2008,7,18,France,3467,sale,P160,violet,4,profile,35.05,1,4,0,0.0
+2008,7,1,USA,6431,trousers,P159,white,3,en face,38.43,1,3,0,0.0
+2008,7,11,France,9312,skirts,P010,red,3,en face,188.49,2,4,0,0.0
+2008,8,28,Sweden,7063,blouses,P163,violet,2,en face,128.17,2,2,1,129.3
+2008,5,12,Germany,9728,skirts,P119,red,3,profile,46.8,1,2,0,0.0
+2008,4,15,France,5544,sale,P149,pink,4,en face,118.51,2,4,0,0.0
+2008,7,5,UK,4357,skirts,P148,brown,1,profile,110.59,2,3,0,0.0
+2008,5,5,Italy,2114,skirts,P233,navy blue,5,profile,174.01,2,3,0,0.0
+2008,5,1,France,8220,skirts,P052,blue,4,profile,192.26,2,3,0,0.0
+2008,4,20,USA,3217,sale,P258,white,5,en face,68.54,1,3,0,0.0
+2008,7,14,France,3815,sale,P169,green,2,profile,165.81,2,4,1,223.27
+2008,4,15,UK,8322,sale,P134,violet,4,en face,99.06,1,5,0,0.0
+2008,7,8,UK,8590,blouses,P106,white,6,en face,173.7,2,1,0,0.0
+2008,6,26,Australia,2279,trousers,P149,white,3,profile,77.95,1,4,0,0.0
+2008,4,9,USA,4600,sale,P266,brown,6,en face,159.91,2,1,0,0.0
+2008,5,5,France,14,skirts,P066,blue,5,profile,184.71,2,1,0,0.0
+2008,4,1,Germany,9226,trousers,P035,brown,5,profile,130.21,2,3,0,0.0
+2008,6,21,Sweden,1526,sale,P145,gray,2,en face,21.0,1,2,0,0.0
+2008,5,27,India,2366,blouses,P218,brown,1,profile,168.95,2,3,0,0.0
+2008,6,25,Sweden,4649,skirts,P040,red,2,profile,184.58,2,3,0,0.0
+2008,4,11,India,375,sale,P206,red,3,en face,71.87,1,3,0,0.0
+2008,4,9,India,8522,skirts,P159,violet,3,en face,49.2,1,3,0,0.0
+2008,4,28,France,6478,sale,P043,navy blue,3,profile,128.03,2,2,0,0.0
+2008,7,10,Australia,526,trousers,P211,gray,5,en face,153.5,2,5,0,0.0
+2008,5,20,USA,6896,skirts,P089,green,2,profile,115.13,2,5,0,0.0
+2008,6,14,Sweden,3592,trousers,P148,gray,5,en face,174.84,2,5,0,0.0
+2008,8,19,India,7905,trousers,P027,burgundy,6,profile,72.15,1,3,0,0.0
+2008,6,23,UK,2959,trousers,P211,pink,4,profile,113.07,2,1,0,0.0
+2008,8,10,Sweden,530,trousers,P197,brown,6,en face,175.39,2,2,0,0.0
+2008,4,26,USA,3715,blouses,P294,black,4,profile,112.53,2,5,0,0.0
+2008,8,8,Germany,4733,blouses,P278,blue,1,profile,129.29,2,5,0,0.0
+2008,5,28,USA,1395,blouses,P244,beige,6,profile,155.69,2,5,0,0.0
+2008,8,5,Germany,5632,skirts,P220,beige,6,profile,199.15,2,2,0,0.0
+2008,4,20,USA,6564,skirts,P052,burgundy,5,profile,117.17,2,4,1,141.31
+2008,6,7,Australia,4704,sale,P098,beige,3,en face,74.29,1,3,0,0.0
+2008,5,20,France,1713,trousers,P078,white,2,profile,93.91,1,5,0,0.0
+2008,4,4,USA,9756,skirts,P060,navy blue,6,profile,73.5,1,2,0,0.0
+2008,4,15,Germany,956,sale,P214,black,2,en face,174.19,2,4,0,0.0
+2008,4,13,Italy,6676,blouses,P222,red,6,en face,198.13,2,4,0,0.0
+2008,5,3,Italy,3454,blouses,P167,violet,1,en face,177.91,2,4,0,0.0
+2008,7,1,Sweden,2072,sale,P248,gray,2,profile,166.85,2,1,0,0.0
+2008,7,8,Sweden,9741,trousers,P284,black,5,en face,42.54,1,2,0,0.0
+2008,4,5,France,159,blouses,P232,beige,4,profile,178.54,2,3,0,0.0
+2008,5,16,Italy,7006,skirts,P104,olive,1,en face,154.85,2,5,0,0.0
+2008,4,4,Germany,353,blouses,P267,navy blue,2,en face,12.78,1,3,0,0.0
+2008,5,27,UK,6079,blouses,P127,brown,2,profile,130.23,2,5,0,0.0
+2008,7,1,Germany,6237,blouses,P287,pink,6,en face,137.52,2,3,0,0.0
+2008,6,8,UK,2921,sale,P147,pink,6,en face,127.86,2,5,0,0.0
+2008,6,19,France,4645,trousers,P155,white,6,profile,97.69,1,1,0,0.0
+2008,5,14,Sweden,662,trousers,P068,red,2,profile,71.5,1,2,1,86.79
+2008,8,20,Italy,7058,trousers,P098,red,5,en face,122.46,2,5,0,0.0
+2008,7,8,France,3666,trousers,P167,brown,2,profile,111.38,2,4,0,0.0
+2008,5,5,India,7980,skirts,P231,navy blue,1,profile,10.75,1,2,0,0.0
+2008,4,19,Australia,307,trousers,P198,white,4,profile,52.18,1,2,0,0.0
+2008,7,24,India,4791,skirts,P261,navy blue,3,en face,153.09,2,1,0,0.0
+2008,7,20,Italy,2357,blouses,P093,pink,6,en face,142.9,2,1,0,0.0
+2008,6,11,Italy,1928,blouses,P137,black,5,profile,76.11,1,4,0,0.0
+2008,7,24,Australia,9940,sale,P259,navy blue,4,en face,67.11,1,2,0,0.0
+2008,8,23,India,3428,trousers,P064,red,5,en face,25.66,1,5,0,0.0
+2008,7,22,India,3639,skirts,P259,red,2,en face,113.61,2,2,0,0.0
+2008,6,10,Germany,1267,trousers,P238,black,6,en face,84.59,1,1,0,0.0
+2008,7,9,Sweden,1561,skirts,P202,navy blue,3,profile,47.43,1,3,0,0.0
+2008,8,9,Australia,7180,trousers,P089,black,5,en face,53.32,1,1,0,0.0
+2008,6,11,India,4110,blouses,P291,olive,5,en face,102.14,1,5,0,0.0
+2008,4,28,UK,7868,trousers,P108,pink,2,profile,168.95,2,3,0,0.0
+2008,6,25,India,4905,trousers,P046,violet,5,profile,142.09,2,5,0,0.0
+2008,5,24,India,7295,trousers,P153,violet,5,en face,43.76,1,3,0,0.0
+2008,7,20,Italy,515,blouses,P094,pink,4,en face,84.53,1,3,0,0.0
+2008,4,13,Australia,895,sale,P183,olive,6,profile,75.27,1,4,0,0.0
+2008,8,7,Australia,22,blouses,P046,red,6,en face,22.76,1,5,0,0.0
+2008,6,8,France,900,blouses,P235,violet,6,profile,66.06,1,2,0,0.0
+2008,6,16,Sweden,208,trousers,P154,green,3,en face,92.21,1,3,0,0.0
+2008,5,24,India,459,blouses,P255,gray,3,profile,25.33,1,3,0,0.0
+2008,4,26,Sweden,2431,blouses,P188,pink,3,profile,51.84,1,1,0,0.0
+2008,5,20,India,8443,blouses,P020,white,3,en face,10.52,1,5,0,0.0
+2008,4,16,UK,3390,blouses,P167,blue,2,profile,98.13,1,4,0,0.0
+2008,6,7,Sweden,3912,skirts,P259,burgundy,4,en face,18.68,1,1,0,0.0
+2008,7,25,UK,5384,sale,P085,white,6,profile,139.81,2,2,0,0.0
+2008,5,12,Italy,553,sale,P179,black,1,profile,130.71,2,2,0,0.0
+2008,8,26,UK,3145,blouses,P227,gray,3,profile,111.23,2,2,1,211.03
+2008,7,28,Italy,6918,sale,P107,red,3,profile,86.79,1,1,0,0.0
+2008,7,24,Germany,2057,trousers,P235,olive,5,en face,115.36,2,2,0,0.0
+2008,8,27,USA,1926,sale,P155,pink,1,en face,36.64,1,4,1,87.41
+2008,4,8,Sweden,635,skirts,P024,olive,1,profile,38.07,1,4,0,0.0
+2008,8,3,France,6083,trousers,P135,green,1,profile,119.54,2,5,0,0.0
+2008,5,8,UK,9271,skirts,P260,green,2,en face,31.0,1,5,0,0.0
+2008,4,14,Germany,9679,blouses,P158,navy blue,4,en face,133.11,2,2,0,0.0
+2008,8,2,Germany,106,trousers,P196,brown,4,profile,181.99,2,3,0,0.0
+2008,5,14,Sweden,3042,sale,P029,brown,3,en face,124.88,2,5,0,0.0
+2008,8,13,Germany,1710,trousers,P114,beige,5,profile,29.29,1,2,0,0.0
+2008,6,2,Sweden,90,sale,P023,blue,6,en face,93.55,1,5,0,0.0
+2008,4,22,Sweden,7015,trousers,P157,blue,1,profile,152.74,2,2,0,0.0
+2008,8,7,Sweden,3175,sale,P076,olive,1,profile,123.5,2,3,0,0.0
+2008,4,21,Sweden,918,sale,P176,brown,2,en face,66.12,1,1,0,0.0
+2008,7,1,India,7834,blouses,P214,navy blue,5,en face,192.87,2,4,0,0.0
+2008,4,17,France,6733,trousers,P090,blue,1,profile,138.51,2,3,0,0.0
+2008,8,5,Sweden,1950,skirts,P229,gray,3,profile,95.59,1,5,0,0.0
+2008,5,26,Italy,6369,trousers,P248,pink,6,profile,123.55,2,5,0,0.0
+2008,8,7,UK,2,skirts,P177,beige,2,en face,113.71,2,5,0,0.0
+2008,5,22,Australia,8033,blouses,P177,beige,5,profile,188.13,2,1,1,416.58
+2008,5,13,France,6048,trousers,P202,blue,5,profile,164.57,2,3,0,0.0
+2008,5,20,India,2721,skirts,P118,black,3,profile,15.52,1,4,0,0.0
+2008,8,28,Italy,9813,blouses,P297,beige,3,profile,153.9,2,1,1,341.4
+2008,7,18,UK,3118,sale,P274,green,6,profile,139.47,2,2,0,0.0
+2008,4,28,Australia,9466,blouses,P253,olive,3,en face,149.14,2,3,0,0.0
+2008,4,17,UK,3763,trousers,P218,brown,3,en face,92.43,1,3,0,0.0
+2008,5,6,UK,214,trousers,P052,blue,3,profile,191.51,2,5,0,0.0
+2008,6,8,France,779,blouses,P126,beige,1,en face,159.06,2,1,0,0.0
+2008,5,25,Sweden,3497,skirts,P295,violet,4,profile,22.86,1,5,0,0.0
+2008,4,14,Australia,8818,sale,P092,violet,4,profile,132.99,2,2,0,0.0
+2008,5,18,USA,2044,sale,P209,black,1,profile,182.36,2,3,1,527.67
+2008,4,22,USA,5421,blouses,P210,pink,1,profile,28.6,1,3,1,45.77
+2008,6,20,USA,6155,trousers,P225,blue,6,profile,167.0,2,1,0,0.0
+2008,8,19,France,8358,sale,P260,beige,5,profile,106.47,2,1,0,0.0
+2008,8,20,France,8708,blouses,P044,green,1,en face,32.55,1,3,0,0.0
+2008,4,1,Sweden,8466,skirts,P273,gray,3,en face,21.35,1,1,0,0.0
+2008,6,6,Germany,4168,trousers,P196,navy blue,4,profile,134.58,2,3,0,0.0
+2008,6,23,France,3789,blouses,P112,black,1,profile,152.28,2,3,0,0.0
+2008,4,19,Sweden,584,sale,P193,gray,1,profile,16.12,1,5,0,0.0
+2008,5,13,Sweden,9912,blouses,P167,beige,5,en face,181.4,2,1,0,0.0
+2008,7,16,Australia,9987,sale,P235,olive,3,profile,141.96,2,2,0,0.0
+2008,5,25,USA,117,blouses,P228,green,3,profile,191.17,2,2,1,528.06
+2008,6,19,Australia,6645,blouses,P032,red,5,en face,194.77,2,2,0,0.0
+2008,6,14,Germany,9034,skirts,P190,green,4,profile,199.05,2,4,0,0.0
+2008,4,16,France,9952,trousers,P047,green,4,en face,76.19,1,3,0,0.0
+2008,6,18,Australia,8960,blouses,P059,beige,4,en face,69.9,1,2,1,159.77
+2008,8,28,Sweden,1764,blouses,P206,white,5,profile,141.93,2,5,0,0.0
+2008,8,2,Italy,1876,blouses,P008,burgundy,2,en face,40.67,1,4,0,0.0
+2008,6,1,India,3225,skirts,P246,blue,6,en face,80.51,1,1,0,0.0
+2008,8,9,Italy,527,blouses,P262,violet,3,en face,27.95,1,3,0,0.0
+2008,5,2,UK,7726,trousers,P201,violet,3,profile,48.38,1,4,0,0.0
+2008,7,12,France,2947,trousers,P006,burgundy,2,en face,89.18,1,1,0,0.0
+2008,7,3,Italy,4474,trousers,P119,brown,6,en face,117.78,2,1,0,0.0
+2008,8,26,Sweden,5656,skirts,P207,beige,3,profile,179.09,2,2,0,0.0
+2008,8,5,UK,6060,sale,P072,beige,4,profile,58.41,1,1,0,0.0
+2008,4,12,Australia,960,blouses,P224,pink,5,profile,88.94,1,1,1,251.94
+2008,7,10,Sweden,6343,blouses,P018,white,6,en face,64.15,1,5,0,0.0
+2008,4,9,France,3634,blouses,P261,burgundy,4,en face,47.8,1,4,1,142.47
+2008,7,4,Sweden,1051,blouses,P149,beige,4,en face,77.27,1,5,0,0.0
+2008,7,5,France,3381,skirts,P056,olive,2,en face,14.78,1,1,0,0.0
+2008,5,5,India,3677,skirts,P198,red,2,profile,162.27,2,1,0,0.0
+2008,7,9,Italy,5777,trousers,P239,pink,2,en face,112.59,2,5,0,0.0
+2008,8,9,Germany,9046,blouses,P259,burgundy,5,en face,77.42,1,2,0,0.0
+2008,4,10,France,6574,sale,P121,gray,2,en face,194.7,2,4,0,0.0
+2008,6,24,France,5180,blouses,P190,navy blue,4,profile,159.34,2,5,0,0.0
+2008,7,6,France,1608,trousers,P035,beige,4,en face,14.82,1,3,0,0.0
+2008,7,27,USA,3611,sale,P104,burgundy,5,profile,196.82,2,2,0,0.0
+2008,5,4,Australia,9759,sale,P063,black,6,profile,174.2,2,5,0,0.0
+2008,8,25,Italy,6636,blouses,P187,white,5,profile,142.35,2,1,0,0.0
+2008,5,7,Germany,9998,blouses,P287,black,6,profile,55.62,1,5,1,80.62
+2008,8,26,India,792,blouses,P048,burgundy,6,en face,120.58,2,4,0,0.0
+2008,6,21,Sweden,3057,blouses,P249,violet,3,profile,35.71,1,5,0,0.0
+2008,7,7,Australia,1981,blouses,P016,burgundy,6,en face,107.77,2,3,0,0.0
+2008,6,17,India,3599,skirts,P147,brown,1,en face,122.5,2,3,0,0.0
+2008,6,17,France,934,skirts,P133,red,6,profile,107.37,2,4,0,0.0
+2008,5,23,Australia,7425,sale,P288,violet,2,profile,129.61,2,2,0,0.0
+2008,6,15,UK,5627,skirts,P297,navy blue,2,en face,50.87,1,4,1,91.41
+2008,6,7,Germany,1683,blouses,P122,white,3,en face,151.24,2,1,0,0.0
+2008,7,28,Germany,4180,trousers,P147,pink,1,profile,177.75,2,4,0,0.0
+2008,6,18,France,6447,sale,P097,gray,4,en face,15.68,1,4,0,0.0
+2008,5,21,USA,4117,skirts,P085,green,2,profile,103.32,1,1,1,137.77
+2008,6,14,Germany,989,sale,P059,red,3,en face,164.16,2,5,0,0.0
+2008,4,5,Australia,2897,blouses,P006,white,5,en face,102.64,1,2,0,0.0
+2008,4,23,France,3779,skirts,P167,pink,3,profile,174.76,2,4,0,0.0
+2008,6,24,Sweden,5659,skirts,P060,olive,5,en face,162.23,2,5,0,0.0
+2008,8,10,India,3094,blouses,P102,burgundy,1,profile,56.67,1,5,0,0.0
+2008,7,9,France,3156,sale,P269,brown,3,profile,148.48,2,1,0,0.0
+2008,8,13,Sweden,1824,skirts,P079,pink,2,profile,195.0,2,3,0,0.0
+2008,6,10,Italy,9623,blouses,P291,blue,5,profile,46.14,1,5,0,0.0
+2008,7,1,Germany,1099,sale,P106,beige,6,profile,188.55,2,4,1,333.71
+2008,5,4,UK,2845,blouses,P084,burgundy,3,en face,127.83,2,3,0,0.0
+2008,6,9,India,3343,trousers,P064,gray,3,profile,79.01,1,4,0,0.0
+2008,4,13,Italy,39,skirts,P275,red,4,profile,97.85,1,2,1,161.56
+2008,7,21,UK,6541,blouses,P189,white,4,en face,97.45,1,4,0,0.0
+2008,8,6,USA,9474,skirts,P020,navy blue,6,en face,100.51,1,4,0,0.0
+2008,4,11,Italy,3357,skirts,P069,white,2,en face,62.1,1,5,0,0.0
+2008,5,17,India,7814,sale,P148,burgundy,4,profile,70.0,1,3,0,0.0
+2008,4,20,Germany,8221,trousers,P180,burgundy,6,profile,30.67,1,5,0,0.0
+2008,7,24,Germany,9228,sale,P188,green,5,profile,157.87,2,3,0,0.0
+2008,7,28,UK,2429,skirts,P251,green,1,en face,182.73,2,2,0,0.0
+2008,5,3,UK,5044,sale,P288,beige,3,profile,141.37,2,3,0,0.0
+2008,8,27,Australia,5347,trousers,P202,blue,2,en face,132.54,2,2,0,0.0
+2008,8,22,Sweden,4812,trousers,P288,green,6,en face,132.72,2,2,0,0.0
+2008,7,26,Australia,8477,blouses,P037,burgundy,1,profile,112.62,2,2,0,0.0
+2008,8,4,Australia,687,sale,P035,black,1,en face,189.18,2,4,0,0.0
+2008,4,20,Italy,4800,trousers,P197,black,6,profile,72.1,1,4,0,0.0
+2008,6,12,Sweden,7438,sale,P082,gray,4,en face,166.95,2,2,0,0.0
+2008,6,1,USA,2354,blouses,P020,violet,6,profile,180.6,2,2,0,0.0
+2008,4,17,India,6354,blouses,P139,blue,4,en face,63.87,1,1,0,0.0
+2008,4,22,Australia,4570,skirts,P139,black,2,en face,83.89,1,2,0,0.0
+2008,8,26,Australia,8214,blouses,P210,burgundy,2,en face,199.19,2,5,0,0.0
+2008,4,16,India,2753,skirts,P155,pink,3,profile,86.93,1,1,0,0.0
+2008,6,17,Italy,8074,blouses,P007,navy blue,1,en face,45.98,1,4,0,0.0
+2008,6,10,Australia,1041,skirts,P232,navy blue,5,en face,49.89,1,5,0,0.0
+2008,5,17,India,7492,sale,P193,violet,6,en face,180.04,2,1,0,0.0
+2008,7,12,Italy,1266,blouses,P011,burgundy,6,profile,10.88,1,1,1,25.41
+2008,4,22,Italy,9266,sale,P099,violet,5,profile,128.94,2,4,0,0.0
+2008,4,8,India,7060,sale,P226,navy blue,4,profile,75.99,1,3,0,0.0
+2008,6,7,France,278,blouses,P170,violet,2,en face,147.52,2,1,0,0.0
+2008,4,21,India,5085,trousers,P160,burgundy,5,en face,125.34,2,5,0,0.0
+2008,7,18,India,2383,blouses,P054,green,5,en face,189.17,2,2,0,0.0
+2008,5,13,USA,572,blouses,P194,brown,2,profile,23.16,1,3,1,48.26
+2008,8,23,Australia,1436,skirts,P158,pink,5,en face,149.95,2,4,0,0.0
+2008,5,9,France,5353,skirts,P028,white,2,en face,107.43,2,4,0,0.0
+2008,4,1,UK,5446,trousers,P179,white,4,profile,198.14,2,1,0,0.0
+2008,4,15,India,1008,trousers,P280,red,5,en face,40.79,1,4,0,0.0
+2008,8,16,India,4544,trousers,P156,violet,2,profile,48.81,1,2,0,0.0
+2008,6,10,France,8817,skirts,P233,pink,4,profile,112.72,2,2,1,210.18
+2008,4,7,Sweden,2065,skirts,P107,black,5,profile,115.49,2,2,0,0.0
+2008,5,28,Germany,1137,skirts,P119,blue,4,profile,181.23,2,4,0,0.0
+2008,6,6,France,5344,trousers,P222,red,6,en face,108.49,2,3,0,0.0
+2008,7,20,USA,295,trousers,P216,gray,1,profile,140.72,2,5,1,322.06
+2008,5,4,USA,2404,trousers,P172,navy blue,3,profile,186.09,2,1,0,0.0
+2008,4,20,Germany,3999,sale,P113,gray,1,profile,104.02,1,4,0,0.0
+2008,7,6,UK,3742,sale,P272,white,3,en face,42.76,1,5,0,0.0
+2008,6,28,Australia,9223,skirts,P254,navy blue,4,profile,196.76,2,3,0,0.0
+2008,7,11,Sweden,2720,skirts,P013,white,6,en face,167.41,2,2,0,0.0
+2008,7,16,Italy,9200,skirts,P020,blue,5,profile,55.63,1,3,0,0.0
+2008,7,13,USA,5151,blouses,P227,violet,4,en face,65.89,1,3,0,0.0
+2008,6,8,France,2809,trousers,P028,green,3,profile,126.83,2,4,0,0.0
+2008,6,18,Germany,557,skirts,P019,pink,6,profile,131.95,2,5,0,0.0
+2008,5,19,Sweden,8926,sale,P111,white,1,profile,158.57,2,2,0,0.0
+2008,4,8,UK,4796,sale,P130,white,1,profile,181.9,2,5,0,0.0
+2008,4,12,USA,2470,sale,P219,blue,2,profile,121.73,2,4,0,0.0
+2008,4,14,UK,3739,trousers,P117,navy blue,4,en face,157.15,2,3,0,0.0
+2008,8,21,Australia,4287,trousers,P055,violet,6,en face,135.9,2,4,0,0.0
+2008,7,22,India,2605,trousers,P229,blue,3,profile,76.61,1,5,0,0.0
+2008,7,6,Italy,363,trousers,P269,blue,2,profile,65.3,1,3,0,0.0
+2008,7,5,Italy,6925,trousers,P185,green,6,profile,191.94,2,3,0,0.0
+2008,4,13,USA,1705,blouses,P227,red,3,en face,166.81,2,4,0,0.0
+2008,7,15,France,2140,trousers,P109,gray,6,profile,175.54,2,5,0,0.0
+2008,7,25,France,3240,skirts,P101,green,3,profile,168.82,2,4,0,0.0
+2008,8,14,Italy,2384,blouses,P277,violet,1,profile,152.22,2,4,0,0.0
+2008,7,5,Germany,7315,blouses,P253,red,1,profile,50.91,1,1,0,0.0
+2008,6,11,India,4312,sale,P171,red,5,profile,88.55,1,3,0,0.0
+2008,5,8,USA,1313,blouses,P039,brown,2,en face,51.1,1,3,0,0.0
+2008,4,1,France,3931,blouses,P127,brown,1,profile,98.74,1,3,1,283.8
+2008,4,17,Sweden,6184,skirts,P070,olive,1,profile,137.05,2,3,0,0.0
+2008,4,10,UK,1592,trousers,P194,beige,2,en face,12.29,1,5,0,0.0
+2008,4,16,UK,9388,sale,P119,violet,2,en face,161.04,2,2,0,0.0
+2008,6,14,USA,2163,trousers,P038,olive,1,profile,153.03,2,4,0,0.0
+2008,5,28,Germany,2397,sale,P127,white,6,en face,145.84,2,4,0,0.0
+2008,5,25,UK,318,trousers,P059,olive,6,profile,45.49,1,1,0,0.0
+2008,5,13,Australia,5234,blouses,P020,navy blue,1,en face,141.28,2,1,0,0.0
+2008,6,19,France,5069,blouses,P022,pink,5,en face,36.68,1,3,0,0.0
+2008,7,1,Italy,4037,trousers,P088,violet,2,profile,136.39,2,4,0,0.0
+2008,5,14,Italy,3021,trousers,P040,pink,2,profile,125.2,2,4,0,0.0
+2008,4,15,Sweden,8229,blouses,P034,blue,3,profile,158.76,2,5,0,0.0
+2008,4,4,India,5296,trousers,P255,green,4,en face,187.58,2,4,0,0.0
+2008,5,2,Germany,3973,skirts,P250,gray,5,profile,78.33,1,3,0,0.0
+2008,7,15,UK,5371,blouses,P028,gray,5,en face,77.51,1,1,0,0.0
+2008,4,14,Australia,4134,skirts,P105,white,2,en face,169.86,2,1,0,0.0
+2008,7,8,India,975,blouses,P022,red,6,profile,189.22,2,2,0,0.0
+2008,8,18,USA,7292,trousers,P132,red,2,en face,105.73,1,3,0,0.0
+2008,4,20,UK,955,skirts,P064,burgundy,4,profile,41.21,1,3,0,0.0
+2008,6,15,Italy,9307,sale,P177,white,1,en face,42.6,1,4,0,0.0
+2008,7,6,France,5017,trousers,P010,black,4,en face,154.69,2,4,0,0.0
+2008,7,4,USA,9731,sale,P052,navy blue,1,en face,93.66,1,3,0,0.0
+2008,6,8,Germany,7491,trousers,P156,olive,4,profile,180.45,2,2,0,0.0
+2008,8,8,USA,1641,skirts,P087,violet,4,profile,174.65,2,2,0,0.0
+2008,5,25,Italy,1291,skirts,P095,green,2,en face,170.55,2,1,0,0.0
+2008,4,28,Australia,1381,trousers,P101,burgundy,4,profile,88.35,1,4,0,0.0
+2008,6,16,France,1934,trousers,P176,pink,6,profile,135.74,2,3,0,0.0
+2008,7,16,UK,4676,blouses,P041,white,6,profile,95.2,1,1,0,0.0
+2008,5,15,Germany,893,sale,P098,black,5,en face,166.85,2,4,0,0.0
+2008,8,7,Germany,7288,blouses,P207,white,1,profile,121.45,2,1,0,0.0
+2008,4,15,UK,4877,sale,P228,white,3,en face,79.58,1,2,1,112.25
+2008,5,4,Germany,7907,blouses,P050,beige,4,profile,120.11,2,4,0,0.0
+2008,6,24,Italy,8195,sale,P160,black,5,en face,176.07,2,2,0,0.0
+2008,4,24,Germany,9380,trousers,P141,burgundy,4,profile,160.78,2,2,1,307.71
+2008,4,8,Italy,2467,trousers,P052,olive,5,en face,17.98,1,1,0,0.0
+2008,8,8,USA,7658,blouses,P215,brown,5,en face,167.26,2,5,0,0.0
+2008,6,8,Italy,1914,sale,P105,beige,6,en face,144.76,2,3,0,0.0
+2008,6,28,India,2737,blouses,P217,black,2,profile,60.31,1,4,0,0.0
+2008,7,25,France,727,sale,P295,burgundy,4,profile,41.63,1,4,0,0.0
+2008,6,19,Italy,7215,sale,P231,gray,2,profile,154.0,2,5,0,0.0
+2008,8,21,UK,8246,skirts,P274,violet,1,en face,46.12,1,3,1,133.48
+2008,6,5,France,1797,blouses,P026,burgundy,2,en face,17.71,1,1,0,0.0
+2008,5,14,Sweden,3846,blouses,P178,white,2,profile,176.99,2,5,0,0.0
+2008,7,9,USA,6403,trousers,P025,white,1,en face,13.77,1,1,0,0.0
+2008,4,22,India,937,sale,P151,violet,5,profile,73.3,1,5,0,0.0
+2008,5,15,Sweden,2266,blouses,P044,black,4,en face,184.05,2,3,0,0.0
+2008,4,12,USA,825,trousers,P084,pink,1,profile,41.24,1,1,1,48.36
+2008,8,15,France,7275,trousers,P230,violet,1,en face,36.94,1,5,0,0.0
+2008,7,22,USA,1390,trousers,P059,olive,4,profile,181.1,2,3,0,0.0
+2008,8,15,Italy,3565,sale,P079,green,3,en face,141.82,2,1,0,0.0
+2008,7,6,Germany,5430,trousers,P190,brown,3,en face,59.78,1,5,0,0.0
+2008,7,27,USA,7828,blouses,P126,black,4,profile,58.74,1,4,0,0.0
+2008,8,26,USA,5691,trousers,P068,black,1,en face,165.24,2,4,0,0.0
+2008,4,15,India,7879,trousers,P041,pink,2,profile,111.96,2,2,0,0.0
+2008,8,12,USA,1869,blouses,P033,brown,4,en face,68.48,1,2,1,133.12
+2008,4,4,USA,8203,sale,P256,green,5,profile,106.51,2,5,0,0.0
+2008,8,16,Sweden,7487,skirts,P162,gray,3,profile,165.51,2,1,0,0.0
+2008,6,8,Germany,807,sale,P074,brown,6,profile,152.07,2,1,0,0.0
+2008,8,25,India,4806,trousers,P085,gray,3,en face,95.45,1,2,0,0.0
+2008,5,17,France,9153,blouses,P286,pink,4,en face,131.41,2,1,0,0.0
+2008,6,10,Italy,7512,blouses,P244,beige,5,profile,16.54,1,2,0,0.0
+2008,4,9,USA,8057,trousers,P251,black,1,en face,188.3,2,5,0,0.0
+2008,8,21,India,4495,blouses,P118,black,1,en face,100.01,1,4,0,0.0
+2008,6,5,Australia,2633,sale,P088,gray,5,en face,60.01,1,4,0,0.0
+2008,7,1,Germany,8901,blouses,P231,black,4,en face,110.19,2,3,0,0.0
+2008,4,15,Germany,8624,sale,P200,pink,3,en face,10.05,1,3,0,0.0
+2008,5,28,Italy,7833,blouses,P229,pink,5,profile,139.06,2,1,0,0.0
+2008,6,24,France,4389,sale,P049,burgundy,1,profile,164.06,2,5,0,0.0
+2008,7,22,USA,146,sale,P113,brown,5,profile,141.04,2,2,0,0.0
+2008,8,11,Italy,6468,trousers,P188,white,3,en face,168.29,2,3,0,0.0
+2008,7,23,India,2034,sale,P157,olive,3,profile,59.13,1,4,0,0.0
+2008,8,11,France,9128,trousers,P218,pink,3,en face,114.33,2,1,0,0.0
+2008,5,27,Italy,1166,skirts,P235,burgundy,4,en face,104.77,1,4,0,0.0
+2008,7,26,UK,2051,blouses,P061,gray,4,profile,98.73,1,5,0,0.0
+2008,6,17,Australia,3761,skirts,P186,black,3,en face,89.79,1,4,0,0.0
+2008,4,19,UK,4436,sale,P005,green,3,en face,130.86,2,3,0,0.0
+2008,4,6,France,3431,sale,P012,pink,3,en face,77.16,1,5,0,0.0
+2008,6,12,Australia,8191,trousers,P240,gray,2,en face,131.09,2,2,1,145.39
+2008,4,27,Australia,8754,trousers,P146,violet,5,profile,161.21,2,5,0,0.0
+2008,5,28,Australia,7070,blouses,P244,navy blue,3,profile,40.71,1,4,0,0.0
+2008,8,16,UK,4362,sale,P037,beige,1,profile,106.11,1,1,0,0.0
+2008,4,11,Germany,1772,skirts,P146,brown,4,en face,179.3,2,3,0,0.0
+2008,5,5,Australia,3512,skirts,P278,olive,2,profile,123.92,2,2,1,165.96
+2008,4,16,Australia,272,trousers,P114,green,4,profile,156.61,2,3,0,0.0
+2008,8,21,Italy,8437,trousers,P235,navy blue,4,en face,158.65,2,4,0,0.0
+2008,4,28,UK,2033,sale,P235,pink,6,profile,94.99,1,5,1,213.67
+2008,6,28,Australia,9665,sale,P061,olive,2,profile,183.48,2,1,0,0.0
+2008,6,15,India,3811,trousers,P250,violet,3,en face,157.37,2,5,0,0.0
+2008,7,10,Sweden,4347,blouses,P024,gray,5,en face,53.02,1,4,0,0.0
+2008,8,18,USA,546,trousers,P192,green,5,profile,88.09,1,4,0,0.0
+2008,5,3,Germany,3242,skirts,P213,brown,1,profile,36.48,1,1,0,0.0
+2008,6,5,Sweden,8503,blouses,P023,blue,4,profile,127.28,2,5,0,0.0
+2008,5,12,France,9919,trousers,P265,violet,4,en face,52.7,1,5,0,0.0
+2008,7,26,Italy,7565,sale,P096,burgundy,5,en face,112.45,2,2,0,0.0
+2008,6,1,France,921,skirts,P070,burgundy,2,profile,198.74,2,5,0,0.0
+2008,5,15,UK,9119,sale,P092,beige,3,profile,23.92,1,4,0,0.0
+2008,4,19,USA,6641,blouses,P284,white,6,profile,169.64,2,3,0,0.0
+2008,6,5,India,7695,blouses,P148,pink,5,en face,177.96,2,1,1,353.05
+2008,4,2,India,8231,sale,P182,brown,2,en face,149.84,2,5,0,0.0
+2008,7,18,Germany,7127,blouses,P053,beige,4,en face,52.7,1,5,0,0.0
+2008,8,21,USA,4279,sale,P065,pink,3,en face,172.54,2,2,0,0.0
+2008,4,3,Germany,2984,blouses,P238,blue,1,en face,46.29,1,3,0,0.0
+2008,6,1,Italy,131,blouses,P288,white,6,en face,113.8,2,3,0,0.0
+2008,8,25,Italy,7981,blouses,P229,burgundy,6,profile,154.23,2,1,0,0.0
+2008,7,17,Australia,2668,trousers,P147,black,3,profile,74.82,1,4,0,0.0
+2008,6,3,Italy,7139,blouses,P179,black,1,en face,172.15,2,1,0,0.0
+2008,7,28,USA,3224,skirts,P171,black,4,en face,142.99,2,1,0,0.0
+2008,7,28,Italy,7694,skirts,P048,burgundy,3,en face,115.49,2,1,0,0.0
+2008,6,15,USA,5393,skirts,P249,pink,1,en face,178.08,2,1,0,0.0
+2008,4,5,France,615,sale,P006,blue,3,profile,151.27,2,3,0,0.0
+2008,5,13,USA,9903,sale,P050,navy blue,4,en face,168.88,2,3,0,0.0
+2008,8,8,Germany,1467,sale,P206,pink,4,profile,23.04,1,5,0,0.0
+2008,6,23,Sweden,4498,blouses,P157,brown,6,profile,54.11,1,4,0,0.0
+2008,7,21,UK,3043,sale,P189,pink,6,en face,97.01,1,4,0,0.0
+2008,7,16,USA,2420,trousers,P288,blue,6,profile,114.61,2,2,0,0.0
+2008,4,15,Sweden,5086,blouses,P075,black,4,profile,193.73,2,3,0,0.0
+2008,8,14,USA,3295,sale,P110,brown,3,profile,107.68,2,1,0,0.0
+2008,8,27,Sweden,6738,sale,P018,beige,5,en face,14.94,1,5,0,0.0
+2008,7,24,UK,1501,blouses,P292,green,1,en face,103.22,1,4,0,0.0
+2008,8,23,USA,1522,sale,P120,gray,1,profile,108.98,2,4,0,0.0
+2008,7,13,Germany,9118,trousers,P111,red,5,profile,81.4,1,3,0,0.0
+2008,7,19,Australia,4233,trousers,P193,brown,3,profile,147.88,2,5,0,0.0
+2008,4,1,Australia,7687,blouses,P016,gray,6,en face,128.82,2,5,0,0.0
+2008,6,18,USA,4431,trousers,P205,red,3,profile,128.57,2,1,0,0.0
+2008,4,18,Germany,391,blouses,P060,burgundy,1,en face,183.27,2,2,0,0.0
+2008,8,24,UK,9859,sale,P219,gray,6,en face,159.63,2,1,0,0.0
+2008,5,6,Australia,7125,blouses,P017,gray,2,profile,189.93,2,5,0,0.0
+2008,5,18,Germany,5914,skirts,P127,blue,6,profile,130.03,2,4,0,0.0
+2008,5,8,USA,8593,skirts,P050,violet,1,profile,29.2,1,2,0,0.0
+2008,4,9,India,4807,trousers,P005,green,6,en face,103.71,1,5,0,0.0
+2008,4,25,Australia,8955,blouses,P154,olive,6,en face,194.97,2,3,0,0.0
+2008,8,20,India,8239,skirts,P215,red,4,en face,180.06,2,5,0,0.0
+2008,4,8,USA,8045,trousers,P272,black,3,profile,167.46,2,2,0,0.0
+2008,5,6,Australia,9783,sale,P259,black,4,en face,63.02,1,1,0,0.0
+2008,4,27,India,3994,trousers,P221,beige,6,en face,116.44,2,1,0,0.0
+2008,4,26,India,9552,sale,P264,blue,5,en face,163.94,2,5,0,0.0
+2008,5,20,UK,6610,skirts,P020,beige,3,profile,144.43,2,3,0,0.0
+2008,4,26,Germany,5320,skirts,P176,olive,6,en face,100.39,1,1,0,0.0
+2008,7,11,Australia,7120,sale,P076,violet,1,profile,187.01,2,4,1,543.32
+2008,5,16,UK,2422,sale,P244,pink,5,en face,182.54,2,1,0,0.0
+2008,4,23,Australia,5605,trousers,P289,navy blue,6,en face,155.48,2,4,1,232.29
+2008,4,15,France,1751,skirts,P284,navy blue,5,en face,169.71,2,5,0,0.0
+2008,8,3,UK,9016,trousers,P272,olive,5,profile,59.09,1,3,0,0.0
+2008,6,4,Sweden,9719,sale,P244,red,6,profile,191.19,2,1,0,0.0
+2008,8,19,India,339,trousers,P028,pink,1,en face,196.4,2,1,0,0.0
+2008,4,5,USA,8408,sale,P181,green,1,en face,135.53,2,1,0,0.0
+2008,4,8,Sweden,1342,sale,P282,violet,3,profile,30.49,1,5,0,0.0
+2008,7,7,USA,9545,blouses,P288,burgundy,5,profile,145.44,2,5,0,0.0
+2008,7,21,USA,7983,sale,P087,blue,3,profile,119.18,2,4,0,0.0
+2008,6,17,India,3641,sale,P013,green,3,en face,149.8,2,2,0,0.0
+2008,5,10,Germany,330,trousers,P172,burgundy,5,profile,73.97,1,1,0,0.0
+2008,7,10,India,8829,trousers,P258,red,1,en face,37.55,1,2,0,0.0
+2008,5,22,USA,3005,trousers,P080,white,6,en face,163.3,2,4,0,0.0
+2008,7,13,Italy,6961,skirts,P130,navy blue,4,en face,199.04,2,1,0,0.0
+2008,7,26,Germany,4091,blouses,P071,brown,3,profile,95.0,1,5,0,0.0
+2008,8,16,Australia,2323,trousers,P167,navy blue,5,en face,115.6,2,2,0,0.0
+2008,4,16,Italy,6668,sale,P188,brown,6,profile,104.57,1,1,1,237.87
+2008,5,3,Australia,7010,skirts,P189,blue,3,en face,159.62,2,1,0,0.0
+2008,6,9,India,4198,sale,P142,green,5,en face,96.45,1,1,0,0.0
+2008,4,22,Germany,3550,sale,P014,pink,1,profile,146.65,2,3,1,416.54
+2008,7,24,Germany,8364,blouses,P243,beige,5,en face,11.93,1,3,0,0.0
+2008,7,16,UK,4204,blouses,P009,white,6,profile,114.19,2,2,1,143.93
+2008,6,23,India,9311,sale,P082,burgundy,1,en face,49.27,1,3,0,0.0
+2008,8,16,Italy,8937,sale,P001,red,3,profile,141.96,2,3,0,0.0
+2008,6,28,France,6186,blouses,P175,beige,5,profile,198.03,2,3,0,0.0
+2008,6,14,Italy,1640,trousers,P119,blue,4,en face,187.75,2,5,0,0.0
+2008,5,25,Australia,61,sale,P045,green,4,profile,192.92,2,3,0,0.0
+2008,4,17,India,1241,blouses,P255,black,5,profile,139.04,2,1,0,0.0
+2008,8,17,India,5761,sale,P224,violet,6,profile,63.13,1,2,0,0.0
+2008,7,16,USA,5137,skirts,P124,olive,2,profile,118.45,2,4,0,0.0
+2008,6,2,UK,2344,blouses,P213,brown,1,profile,170.53,2,3,0,0.0
+2008,4,16,USA,2121,skirts,P220,black,1,en face,171.35,2,3,0,0.0
+2008,6,8,France,1525,skirts,P191,black,4,en face,109.58,2,4,0,0.0
+2008,4,24,Italy,7618,trousers,P245,beige,5,profile,116.37,2,1,0,0.0
+2008,4,1,Italy,154,trousers,P100,green,4,profile,182.43,2,1,0,0.0
+2008,7,5,Italy,482,trousers,P195,brown,1,en face,161.68,2,3,0,0.0
+2008,8,19,France,6123,trousers,P215,blue,1,profile,195.66,2,1,0,0.0
+2008,4,1,Australia,7675,skirts,P109,beige,2,profile,73.55,1,1,1,133.99
+2008,5,10,Sweden,7102,sale,P078,red,1,en face,166.49,2,5,0,0.0
+2008,4,8,Italy,1763,blouses,P090,red,6,profile,120.49,2,2,0,0.0
+2008,5,26,Australia,7716,blouses,P116,burgundy,4,profile,196.52,2,1,0,0.0
+2008,7,20,Australia,9082,blouses,P104,beige,2,profile,157.18,2,3,0,0.0
+2008,4,25,USA,7480,trousers,P154,brown,2,profile,73.39,1,5,0,0.0
+2008,7,16,India,6213,blouses,P170,brown,6,profile,19.67,1,1,0,0.0
+2008,6,14,USA,4854,blouses,P293,gray,1,en face,145.67,2,2,0,0.0
+2008,4,5,India,2712,skirts,P172,brown,3,profile,118.92,2,4,0,0.0
+2008,6,14,Germany,6767,sale,P027,burgundy,1,profile,115.45,2,3,0,0.0
+2008,8,8,USA,4151,trousers,P292,pink,2,en face,114.16,2,2,0,0.0
+2008,4,20,Sweden,1334,blouses,P100,olive,2,en face,155.8,2,5,0,0.0
+2008,6,10,UK,8379,skirts,P280,violet,1,profile,58.12,1,3,0,0.0
+2008,8,25,France,9390,trousers,P291,olive,2,profile,143.02,2,2,0,0.0
+2008,8,18,USA,9708,trousers,P263,pink,5,profile,162.74,2,3,0,0.0
+2008,7,2,UK,9122,sale,P071,burgundy,5,profile,20.98,1,1,0,0.0
+2008,8,25,Italy,3851,trousers,P197,green,5,en face,16.74,1,1,0,0.0
+2008,5,3,Italy,8341,sale,P224,pink,6,profile,133.89,2,5,0,0.0
+2008,4,6,Sweden,4125,blouses,P109,blue,1,en face,27.85,1,3,0,0.0
+2008,5,2,France,8964,sale,P062,red,4,en face,21.75,1,2,0,0.0
+2008,7,9,France,4789,sale,P282,pink,2,en face,88.34,1,1,0,0.0
+2008,6,12,Sweden,2867,blouses,P083,green,5,profile,56.37,1,4,0,0.0
+2008,4,6,India,1387,sale,P080,white,4,profile,17.67,1,4,0,0.0
+2008,4,27,USA,5942,trousers,P139,navy blue,1,en face,117.69,2,4,1,172.72
+2008,5,17,Germany,3068,skirts,P137,green,6,profile,169.4,2,5,0,0.0
+2008,4,26,Sweden,9059,blouses,P125,black,6,profile,162.25,2,3,0,0.0
+2008,4,23,Australia,3630,blouses,P248,blue,4,profile,63.13,1,5,0,0.0
+2008,5,5,Australia,9456,sale,P246,burgundy,1,profile,22.29,1,4,0,0.0
+2008,5,28,Italy,8950,sale,P244,navy blue,6,profile,50.03,1,1,0,0.0
+2008,6,14,Italy,3029,blouses,P260,blue,6,profile,89.23,1,5,0,0.0
+2008,5,15,UK,2970,blouses,P170,olive,6,en face,158.18,2,2,0,0.0
+2008,5,20,Australia,8647,skirts,P187,brown,2,en face,154.1,2,2,0,0.0
+2008,8,15,UK,6137,skirts,P187,brown,5,profile,140.06,2,2,0,0.0
+2008,4,22,USA,8802,skirts,P208,beige,4,en face,45.91,1,4,0,0.0
+2008,5,19,India,4264,blouses,P254,olive,5,profile,16.55,1,3,0,0.0
+2008,5,13,Sweden,646,sale,P050,violet,4,en face,182.3,2,2,0,0.0
+2008,8,18,Italy,9654,trousers,P104,brown,5,profile,159.29,2,5,1,224.24
+2008,7,12,Italy,2075,skirts,P148,pink,6,profile,133.15,2,4,0,0.0
+2008,7,17,India,342,trousers,P232,navy blue,5,profile,101.67,1,3,0,0.0
+2008,7,24,USA,8042,trousers,P059,blue,3,en face,74.98,1,5,0,0.0
+2008,5,8,Australia,1623,sale,P170,brown,2,profile,188.67,2,1,0,0.0
+2008,8,24,India,7142,blouses,P298,navy blue,3,en face,197.95,2,3,1,441.82
+2008,5,24,Germany,5797,sale,P103,blue,2,en face,29.29,1,4,0,0.0
+2008,7,28,USA,7185,sale,P164,red,4,en face,69.26,1,4,0,0.0
+2008,8,3,USA,8233,sale,P146,red,3,profile,170.51,2,2,0,0.0
+2008,6,23,Italy,5476,blouses,P068,green,4,profile,133.78,2,5,0,0.0
+2008,6,19,Australia,9253,blouses,P028,pink,3,en face,112.59,2,1,0,0.0
+2008,8,2,Sweden,75,skirts,P116,red,1,en face,17.45,1,5,0,0.0
+2008,5,19,Italy,8634,sale,P008,black,1,profile,143.79,2,4,0,0.0
+2008,5,10,Germany,9230,blouses,P220,navy blue,5,en face,106.59,2,5,0,0.0
+2008,5,10,UK,2052,blouses,P038,pink,5,en face,104.62,1,1,0,0.0
+2008,6,2,Australia,2542,blouses,P013,gray,5,en face,30.55,1,4,0,0.0
+2008,5,5,USA,1302,trousers,P042,black,1,en face,104.09,1,1,1,163.67
+2008,8,4,Sweden,5878,blouses,P043,white,2,profile,20.76,1,4,0,0.0
+2008,4,15,UK,7369,trousers,P063,violet,1,profile,66.97,1,1,0,0.0
+2008,6,28,Italy,1305,skirts,P190,burgundy,1,en face,130.63,2,4,0,0.0
+2008,4,11,USA,8429,blouses,P045,violet,3,en face,76.14,1,2,0,0.0
+2008,4,17,France,9095,blouses,P040,red,2,en face,59.54,1,5,0,0.0
+2008,5,20,Italy,2600,blouses,P105,green,3,profile,41.58,1,1,0,0.0
+2008,4,16,Sweden,2574,trousers,P122,green,6,en face,149.7,2,2,0,0.0
+2008,8,7,USA,3187,trousers,P105,brown,1,en face,10.08,1,3,1,28.78
+2008,4,18,Sweden,2769,skirts,P129,white,2,profile,102.52,1,3,0,0.0
+2008,4,7,India,4832,trousers,P094,olive,1,en face,194.99,2,1,0,0.0
+2008,5,6,Australia,4224,skirts,P076,black,1,en face,150.04,2,3,1,381.87
+2008,7,21,France,9650,trousers,P064,red,2,profile,55.16,1,4,0,0.0
+2008,6,24,Australia,2107,trousers,P113,brown,5,en face,27.95,1,4,0,0.0
+2008,8,13,Italy,2680,trousers,P269,violet,1,profile,89.89,1,5,0,0.0
+2008,4,24,Germany,1388,blouses,P238,green,5,profile,181.18,2,1,0,0.0
+2008,7,27,France,8932,sale,P130,blue,2,en face,27.56,1,1,0,0.0
+2008,7,2,USA,9660,sale,P123,pink,6,profile,140.43,2,2,0,0.0
+2008,5,7,UK,7084,skirts,P178,gray,6,profile,87.71,1,5,1,251.68
+2008,5,12,India,1280,trousers,P216,red,5,en face,136.05,2,2,0,0.0
+2008,5,8,Italy,805,skirts,P048,beige,1,profile,137.76,2,2,0,0.0
+2008,8,23,UK,1556,blouses,P220,burgundy,4,en face,167.68,2,4,0,0.0
+2008,5,26,UK,9487,blouses,P197,burgundy,6,profile,184.75,2,3,0,0.0
+2008,7,21,Australia,4567,sale,P090,gray,2,en face,141.12,2,3,0,0.0
+2008,8,1,Italy,9670,sale,P078,white,6,en face,140.83,2,2,0,0.0
+2008,6,4,France,4842,sale,P169,violet,4,profile,132.8,2,5,0,0.0
+2008,4,19,UK,3595,sale,P018,black,4,en face,115.35,2,3,0,0.0
+2008,6,12,Sweden,6036,trousers,P207,olive,5,en face,120.66,2,2,0,0.0
+2008,8,13,UK,6853,trousers,P213,white,5,profile,24.27,1,5,0,0.0
+2008,5,15,Australia,8706,trousers,P246,olive,4,en face,153.79,2,5,0,0.0
+2008,6,21,Italy,4178,trousers,P215,red,4,en face,31.39,1,5,1,69.12
+2008,7,21,UK,1309,skirts,P058,gray,3,profile,49.86,1,4,0,0.0
+2008,5,27,Italy,3453,trousers,P016,violet,5,en face,118.47,2,1,0,0.0
+2008,8,21,Australia,3696,skirts,P197,black,6,en face,126.46,2,3,0,0.0
+2008,5,28,India,4243,skirts,P135,green,6,en face,33.59,1,2,0,0.0
+2008,7,4,India,2199,trousers,P049,green,5,profile,21.77,1,5,0,0.0
+2008,8,1,UK,4426,blouses,P147,brown,5,en face,169.16,2,3,0,0.0
+2008,4,12,France,6151,sale,P144,brown,5,profile,83.33,1,1,0,0.0
+2008,6,24,USA,944,sale,P118,pink,4,en face,60.7,1,1,0,0.0
+2008,5,25,France,823,blouses,P128,burgundy,3,profile,57.16,1,5,0,0.0
+2008,8,1,Germany,5006,trousers,P143,pink,2,profile,41.51,1,1,0,0.0
+2008,5,18,Italy,6613,trousers,P227,green,3,en face,162.15,2,1,0,0.0
+2008,5,9,USA,8357,blouses,P075,beige,5,profile,11.1,1,3,0,0.0
+2008,5,7,Sweden,5620,sale,P136,beige,6,en face,115.52,2,1,0,0.0
+2008,6,17,USA,4548,sale,P021,red,6,en face,17.19,1,2,0,0.0
+2008,7,16,India,2539,blouses,P226,beige,2,profile,43.98,1,1,1,78.01
+2008,6,5,Germany,5208,blouses,P144,white,3,profile,124.74,2,3,0,0.0
+2008,7,23,Australia,9515,blouses,P189,beige,6,profile,121.31,2,5,0,0.0
+2008,5,21,France,9010,trousers,P280,beige,2,en face,160.14,2,1,0,0.0
+2008,7,1,Sweden,3055,trousers,P139,gray,1,profile,90.46,1,1,0,0.0
+2008,8,19,Sweden,3676,sale,P128,navy blue,5,en face,86.33,1,4,0,0.0
+2008,4,12,Sweden,7777,blouses,P094,black,5,en face,138.77,2,1,1,381.3
+2008,8,3,Germany,7219,blouses,P264,gray,5,profile,90.9,1,3,0,0.0
+2008,5,24,UK,6723,blouses,P099,black,5,profile,127.55,2,1,0,0.0
+2008,4,22,Sweden,3301,blouses,P103,violet,6,en face,103.72,1,2,0,0.0
+2008,5,28,India,3311,blouses,P169,gray,2,en face,111.15,2,5,0,0.0
+2008,7,20,India,7222,skirts,P115,white,1,en face,165.84,2,2,0,0.0
+2008,5,20,Germany,8520,blouses,P260,blue,5,profile,37.68,1,5,0,0.0
+2008,5,1,Sweden,5955,sale,P124,black,4,profile,111.9,2,4,0,0.0
+2008,5,1,Germany,833,trousers,P118,violet,4,profile,87.29,1,4,1,114.53
+2008,8,12,USA,3463,sale,P289,black,3,profile,37.38,1,4,0,0.0
+2008,6,3,USA,7644,sale,P162,olive,4,profile,152.65,2,3,0,0.0
+2008,6,19,USA,55,blouses,P185,brown,4,profile,188.11,2,3,0,0.0
+2008,8,26,Australia,3452,blouses,P010,burgundy,2,en face,152.87,2,2,0,0.0
+2008,8,20,India,6306,sale,P222,pink,4,profile,192.66,2,1,0,0.0
+2008,8,27,USA,1482,trousers,P124,white,5,profile,182.29,2,2,0,0.0
+2008,6,25,Germany,4874,skirts,P264,beige,1,profile,63.65,1,5,0,0.0
+2008,4,5,Germany,8039,sale,P055,navy blue,1,profile,161.71,2,2,0,0.0
+2008,4,13,Sweden,3336,blouses,P135,navy blue,6,profile,136.79,2,5,0,0.0
+2008,8,12,Italy,6017,blouses,P299,blue,1,profile,127.44,2,4,0,0.0
+2008,4,7,UK,4927,skirts,P213,white,6,en face,79.78,1,1,0,0.0
+2008,5,7,France,5798,skirts,P113,olive,6,en face,82.08,1,4,0,0.0
+2008,6,18,France,9832,trousers,P218,beige,3,en face,117.83,2,4,0,0.0
+2008,7,6,UK,5084,trousers,P223,brown,2,en face,112.21,2,4,0,0.0
+2008,4,20,France,6646,trousers,P277,beige,4,en face,65.99,1,1,0,0.0
+2008,6,2,USA,5491,sale,P241,burgundy,6,en face,30.12,1,5,0,0.0
+2008,8,19,France,769,skirts,P009,violet,2,profile,175.75,2,3,0,0.0
+2008,7,17,France,2066,skirts,P295,violet,2,en face,65.33,1,2,0,0.0
+2008,8,6,UK,9501,sale,P171,navy blue,6,en face,162.29,2,2,0,0.0
+2008,8,3,Sweden,7312,skirts,P213,burgundy,1,profile,12.21,1,5,0,0.0
+2008,4,25,UK,8478,trousers,P187,white,6,profile,97.15,1,5,0,0.0
+2008,4,6,Sweden,4525,blouses,P276,blue,2,profile,170.46,2,5,0,0.0
+2008,5,17,Italy,2718,trousers,P298,brown,1,en face,180.01,2,4,0,0.0
+2008,7,25,Sweden,2080,skirts,P296,brown,5,en face,178.19,2,3,0,0.0
+2008,7,6,India,8915,blouses,P064,black,6,en face,128.85,2,2,1,196.34
+2008,6,21,Australia,952,skirts,P026,navy blue,4,profile,24.21,1,4,0,0.0
+2008,5,27,India,8059,trousers,P200,white,4,profile,36.36,1,3,1,100.04
+2008,5,7,Germany,2483,trousers,P060,black,2,en face,173.62,2,2,0,0.0
+2008,5,22,Sweden,1760,skirts,P027,green,4,profile,188.44,2,3,0,0.0
+2008,7,24,Germany,4423,trousers,P136,navy blue,6,en face,133.95,2,4,0,0.0
+2008,4,15,Italy,6705,trousers,P146,navy blue,6,profile,171.1,2,5,0,0.0
+2008,6,1,France,5183,sale,P169,pink,5,en face,103.31,1,2,0,0.0
+2008,6,12,India,8534,trousers,P104,pink,5,profile,182.17,2,2,0,0.0
+2008,7,13,Sweden,3702,sale,P168,black,1,profile,180.9,2,1,0,0.0
+2008,8,14,Germany,4244,trousers,P086,green,4,profile,186.95,2,4,1,554.9
+2008,4,28,Australia,689,sale,P226,gray,1,en face,40.25,1,1,0,0.0
+2008,7,19,Germany,3433,trousers,P094,red,5,en face,129.41,2,4,0,0.0
+2008,4,21,Australia,4945,sale,P270,pink,5,en face,67.51,1,2,0,0.0
+2008,4,10,Australia,967,trousers,P087,white,3,en face,146.57,2,4,0,0.0
+2008,5,17,Germany,9485,skirts,P253,white,6,profile,81.84,1,3,0,0.0
+2008,5,11,India,2714,trousers,P091,black,1,en face,92.99,1,5,0,0.0
+2008,8,15,Germany,4758,trousers,P182,violet,3,profile,193.16,2,1,0,0.0
+2008,4,6,Sweden,9546,blouses,P106,gray,1,en face,150.76,2,1,0,0.0
+2008,6,13,UK,6321,trousers,P116,red,4,profile,54.43,1,3,0,0.0
+2008,6,7,India,5976,blouses,P219,olive,2,en face,54.16,1,5,0,0.0
+2008,7,10,USA,3573,blouses,P157,brown,6,en face,151.59,2,4,0,0.0
+2008,6,19,Italy,5300,blouses,P195,brown,6,en face,22.76,1,2,0,0.0
+2008,8,6,UK,1991,blouses,P159,burgundy,3,profile,63.51,1,4,0,0.0
+2008,8,13,Germany,1206,trousers,P118,brown,6,en face,135.29,2,1,0,0.0
+2008,4,3,India,4972,blouses,P156,red,2,profile,161.39,2,3,0,0.0
+2008,8,27,UK,6784,blouses,P024,green,4,en face,145.79,2,4,0,0.0
+2008,7,12,Sweden,3601,trousers,P035,black,5,en face,171.62,2,3,0,0.0
+2008,8,18,Sweden,6491,trousers,P237,gray,3,en face,171.01,2,5,0,0.0
+2008,6,21,India,8610,trousers,P023,olive,5,en face,196.16,2,3,0,0.0
+2008,8,14,Australia,9979,skirts,P037,violet,5,profile,168.71,2,2,0,0.0
+2008,8,26,Germany,8071,sale,P014,burgundy,3,profile,104.15,1,1,0,0.0
+2008,5,7,France,8578,trousers,P229,navy blue,6,profile,160.92,2,3,0,0.0
+2008,7,6,Australia,7974,trousers,P173,gray,2,en face,35.43,1,1,0,0.0
+2008,4,23,Germany,1626,trousers,P117,blue,5,profile,13.68,1,1,0,0.0
+2008,6,2,USA,537,trousers,P170,black,1,profile,117.19,2,2,1,131.83
+2008,5,21,Italy,8767,skirts,P141,white,5,en face,40.38,1,5,0,0.0
+2008,5,23,UK,7971,blouses,P198,green,3,profile,153.19,2,1,1,255.31
+2008,7,1,France,4213,blouses,P187,green,4,profile,178.18,2,5,0,0.0
+2008,7,25,France,6457,blouses,P184,navy blue,6,profile,162.5,2,2,0,0.0
+2008,5,11,Germany,3508,sale,P066,pink,2,profile,134.75,2,5,0,0.0
+2008,5,5,Australia,8394,blouses,P291,gray,2,profile,135.27,2,2,1,365.7
+2008,4,18,USA,7113,skirts,P072,burgundy,3,profile,168.23,2,3,0,0.0
+2008,5,1,Germany,2709,sale,P293,pink,4,en face,117.03,2,4,1,202.78
+2008,7,20,UK,5032,sale,P133,black,5,profile,152.04,2,2,0,0.0
+2008,7,3,Australia,6515,trousers,P114,pink,1,profile,17.3,1,3,0,0.0
+2008,4,10,Australia,4663,sale,P004,red,5,en face,85.69,1,4,0,0.0
+2008,7,11,Australia,4022,sale,P011,navy blue,3,profile,179.14,2,1,0,0.0
+2008,4,26,USA,1855,skirts,P201,white,6,en face,50.61,1,4,0,0.0
+2008,8,2,Germany,9426,skirts,P146,beige,3,profile,195.43,2,1,0,0.0
+2008,4,2,Italy,2873,trousers,P235,burgundy,4,en face,55.44,1,3,0,0.0
+2008,5,3,Italy,3031,skirts,P217,beige,3,en face,109.61,2,5,0,0.0
+2008,4,18,France,1646,sale,P071,black,1,profile,55.03,1,5,0,0.0
+2008,4,25,Germany,3418,blouses,P144,burgundy,1,en face,190.22,2,5,0,0.0
+2008,5,16,Sweden,3477,trousers,P072,black,5,profile,125.99,2,1,0,0.0
+2008,6,14,UK,9553,skirts,P217,white,6,profile,61.42,1,2,0,0.0
+2008,4,8,Australia,1793,blouses,P195,navy blue,5,en face,116.43,2,2,0,0.0
+2008,6,6,UK,3798,blouses,P258,pink,2,en face,57.49,1,3,1,74.52
+2008,8,25,Sweden,3369,trousers,P232,gray,2,profile,24.28,1,1,0,0.0
+2008,5,3,India,7197,blouses,P270,green,2,profile,182.97,2,2,0,0.0
+2008,5,8,USA,9642,blouses,P188,olive,1,en face,178.74,2,2,0,0.0
+2008,5,11,Italy,5110,blouses,P162,brown,4,en face,83.11,1,3,0,0.0
+2008,5,19,Germany,6025,sale,P113,white,3,en face,90.35,1,2,0,0.0
+2008,7,3,France,8796,skirts,P098,beige,3,profile,125.36,2,2,0,0.0
+2008,6,6,Sweden,9295,trousers,P183,violet,2,en face,31.9,1,2,0,0.0
+2008,8,27,Australia,127,trousers,P026,burgundy,6,profile,100.7,1,3,0,0.0
+2008,5,21,UK,5960,blouses,P104,beige,4,profile,84.03,1,3,0,0.0
+2008,5,18,Australia,3877,sale,P260,beige,6,en face,49.44,1,2,1,55.47
+2008,5,7,Sweden,4452,sale,P087,olive,5,en face,181.94,2,4,0,0.0
+2008,5,6,France,7148,sale,P025,black,1,en face,94.95,1,5,0,0.0
+2008,6,14,UK,3532,skirts,P241,beige,3,profile,50.54,1,5,0,0.0
+2008,7,14,UK,828,blouses,P036,gray,5,profile,118.52,2,4,0,0.0
+2008,7,1,USA,7791,trousers,P270,brown,6,profile,46.16,1,5,0,0.0
+2008,6,25,UK,985,blouses,P259,violet,5,profile,141.45,2,2,1,329.54
+2008,4,5,France,7784,trousers,P278,pink,5,profile,104.06,1,4,0,0.0
+2008,6,25,Sweden,2444,skirts,P270,brown,3,en face,168.91,2,3,0,0.0
+2008,7,15,France,8555,sale,P285,navy blue,5,profile,155.35,2,2,0,0.0
+2008,5,7,India,346,skirts,P279,green,5,en face,147.84,2,4,1,338.8
+2008,5,20,Australia,815,blouses,P198,black,5,profile,52.17,1,4,0,0.0
+2008,5,10,Germany,6167,sale,P031,gray,1,en face,186.23,2,5,0,0.0
+2008,6,28,Germany,5780,sale,P205,gray,6,en face,183.99,2,4,0,0.0
+2008,6,19,Sweden,2117,skirts,P093,white,6,profile,163.76,2,1,0,0.0
+2008,5,8,Italy,794,blouses,P046,white,2,profile,48.47,1,1,1,88.18
+2008,5,22,Germany,6899,sale,P233,gray,6,profile,163.69,2,1,0,0.0
+2008,6,4,Italy,2675,skirts,P087,black,1,en face,159.49,2,5,0,0.0
+2008,4,21,Italy,95,skirts,P048,pink,5,en face,124.92,2,4,0,0.0
+2008,4,26,Sweden,4226,trousers,P109,brown,3,en face,14.54,1,1,0,0.0
+2008,8,14,Australia,3757,blouses,P288,pink,2,profile,25.31,1,3,0,0.0
+2008,7,11,Sweden,2892,sale,P017,white,6,en face,187.22,2,5,0,0.0
+2008,8,2,Germany,2372,skirts,P010,violet,4,profile,114.57,2,3,0,0.0
+2008,4,16,Germany,9389,sale,P113,white,1,profile,48.71,1,4,0,0.0
+2008,8,3,UK,3229,trousers,P240,pink,3,profile,151.73,2,3,1,438.4
+2008,5,17,France,7864,blouses,P068,red,3,en face,101.87,1,4,0,0.0
+2008,7,3,Italy,6360,sale,P229,beige,2,en face,114.76,2,5,0,0.0
+2008,8,25,Sweden,9197,skirts,P039,white,4,en face,134.6,2,2,0,0.0
+2008,6,1,Italy,7327,skirts,P273,blue,4,profile,62.21,1,4,0,0.0
+2008,6,24,Australia,6029,sale,P046,navy blue,6,en face,145.57,2,5,0,0.0
+2008,6,17,Sweden,1866,trousers,P249,navy blue,4,en face,43.59,1,2,0,0.0
+2008,4,21,Germany,4613,blouses,P241,green,3,en face,153.39,2,5,0,0.0
+2008,7,16,Sweden,2646,trousers,P169,navy blue,3,profile,77.15,1,2,0,0.0
+2008,8,21,Italy,2244,blouses,P034,white,3,profile,161.84,2,3,0,0.0
+2008,7,23,USA,5374,skirts,P007,blue,4,en face,180.89,2,2,0,0.0
+2008,7,21,India,2337,skirts,P029,pink,3,en face,134.58,2,5,0,0.0
+2008,7,25,Italy,951,sale,P120,pink,1,profile,58.66,1,3,0,0.0
+2008,5,21,India,1121,skirts,P206,blue,5,en face,157.53,2,5,0,0.0
+2008,8,11,France,2205,skirts,P034,red,1,en face,122.57,2,5,0,0.0
+2008,7,10,France,420,blouses,P040,red,2,profile,124.38,2,4,0,0.0
+2008,8,3,Sweden,923,trousers,P234,violet,1,profile,82.72,1,4,0,0.0
+2008,7,25,France,8670,skirts,P074,white,6,profile,38.04,1,5,0,0.0
+2008,8,1,India,5409,skirts,P061,blue,2,en face,194.79,2,2,0,0.0
+2008,7,6,Italy,5789,sale,P069,navy blue,5,profile,58.18,1,3,0,0.0
+2008,7,17,Australia,5743,blouses,P125,gray,6,en face,12.02,1,5,0,0.0
+2008,5,18,Sweden,7668,trousers,P071,blue,1,profile,193.59,2,5,0,0.0
+2008,8,13,Sweden,5568,blouses,P167,violet,4,profile,172.78,2,4,1,232.3
+2008,4,9,UK,8136,skirts,P239,white,6,en face,54.5,1,1,0,0.0
+2008,6,26,UK,1203,sale,P070,olive,3,profile,189.29,2,1,0,0.0
+2008,5,3,UK,5766,sale,P238,beige,5,profile,108.1,2,2,0,0.0
+2008,6,1,Australia,8390,trousers,P058,brown,2,en face,17.11,1,3,0,0.0
+2008,4,25,USA,1971,skirts,P121,white,2,profile,98.29,1,3,0,0.0
+2008,5,12,Germany,4019,blouses,P072,violet,4,en face,146.64,2,3,0,0.0
+2008,4,2,Italy,3688,skirts,P294,brown,5,en face,74.83,1,5,0,0.0
+2008,4,12,India,1998,trousers,P196,blue,1,en face,171.43,2,4,0,0.0
+2008,8,2,USA,4034,trousers,P126,beige,2,profile,49.97,1,2,0,0.0
+2008,8,11,Australia,1249,sale,P108,olive,4,profile,49.48,1,1,0,0.0
+2008,8,10,India,2193,blouses,P152,black,6,profile,127.54,2,1,0,0.0
+2008,8,12,Sweden,2713,skirts,P123,violet,5,profile,34.85,1,3,0,0.0
+2008,7,13,Italy,2191,sale,P187,olive,4,en face,13.51,1,4,0,0.0
+2008,4,11,Germany,4671,blouses,P108,red,2,profile,115.27,2,4,0,0.0
+2008,4,7,Sweden,5143,blouses,P266,red,2,en face,89.54,1,1,0,0.0
+2008,6,11,USA,5985,skirts,P193,burgundy,3,profile,15.64,1,3,1,28.74
+2008,5,11,India,6566,sale,P224,green,3,profile,123.12,2,5,1,322.06
+2008,5,5,UK,7805,trousers,P165,olive,3,en face,29.76,1,4,0,0.0
+2008,4,5,Italy,6944,skirts,P179,green,3,en face,145.54,2,2,0,0.0
+2008,7,13,France,2137,blouses,P011,olive,4,en face,80.58,1,1,0,0.0
+2008,7,26,Germany,1066,trousers,P151,pink,5,en face,101.81,1,1,0,0.0
+2008,6,3,India,601,blouses,P067,black,3,profile,139.07,2,2,0,0.0
+2008,8,6,Germany,4228,trousers,P181,violet,6,en face,22.49,1,2,0,0.0
+2008,7,11,Sweden,7578,skirts,P115,brown,1,profile,123.33,2,5,0,0.0
+2008,7,2,Germany,78,skirts,P192,burgundy,6,profile,101.15,1,4,1,199.09
+2008,4,21,UK,7547,sale,P211,burgundy,4,en face,15.7,1,4,0,0.0
+2008,7,26,USA,2899,trousers,P087,pink,5,profile,106.76,1,5,0,0.0
+2008,4,18,USA,4821,sale,P166,blue,1,profile,41.99,1,2,0,0.0
+2008,8,28,Italy,9303,trousers,P257,pink,6,en face,49.96,1,5,0,0.0
+2008,8,22,France,6414,trousers,P180,blue,4,profile,91.48,1,3,0,0.0
+2008,7,22,Italy,9065,trousers,P216,violet,5,profile,132.78,2,5,0,0.0
+2008,8,15,France,8008,skirts,P264,green,2,profile,72.16,1,4,0,0.0
+2008,4,5,UK,5469,blouses,P058,gray,4,en face,19.76,1,4,1,46.4
+2008,5,11,UK,5952,skirts,P092,violet,3,en face,151.58,2,4,0,0.0
+2008,8,16,Sweden,3392,sale,P049,green,3,en face,199.9,2,5,0,0.0
+2008,7,19,India,5416,trousers,P072,navy blue,3,en face,10.69,1,5,0,0.0
+2008,8,26,India,2561,blouses,P026,blue,3,profile,80.41,1,2,0,0.0
+2008,6,9,Australia,8163,sale,P038,violet,2,en face,31.09,1,5,0,0.0
+2008,6,16,Australia,2636,trousers,P018,red,6,profile,24.79,1,1,0,0.0
+2008,6,16,Italy,5257,blouses,P059,beige,4,profile,98.54,1,4,0,0.0
+2008,7,2,Italy,3531,trousers,P244,pink,5,profile,187.89,2,3,0,0.0
+2008,5,27,Australia,8568,sale,P248,violet,6,en face,102.87,1,2,0,0.0
+2008,7,21,Germany,1909,skirts,P056,olive,5,en face,92.72,1,2,0,0.0
+2008,5,12,Germany,236,skirts,P217,violet,5,profile,197.62,2,2,0,0.0
+2008,8,26,Germany,1605,sale,P008,brown,4,en face,119.56,2,1,0,0.0
+2008,7,11,India,7985,blouses,P228,olive,1,profile,193.33,2,2,0,0.0
+2008,7,4,USA,3491,sale,P296,gray,3,profile,106.21,1,5,0,0.0
+2008,5,28,Italy,1995,sale,P288,white,2,profile,24.76,1,1,0,0.0
+2008,7,15,Sweden,2825,trousers,P251,beige,1,profile,156.43,2,5,0,0.0
+2008,6,9,Sweden,9286,trousers,P244,green,4,en face,18.94,1,1,0,0.0
+2008,6,10,India,1343,skirts,P197,gray,4,profile,77.47,1,5,0,0.0
+2008,4,27,UK,8513,skirts,P158,beige,5,profile,189.4,2,2,0,0.0
+2008,5,20,Italy,1620,blouses,P224,white,2,en face,155.73,2,2,0,0.0
+2008,6,28,Sweden,5288,sale,P125,olive,6,profile,56.63,1,1,0,0.0
+2008,8,9,Sweden,2061,skirts,P028,gray,1,profile,149.22,2,1,1,261.02
+2008,6,20,USA,9956,sale,P180,gray,5,profile,193.68,2,4,0,0.0
+2008,8,24,India,2220,skirts,P239,violet,1,profile,98.72,1,2,0,0.0
+2008,5,22,Germany,6039,skirts,P054,beige,3,en face,120.44,2,4,0,0.0
+2008,5,22,UK,261,trousers,P044,black,5,en face,170.92,2,1,0,0.0
+2008,4,14,Italy,9366,blouses,P046,brown,6,profile,112.16,2,5,0,0.0
+2008,5,5,India,9094,skirts,P295,beige,6,profile,85.0,1,1,0,0.0
+2008,5,18,USA,3745,skirts,P014,beige,5,en face,158.77,2,4,0,0.0
+2008,4,23,Italy,2027,trousers,P042,violet,4,en face,30.87,1,3,0,0.0
+2008,6,12,Australia,6989,sale,P225,gray,4,profile,114.16,2,1,0,0.0
+2008,7,3,Italy,4235,trousers,P149,navy blue,4,en face,28.68,1,1,0,0.0
+2008,6,22,Germany,1918,trousers,P163,green,5,profile,133.66,2,4,0,0.0
+2008,4,6,Italy,1829,skirts,P087,red,3,en face,190.69,2,2,0,0.0
+2008,4,26,Australia,6234,trousers,P120,pink,6,profile,107.19,2,4,0,0.0
+2008,4,24,UK,9333,blouses,P109,brown,5,en face,162.21,2,3,0,0.0
+2008,5,13,Australia,6284,trousers,P280,red,2,profile,177.69,2,3,0,0.0
+2008,6,14,Germany,4209,sale,P278,burgundy,4,profile,142.17,2,4,0,0.0
+2008,4,11,Germany,225,skirts,P259,gray,1,en face,121.64,2,3,0,0.0
+2008,5,10,Italy,8916,trousers,P181,pink,6,en face,176.77,2,2,0,0.0
+2008,4,24,USA,6470,sale,P010,green,4,profile,135.69,2,2,0,0.0
+2008,6,10,Australia,9414,skirts,P103,green,4,profile,53.16,1,3,0,0.0
+2008,7,25,UK,847,trousers,P157,olive,6,profile,90.87,1,1,0,0.0
+2008,4,8,UK,4290,sale,P110,beige,6,profile,151.7,2,3,1,281.23
+2008,7,25,USA,5561,trousers,P296,navy blue,4,profile,152.76,2,2,1,204.42
+2008,8,17,France,2552,skirts,P074,red,6,profile,57.33,1,2,0,0.0
+2008,6,25,India,118,sale,P179,black,1,en face,85.67,1,2,0,0.0
+2008,8,3,France,8838,trousers,P131,red,5,profile,198.38,2,2,0,0.0
+2008,6,15,India,5967,skirts,P243,navy blue,3,en face,159.42,2,2,0,0.0
+2008,7,7,UK,8196,blouses,P113,white,5,profile,95.98,1,4,0,0.0
+2008,7,15,Germany,8660,blouses,P274,beige,1,profile,196.8,2,4,0,0.0
+2008,8,17,Australia,7490,trousers,P292,pink,1,profile,190.79,2,2,0,0.0
+2008,5,7,USA,6,trousers,P171,violet,6,en face,112.01,2,3,1,149.34
+2008,4,5,UK,5343,trousers,P299,green,3,en face,149.16,2,3,0,0.0
+2008,6,8,Sweden,9112,skirts,P207,burgundy,6,en face,125.35,2,2,0,0.0
+2008,7,13,France,4325,blouses,P192,olive,2,profile,40.25,1,3,0,0.0
+2008,4,20,Australia,1064,blouses,P266,navy blue,4,profile,191.56,2,3,1,316.31
+2008,5,20,Germany,2591,sale,P015,beige,3,en face,140.02,2,1,0,0.0
+2008,4,23,France,8435,skirts,P011,navy blue,6,en face,31.75,1,4,0,0.0
+2008,8,15,Australia,3736,skirts,P190,black,2,en face,160.24,2,1,0,0.0
+2008,6,17,Australia,3518,skirts,P169,pink,5,en face,197.43,2,3,0,0.0
+2008,6,26,Italy,6987,blouses,P038,brown,2,en face,166.35,2,5,0,0.0
+2008,4,12,France,6768,skirts,P118,navy blue,2,en face,33.92,1,1,0,0.0
+2008,5,16,Italy,5623,sale,P137,pink,1,en face,43.17,1,5,0,0.0
+2008,4,24,Italy,1606,skirts,P124,black,2,en face,80.73,1,3,0,0.0
+2008,8,9,Germany,1734,trousers,P024,violet,4,en face,193.34,2,4,0,0.0
+2008,8,3,Australia,9342,trousers,P061,white,2,profile,65.99,1,1,0,0.0
+2008,5,24,Germany,3813,blouses,P041,brown,5,en face,170.22,2,1,1,405.46
+2008,6,21,USA,9625,trousers,P191,green,5,profile,47.63,1,2,0,0.0
+2008,4,7,Australia,1762,blouses,P135,black,5,profile,107.82,2,1,0,0.0
+2008,6,21,India,5402,sale,P027,blue,5,profile,80.05,1,5,0,0.0
+2008,7,12,Germany,2740,skirts,P210,green,1,en face,120.1,2,1,1,159.61
+2008,7,14,France,2473,trousers,P068,green,3,profile,149.35,2,3,0,0.0
+2008,6,3,UK,6739,skirts,P077,white,4,profile,92.89,1,3,1,193.46
+2008,8,9,UK,6892,sale,P089,blue,4,en face,132.84,2,1,0,0.0
+2008,4,19,France,7944,sale,P054,red,2,en face,46.63,1,1,0,0.0
+2008,6,26,Sweden,4207,skirts,P297,violet,6,en face,197.92,2,2,0,0.0
+2008,5,7,Italy,6372,sale,P078,blue,3,profile,80.09,1,1,0,0.0
+2008,7,11,Germany,233,blouses,P006,beige,6,profile,56.84,1,1,0,0.0
+2008,6,21,Sweden,8259,trousers,P104,beige,2,en face,170.64,2,2,0,0.0
+2008,6,8,UK,7562,trousers,P268,red,2,profile,145.29,2,4,0,0.0
+2008,5,6,Italy,6169,sale,P194,red,2,profile,73.9,1,2,0,0.0
+2008,8,9,UK,3597,trousers,P212,blue,5,profile,10.94,1,2,0,0.0
+2008,5,4,UK,6289,skirts,P028,red,2,en face,85.84,1,5,0,0.0
+2008,4,5,Australia,4633,skirts,P089,blue,5,profile,185.65,2,4,0,0.0
+2008,7,10,France,126,skirts,P258,navy blue,6,profile,155.1,2,2,0,0.0
+2008,5,15,Australia,7642,sale,P041,red,3,profile,126.67,2,2,0,0.0
+2008,7,4,Germany,6230,trousers,P198,gray,3,en face,60.37,1,3,0,0.0
+2008,4,27,UK,1297,trousers,P299,beige,6,en face,127.68,2,4,0,0.0
+2008,8,24,Italy,1977,skirts,P271,white,1,profile,87.99,1,4,1,127.87
+2008,4,4,Italy,9481,skirts,P207,gray,3,en face,168.87,2,5,0,0.0
+2008,7,10,Sweden,9582,blouses,P296,olive,5,profile,162.42,2,4,0,0.0
+2008,6,23,Sweden,5751,blouses,P187,navy blue,4,profile,102.51,1,3,0,0.0
+2008,7,28,UK,8153,trousers,P258,navy blue,2,profile,64.35,1,1,0,0.0
+2008,8,7,France,3087,blouses,P037,pink,5,profile,16.76,1,5,1,37.58
+2008,4,22,Italy,9277,skirts,P007,blue,2,en face,137.24,2,2,0,0.0
+2008,8,26,Germany,6883,blouses,P132,violet,2,profile,62.85,1,1,0,0.0
+2008,8,9,UK,9306,trousers,P198,white,6,en face,69.69,1,1,1,109.01
+2008,5,28,Germany,7674,skirts,P195,brown,2,profile,157.85,2,1,0,0.0
+2008,5,26,USA,3346,skirts,P265,gray,3,en face,117.28,2,3,0,0.0
+2008,5,10,Italy,8173,sale,P095,red,4,en face,64.98,1,2,0,0.0
+2008,4,9,Sweden,9422,sale,P030,beige,4,profile,52.1,1,4,0,0.0
+2008,5,9,Germany,5871,sale,P235,brown,4,en face,44.48,1,4,1,103.56
+2008,6,28,Germany,6507,blouses,P206,blue,1,en face,45.16,1,1,1,82.45
+2008,7,8,Australia,2798,sale,P186,green,2,en face,144.39,2,2,0,0.0
+2008,8,1,Italy,919,skirts,P272,pink,3,profile,128.73,2,2,0,0.0
+2008,5,2,Germany,1647,skirts,P025,gray,6,en face,145.64,2,1,0,0.0
+2008,4,17,Italy,5123,sale,P053,pink,4,en face,129.94,2,2,0,0.0
+2008,4,17,India,5127,sale,P266,pink,2,en face,111.36,2,5,0,0.0
+2008,4,6,Australia,4622,trousers,P100,violet,1,en face,108.12,2,5,0,0.0
+2008,8,7,India,6810,blouses,P005,white,4,en face,158.79,2,3,0,0.0
+2008,7,8,Germany,365,trousers,P283,gray,2,en face,84.61,1,5,0,0.0
+2008,5,22,Italy,2126,trousers,P099,white,5,profile,113.37,2,3,0,0.0
+2008,6,22,Italy,8151,sale,P041,beige,1,profile,148.6,2,3,0,0.0
+2008,8,22,Italy,8718,blouses,P129,green,5,profile,20.55,1,5,0,0.0
+2008,4,4,Sweden,56,sale,P259,pink,2,en face,34.91,1,3,0,0.0
+2008,7,18,Italy,639,sale,P093,beige,4,profile,197.11,2,1,0,0.0
+2008,4,10,Australia,303,sale,P054,black,3,profile,139.6,2,1,0,0.0
+2008,8,27,Australia,5812,trousers,P182,blue,2,profile,177.46,2,5,0,0.0
+2008,4,26,Germany,1277,trousers,P151,black,5,en face,61.5,1,5,0,0.0
+2008,7,14,India,4433,sale,P104,white,2,en face,189.14,2,2,0,0.0
+2008,7,1,USA,3645,sale,P181,black,1,en face,75.32,1,1,0,0.0
+2008,4,9,USA,4144,skirts,P043,burgundy,1,profile,165.36,2,1,0,0.0
+2008,5,4,Sweden,2879,blouses,P217,black,2,en face,128.37,2,1,0,0.0
+2008,8,27,Italy,6494,sale,P211,violet,1,en face,24.78,1,1,0,0.0
+2008,8,1,France,5241,trousers,P159,burgundy,3,profile,183.57,2,2,1,422.32
+2008,8,15,Australia,9409,trousers,P010,burgundy,1,profile,181.22,2,2,0,0.0
+2008,4,24,France,6938,skirts,P037,navy blue,2,profile,194.22,2,5,0,0.0
+2008,5,1,UK,7241,blouses,P215,green,4,en face,119.54,2,4,0,0.0
+2008,5,12,UK,2594,blouses,P151,white,1,en face,188.69,2,1,0,0.0
+2008,8,25,UK,2394,sale,P085,navy blue,5,en face,152.31,2,2,0,0.0
+2008,6,11,France,524,skirts,P238,white,3,profile,120.8,2,5,0,0.0
+2008,8,20,Germany,6377,skirts,P143,red,6,en face,137.16,2,1,0,0.0
+2008,5,26,Germany,6982,trousers,P207,brown,4,profile,187.96,2,3,0,0.0
+2008,8,22,Germany,6678,blouses,P121,navy blue,4,profile,61.41,1,3,0,0.0
+2008,7,15,USA,3901,skirts,P035,brown,3,en face,86.05,1,2,0,0.0
+2008,8,7,India,9635,skirts,P288,violet,4,en face,50.39,1,4,0,0.0
+2008,6,26,Germany,5586,sale,P275,navy blue,6,en face,180.12,2,4,0,0.0
+2008,8,22,Sweden,9361,blouses,P008,blue,3,en face,103.98,1,5,1,108.8
+2008,5,21,Australia,7957,trousers,P112,gray,6,en face,51.1,1,4,1,85.58
+2008,5,6,UK,7571,trousers,P206,burgundy,3,profile,142.06,2,1,0,0.0
+2008,4,20,Italy,6778,sale,P143,blue,3,profile,179.92,2,1,0,0.0
+2008,4,11,India,672,trousers,P183,blue,1,profile,79.31,1,2,0,0.0
+2008,5,25,India,4189,skirts,P279,pink,3,profile,149.27,2,1,0,0.0
+2008,8,10,Italy,667,blouses,P126,violet,2,profile,156.89,2,5,0,0.0
+2008,7,4,UK,3267,trousers,P127,brown,5,en face,158.44,2,2,0,0.0
+2008,6,8,Italy,1888,trousers,P001,black,1,en face,85.09,1,2,0,0.0
+2008,8,27,UK,8473,skirts,P149,olive,5,en face,63.53,1,2,0,0.0
+2008,8,4,Germany,9092,sale,P261,navy blue,6,en face,134.83,2,2,0,0.0
+2008,7,1,USA,7688,trousers,P105,green,3,en face,99.62,1,2,0,0.0
+2008,7,4,Italy,6032,skirts,P058,olive,1,profile,194.46,2,1,0,0.0
+2008,4,1,UK,6091,sale,P109,olive,2,profile,134.82,2,5,0,0.0
+2008,7,9,Sweden,6239,trousers,P211,red,5,profile,174.73,2,5,1,350.74
+2008,4,26,India,7351,trousers,P200,white,1,en face,153.96,2,1,0,0.0
+2008,7,10,USA,7831,blouses,P142,green,2,en face,142.93,2,5,0,0.0
+2008,6,21,India,761,blouses,P077,burgundy,3,profile,112.22,2,5,0,0.0
+2008,6,7,UK,6255,skirts,P284,green,5,en face,71.62,1,4,0,0.0
+2008,5,7,France,1907,trousers,P225,navy blue,2,en face,195.91,2,4,0,0.0
+2008,8,28,Sweden,3819,trousers,P048,white,3,en face,102.37,1,1,0,0.0
+2008,8,26,Italy,6270,skirts,P122,white,3,profile,90.28,1,5,0,0.0
+2008,6,24,Sweden,4301,skirts,P055,red,3,profile,194.65,2,1,0,0.0
+2008,8,24,UK,5570,sale,P045,blue,4,en face,193.75,2,4,1,530.73
+2008,5,5,India,7942,sale,P222,pink,3,profile,125.54,2,3,0,0.0
+2008,6,14,Australia,4165,trousers,P202,black,4,profile,154.0,2,5,0,0.0
+2008,6,28,Italy,5972,skirts,P248,brown,4,en face,197.09,2,2,0,0.0
+2008,6,24,Italy,3580,blouses,P264,green,4,en face,66.42,1,3,0,0.0
+2008,8,3,Italy,2833,trousers,P035,violet,2,en face,81.02,1,3,0,0.0
+2008,6,5,Germany,5450,trousers,P298,red,3,profile,81.29,1,1,0,0.0
+2008,5,25,France,3473,sale,P084,burgundy,3,en face,95.2,1,2,0,0.0
+2008,7,5,Italy,6328,blouses,P206,brown,6,profile,178.94,2,1,0,0.0
+2008,5,1,India,138,skirts,P128,green,5,en face,57.98,1,4,0,0.0
+2008,8,19,Sweden,7044,skirts,P265,burgundy,3,profile,50.11,1,5,0,0.0
+2008,7,1,Germany,4893,sale,P093,olive,3,en face,145.12,2,2,1,389.98
+2008,8,19,India,2181,sale,P004,brown,5,profile,62.67,1,4,0,0.0
+2008,6,13,USA,7731,sale,P191,pink,3,profile,166.41,2,3,0,0.0
+2008,7,18,Germany,3178,sale,P060,gray,3,profile,183.03,2,3,0,0.0
+2008,7,2,Italy,4855,trousers,P285,blue,2,en face,78.7,1,3,0,0.0
+2008,5,6,India,4638,trousers,P085,black,3,profile,79.17,1,2,0,0.0
+2008,4,22,France,5116,skirts,P056,green,1,profile,127.6,2,5,0,0.0
+2008,7,15,UK,7649,sale,P033,burgundy,6,en face,188.88,2,4,1,400.88
+2008,5,4,USA,4262,sale,P297,white,2,en face,197.94,2,2,0,0.0
+2008,8,25,Italy,1332,trousers,P175,olive,2,en face,108.13,2,5,0,0.0
+2008,8,21,Australia,7003,sale,P281,black,2,en face,40.23,1,2,1,43.11
+2008,5,11,Sweden,6942,skirts,P101,black,1,en face,29.08,1,3,0,0.0
+2008,5,13,USA,8018,sale,P260,black,5,profile,39.24,1,3,0,0.0
+2008,6,23,USA,6242,skirts,P056,brown,6,profile,197.51,2,3,0,0.0
+2008,8,9,Germany,9988,trousers,P126,green,1,profile,158.19,2,2,0,0.0
+2008,8,20,UK,6882,blouses,P190,beige,6,en face,30.81,1,5,0,0.0
+2008,5,3,USA,4531,blouses,P072,white,5,en face,87.6,1,4,0,0.0
+2008,6,15,Sweden,4674,blouses,P111,brown,4,en face,167.4,2,5,0,0.0
+2008,6,8,USA,6997,skirts,P297,pink,6,profile,195.61,2,1,0,0.0
+2008,5,17,Sweden,1253,blouses,P074,green,5,en face,49.79,1,4,0,0.0
+2008,5,2,USA,3375,blouses,P229,red,2,profile,113.51,2,2,0,0.0
+2008,7,11,India,2815,trousers,P102,navy blue,1,en face,164.84,2,4,0,0.0
+2008,4,20,Italy,4720,skirts,P265,green,5,profile,118.85,2,1,0,0.0
+2008,4,26,USA,6545,blouses,P244,white,4,profile,134.84,2,4,0,0.0
+2008,7,8,Sweden,4859,skirts,P140,red,1,en face,140.65,2,2,0,0.0
+2008,4,26,India,7902,skirts,P124,burgundy,4,en face,178.22,2,1,0,0.0
+2008,7,17,USA,8581,trousers,P145,burgundy,3,profile,77.38,1,4,0,0.0
+2008,8,22,Australia,8428,skirts,P195,white,3,en face,35.45,1,5,0,0.0
+2008,8,9,Sweden,1078,sale,P219,beige,5,profile,35.88,1,4,0,0.0
+2008,8,14,France,4364,skirts,P106,burgundy,6,profile,157.16,2,4,0,0.0
+2008,8,15,UK,771,trousers,P260,pink,4,profile,112.17,2,2,0,0.0
+2008,5,16,India,8866,sale,P079,green,6,profile,160.3,2,4,0,0.0
+2008,6,26,India,250,sale,P001,white,1,profile,145.29,2,2,0,0.0
+2008,7,19,India,7240,skirts,P081,black,6,en face,14.37,1,4,1,31.63
+2008,5,3,Italy,3420,sale,P221,olive,6,profile,181.13,2,5,1,207.12
+2008,7,16,India,4977,blouses,P248,green,4,en face,66.95,1,4,0,0.0
+2008,4,6,India,4545,skirts,P221,red,5,profile,117.93,2,2,0,0.0
+2008,6,25,UK,5566,skirts,P260,black,6,profile,123.25,2,2,0,0.0
+2008,7,26,France,7940,sale,P230,violet,1,en face,88.96,1,3,0,0.0
+2008,5,24,Australia,717,sale,P155,brown,5,profile,177.85,2,3,0,0.0
+2008,4,17,Italy,9653,blouses,P293,beige,4,profile,105.13,1,2,0,0.0
+2008,6,28,Germany,2049,skirts,P260,red,1,profile,59.51,1,3,0,0.0
+2008,4,26,Germany,5998,blouses,P141,beige,6,profile,162.53,2,1,0,0.0
+2008,6,2,Sweden,6601,blouses,P186,red,1,en face,158.3,2,1,0,0.0
+2008,5,14,UK,7246,trousers,P152,white,2,en face,11.82,1,1,0,0.0
+2008,5,18,UK,4179,blouses,P015,black,5,profile,108.23,2,4,0,0.0
+2008,6,7,USA,4810,sale,P194,pink,6,en face,41.13,1,1,0,0.0
+2008,6,9,UK,9483,trousers,P079,gray,1,profile,104.26,1,4,0,0.0
+2008,6,1,Germany,7141,skirts,P246,beige,5,profile,150.38,2,1,0,0.0
+2008,5,22,Italy,7191,trousers,P177,blue,4,en face,185.07,2,1,0,0.0
+2008,5,6,Sweden,1461,trousers,P281,brown,1,en face,95.32,1,2,0,0.0
+2008,6,15,India,5990,sale,P145,black,2,en face,92.46,1,3,1,169.99
+2008,7,3,UK,2001,blouses,P254,olive,5,profile,148.71,2,5,0,0.0
+2008,8,9,UK,8176,blouses,P160,olive,2,en face,77.36,1,1,0,0.0
+2008,7,27,Sweden,405,sale,P286,burgundy,1,en face,47.74,1,5,0,0.0
+2008,8,26,Germany,385,trousers,P099,red,1,profile,147.74,2,1,0,0.0
+2008,7,27,Italy,9449,trousers,P247,black,2,profile,198.11,2,2,0,0.0
+2008,8,15,Italy,9488,sale,P025,violet,5,profile,65.38,1,4,1,153.74
+2008,5,4,UK,1634,skirts,P245,gray,6,en face,194.25,2,4,0,0.0
+2008,5,2,Germany,9854,blouses,P100,white,6,en face,14.26,1,3,0,0.0
+2008,4,22,India,4785,skirts,P018,gray,6,profile,134.77,2,3,0,0.0
+2008,4,7,USA,9457,blouses,P085,violet,1,en face,120.78,2,4,0,0.0
+2008,7,3,India,6971,skirts,P209,red,5,en face,122.4,2,2,0,0.0
+2008,7,9,Italy,3926,trousers,P259,navy blue,4,en face,153.89,2,3,0,0.0
+2008,4,23,USA,4159,skirts,P243,blue,6,profile,149.91,2,5,0,0.0
+2008,6,5,UK,7450,skirts,P024,brown,4,en face,69.19,1,2,0,0.0
+2008,7,20,UK,8416,trousers,P111,gray,1,en face,156.81,2,4,0,0.0
+2008,7,3,France,2194,skirts,P093,pink,1,profile,165.89,2,4,0,0.0
+2008,4,11,Italy,1016,trousers,P142,olive,6,en face,142.6,2,4,0,0.0
+2008,8,25,Australia,5125,trousers,P040,blue,5,en face,163.99,2,4,0,0.0
+2008,4,17,India,7419,sale,P008,white,5,en face,152.85,2,2,0,0.0
+2008,5,1,France,7410,blouses,P207,blue,1,profile,85.75,1,5,0,0.0
+2008,8,20,India,8990,blouses,P094,black,2,en face,85.57,1,5,0,0.0
+2008,4,22,France,2872,blouses,P247,red,2,profile,22.43,1,2,0,0.0
+2008,8,23,USA,10,skirts,P131,pink,2,profile,35.59,1,4,0,0.0
+2008,6,23,Australia,1839,trousers,P125,burgundy,6,en face,153.1,2,1,0,0.0
+2008,5,6,France,4805,sale,P264,burgundy,2,profile,139.73,2,5,0,0.0
+2008,6,22,India,256,sale,P200,navy blue,4,en face,163.73,2,4,0,0.0
+2008,6,4,France,7027,sale,P185,green,2,en face,167.14,2,1,0,0.0
+2008,4,1,India,5714,sale,P240,gray,2,en face,188.5,2,5,0,0.0
+2008,6,21,USA,3325,blouses,P278,burgundy,1,profile,132.31,2,4,0,0.0
+2008,6,8,USA,7715,blouses,P008,white,4,en face,195.09,2,4,0,0.0
+2008,8,15,Germany,1582,blouses,P123,pink,6,profile,165.23,2,1,0,0.0
+2008,6,19,Sweden,925,skirts,P263,black,5,profile,132.26,2,5,0,0.0
+2008,7,15,UK,2780,sale,P165,olive,3,profile,196.27,2,1,1,371.43
+2008,6,15,Sweden,7892,skirts,P255,brown,4,en face,89.15,1,1,0,0.0
+2008,5,7,USA,6133,trousers,P119,red,2,en face,44.84,1,1,0,0.0
+2008,5,24,UK,5321,trousers,P167,burgundy,3,en face,28.91,1,3,0,0.0
+2008,5,20,Germany,7313,trousers,P285,brown,2,profile,39.84,1,3,0,0.0
+2008,5,2,Sweden,7103,blouses,P189,brown,6,en face,146.64,2,1,1,418.49
+2008,7,15,USA,6043,trousers,P224,brown,2,profile,136.17,2,1,0,0.0
+2008,7,22,USA,3776,skirts,P006,burgundy,2,profile,115.17,2,1,0,0.0
+2008,6,12,UK,4836,skirts,P086,red,6,en face,36.09,1,2,0,0.0
+2008,4,27,Italy,4965,skirts,P245,gray,1,profile,62.31,1,5,0,0.0
+2008,7,9,India,540,trousers,P151,violet,2,profile,157.79,2,2,0,0.0
+2008,5,24,Germany,7484,trousers,P102,violet,4,profile,24.11,1,2,0,0.0
+2008,4,2,India,2746,trousers,P106,blue,2,profile,120.53,2,1,0,0.0
+2008,4,22,Italy,3720,skirts,P171,red,4,profile,44.75,1,2,0,0.0
+2008,5,17,Sweden,6820,skirts,P038,white,2,en face,147.61,2,1,0,0.0
+2008,7,2,Italy,9338,sale,P083,green,4,en face,77.35,1,2,0,0.0
+2008,7,20,USA,4469,sale,P240,navy blue,5,profile,126.1,2,2,0,0.0
+2008,4,17,UK,668,skirts,P265,burgundy,2,en face,32.21,1,2,0,0.0
+2008,5,24,Italy,7576,blouses,P023,gray,3,en face,69.31,1,5,0,0.0
+2008,6,17,Italy,8550,skirts,P110,pink,5,en face,99.01,1,3,0,0.0
+2008,8,27,Italy,5064,trousers,P230,burgundy,6,en face,18.47,1,4,0,0.0
+2008,4,8,Italy,1354,sale,P112,beige,1,profile,158.07,2,1,0,0.0
+2008,7,9,UK,7115,skirts,P132,red,1,profile,87.54,1,1,1,93.61
+2008,8,18,France,9774,blouses,P147,navy blue,6,en face,68.95,1,4,0,0.0
+2008,5,9,USA,8663,skirts,P233,blue,6,profile,115.49,2,4,0,0.0
+2008,6,6,Sweden,2704,trousers,P273,violet,4,profile,158.69,2,1,0,0.0
+2008,8,6,India,3331,trousers,P198,brown,3,en face,159.38,2,5,0,0.0
+2008,7,10,Italy,8054,skirts,P118,green,2,profile,18.57,1,1,0,0.0
+2008,6,8,Australia,3585,blouses,P252,violet,3,profile,100.38,1,1,0,0.0
+2008,7,16,Germany,9442,skirts,P125,green,3,en face,75.26,1,5,0,0.0
+2008,5,10,USA,5646,skirts,P063,pink,6,en face,37.75,1,5,0,0.0
+2008,7,8,India,3377,skirts,P202,beige,4,en face,154.54,2,3,0,0.0
+2008,7,19,Germany,1257,trousers,P169,green,6,profile,45.66,1,5,0,0.0
+2008,7,15,Italy,6191,blouses,P008,navy blue,4,profile,148.43,2,5,0,0.0
+2008,5,9,Italy,5349,skirts,P035,brown,5,en face,188.11,2,3,0,0.0
+2008,4,15,India,4176,trousers,P055,brown,6,profile,104.61,1,2,0,0.0
+2008,4,20,France,4911,blouses,P259,gray,1,profile,193.34,2,5,0,0.0
+2008,4,18,France,1853,blouses,P165,navy blue,1,profile,31.43,1,3,0,0.0
+2008,7,24,Australia,6317,trousers,P090,white,2,profile,110.02,2,5,0,0.0
+2008,7,28,Italy,9855,trousers,P021,pink,5,profile,132.55,2,2,0,0.0
+2008,6,5,Italy,2106,sale,P257,beige,5,profile,144.96,2,5,0,0.0
+2008,8,26,Australia,134,skirts,P031,blue,5,profile,178.1,2,1,0,0.0
+2008,6,3,Italy,5030,skirts,P005,beige,3,profile,144.79,2,2,0,0.0
+2008,4,10,USA,929,trousers,P006,violet,2,profile,186.2,2,1,1,314.36
+2008,6,10,Italy,824,sale,P053,black,4,en face,75.58,1,1,0,0.0
+2008,4,9,France,7577,sale,P120,brown,4,profile,193.02,2,2,0,0.0
+2008,7,4,Australia,1532,blouses,P197,green,6,en face,74.08,1,1,0,0.0
+2008,4,19,Italy,1215,sale,P293,violet,2,profile,118.51,2,2,1,134.45
+2008,6,24,Germany,505,trousers,P166,blue,3,profile,13.86,1,5,0,0.0
+2008,5,17,Germany,6531,skirts,P256,brown,2,profile,185.33,2,3,0,0.0
+2008,8,18,UK,3073,trousers,P133,red,4,en face,93.13,1,2,0,0.0
+2008,4,16,Germany,9087,blouses,P047,gray,1,en face,139.79,2,5,0,0.0
+2008,6,18,India,8648,sale,P069,navy blue,5,profile,88.27,1,5,0,0.0
+2008,6,1,Australia,6620,trousers,P176,white,6,profile,119.69,2,2,1,162.48
+2008,6,15,Italy,9274,sale,P145,white,2,profile,23.73,1,4,0,0.0
+2008,5,15,USA,3710,blouses,P287,pink,2,en face,49.05,1,5,0,0.0
+2008,4,16,USA,4850,trousers,P183,violet,3,en face,42.01,1,5,0,0.0
+2008,7,2,Italy,4749,sale,P185,navy blue,3,profile,189.17,2,5,0,0.0
+2008,4,10,Germany,4269,skirts,P291,brown,6,profile,156.7,2,3,0,0.0
+2008,8,3,Sweden,9879,sale,P271,pink,5,profile,185.11,2,3,1,187.16
+2008,4,9,USA,8906,trousers,P136,beige,1,profile,94.26,1,3,0,0.0
+2008,8,12,Germany,4187,sale,P290,brown,5,profile,100.29,1,3,0,0.0
+2008,7,20,Germany,5302,blouses,P089,blue,6,en face,188.72,2,3,0,0.0
+2008,4,2,Australia,2924,trousers,P127,navy blue,5,profile,128.7,2,3,0,0.0
+2008,8,17,UK,6589,skirts,P244,green,5,profile,23.13,1,2,0,0.0
+2008,5,9,Sweden,1811,blouses,P210,pink,3,profile,164.66,2,4,0,0.0
+2008,6,20,India,3487,skirts,P075,blue,5,profile,198.86,2,3,0,0.0
+2008,5,3,Germany,7420,trousers,P162,olive,3,profile,56.82,1,5,0,0.0
+2008,8,4,UK,3142,skirts,P060,olive,2,en face,97.11,1,1,0,0.0
+2008,8,8,Germany,9348,blouses,P236,brown,1,profile,85.13,1,4,0,0.0
+2008,5,2,Germany,1325,skirts,P043,green,1,en face,129.92,2,4,0,0.0
+2008,8,18,Germany,4313,trousers,P109,red,2,profile,87.51,1,5,0,0.0
+2008,7,12,USA,7495,trousers,P098,white,6,profile,163.79,2,2,0,0.0
+2008,7,19,France,8703,blouses,P036,brown,5,profile,25.57,1,2,0,0.0
+2008,6,15,India,8692,sale,P271,brown,1,profile,171.03,2,1,0,0.0
+2008,6,17,UK,9504,sale,P288,navy blue,3,en face,84.83,1,1,0,0.0
+2008,7,6,France,5542,skirts,P240,black,3,profile,177.62,2,1,0,0.0
+2008,5,20,India,6173,blouses,P054,beige,6,profile,43.63,1,2,0,0.0
+2008,5,25,UK,1541,blouses,P160,beige,4,profile,146.43,2,5,0,0.0
+2008,4,13,Germany,9410,trousers,P006,blue,2,profile,192.34,2,1,1,241.89
+2008,7,28,UK,2682,blouses,P226,blue,4,en face,154.01,2,3,0,0.0
+2008,4,9,UK,9883,sale,P060,white,1,profile,182.43,2,3,0,0.0
+2008,6,26,Germany,6314,sale,P226,navy blue,4,en face,33.64,1,3,0,0.0
+2008,4,19,USA,1192,trousers,P231,blue,2,profile,153.76,2,1,0,0.0
+2008,5,14,USA,5294,trousers,P186,gray,3,profile,39.52,1,4,0,0.0
+2008,6,10,Germany,1543,blouses,P079,white,5,profile,189.03,2,3,0,0.0
+2008,7,8,Italy,7057,sale,P254,brown,5,en face,178.26,2,1,0,0.0
+2008,5,13,USA,2540,blouses,P146,pink,2,en face,15.57,1,1,0,0.0
+2008,8,3,Italy,954,trousers,P201,burgundy,2,en face,79.74,1,1,1,172.42
+2008,4,21,Australia,7242,trousers,P164,olive,6,en face,69.4,1,3,0,0.0
+2008,4,17,France,6732,sale,P272,blue,2,profile,120.23,2,3,0,0.0
+2008,7,1,France,4847,blouses,P064,gray,5,profile,169.63,2,1,0,0.0
+2008,4,18,UK,6802,sale,P065,black,5,en face,50.95,1,2,0,0.0
+2008,6,4,India,8011,sale,P221,gray,5,profile,59.64,1,1,0,0.0
+2008,7,4,UK,4331,trousers,P232,navy blue,2,en face,167.93,2,3,0,0.0
+2008,6,26,Australia,8925,blouses,P107,violet,5,en face,175.29,2,4,0,0.0
+2008,7,26,Australia,5335,trousers,P102,red,5,en face,158.27,2,3,0,0.0
+2008,5,27,Italy,7331,sale,P197,beige,2,profile,122.16,2,5,0,0.0
+2008,8,17,Italy,9349,blouses,P169,red,2,profile,164.21,2,3,0,0.0
+2008,8,1,Sweden,4730,skirts,P183,black,4,en face,56.86,1,2,0,0.0
+2008,8,27,Australia,6542,trousers,P161,blue,4,profile,122.83,2,4,0,0.0
+2008,7,18,Australia,5306,trousers,P079,olive,5,en face,176.66,2,3,0,0.0
+2008,8,6,India,5162,trousers,P233,gray,5,profile,31.51,1,4,0,0.0
+2008,8,4,France,7861,skirts,P181,pink,6,en face,157.22,2,3,1,259.75
+2008,8,15,India,2157,trousers,P017,olive,2,profile,68.22,1,4,0,0.0
+2008,7,9,Germany,1063,trousers,P052,blue,4,en face,74.02,1,3,0,0.0
+2008,8,11,UK,1168,sale,P266,navy blue,6,en face,140.13,2,5,1,258.31
+2008,4,12,USA,3637,trousers,P051,violet,1,profile,101.83,1,2,0,0.0
+2008,6,8,India,7652,skirts,P023,pink,3,en face,118.79,2,4,0,0.0
+2008,4,1,USA,5589,blouses,P080,white,4,en face,177.1,2,4,0,0.0
+2008,8,22,Italy,7193,sale,P294,olive,6,en face,34.5,1,3,0,0.0
+2008,8,28,Sweden,4492,sale,P251,pink,2,en face,101.32,1,2,0,0.0
+2008,5,18,Sweden,7267,blouses,P190,beige,2,en face,54.17,1,3,0,0.0
+2008,5,10,USA,4981,blouses,P096,olive,1,en face,60.52,1,1,0,0.0
+2008,7,4,Italy,8336,trousers,P260,burgundy,1,profile,49.71,1,5,0,0.0
+2008,8,15,Australia,9953,blouses,P094,pink,6,en face,177.96,2,1,0,0.0
+2008,6,14,Sweden,4947,trousers,P136,black,4,profile,146.6,2,2,0,0.0
+2008,5,27,Australia,2783,blouses,P106,green,6,profile,50.56,1,4,0,0.0
+2008,5,19,Australia,718,sale,P288,violet,4,en face,94.43,1,3,0,0.0
+2008,7,24,France,2503,blouses,P099,green,5,en face,153.23,2,1,0,0.0
+2008,7,13,Sweden,4361,trousers,P124,gray,5,profile,109.58,2,2,0,0.0
+2008,8,26,Germany,4172,blouses,P158,blue,6,en face,79.14,1,5,0,0.0
+2008,4,8,Sweden,8083,skirts,P280,green,3,profile,125.82,2,1,0,0.0
+2008,8,28,USA,9761,trousers,P197,violet,4,profile,124.76,2,4,0,0.0
+2008,8,22,Germany,396,trousers,P001,green,6,en face,64.09,1,4,0,0.0
+2008,8,4,Germany,7187,trousers,P232,burgundy,4,profile,154.3,2,2,0,0.0
+2008,5,14,France,9823,skirts,P009,burgundy,3,profile,64.56,1,4,0,0.0
+2008,5,9,India,4493,blouses,P276,green,6,profile,142.14,2,3,0,0.0
+2008,5,25,UK,1366,trousers,P074,green,6,profile,125.08,2,3,0,0.0
+2008,6,8,Sweden,9527,blouses,P018,burgundy,5,en face,197.38,2,4,0,0.0
+2008,6,21,France,8788,sale,P164,olive,1,en face,192.76,2,5,0,0.0
+2008,5,2,France,5918,blouses,P018,brown,3,profile,147.3,2,3,0,0.0
+2008,8,5,Italy,4969,trousers,P158,pink,5,profile,53.05,1,3,0,0.0
+2008,6,16,Australia,2915,blouses,P115,black,2,en face,135.92,2,4,0,0.0
+2008,4,3,USA,5645,blouses,P245,brown,3,en face,140.65,2,3,0,0.0
+2008,4,20,France,3767,skirts,P191,navy blue,1,en face,136.52,2,2,0,0.0
+2008,6,28,India,3441,sale,P010,olive,4,profile,182.5,2,2,0,0.0
+2008,6,8,France,7358,trousers,P078,navy blue,3,en face,191.36,2,4,0,0.0
+2008,6,7,Sweden,6807,blouses,P030,violet,6,en face,159.69,2,2,1,270.11
+2008,4,10,India,2144,blouses,P261,blue,5,profile,127.15,2,5,0,0.0
+2008,7,14,UK,5105,skirts,P211,navy blue,4,profile,114.46,2,4,0,0.0
+2008,7,5,Australia,5074,sale,P240,black,1,profile,42.08,1,1,0,0.0
+2008,4,14,Italy,1572,blouses,P210,pink,6,en face,101.85,1,1,0,0.0
+2008,4,28,Italy,4080,blouses,P197,white,6,en face,87.69,1,4,0,0.0
+2008,8,1,Germany,1123,sale,P253,green,1,profile,90.22,1,4,0,0.0
+2008,6,5,USA,2787,trousers,P101,olive,3,profile,106.77,1,4,0,0.0
+2008,8,24,India,2968,skirts,P032,blue,4,profile,147.35,2,4,0,0.0
+2008,8,7,USA,2505,sale,P073,violet,4,en face,133.52,2,5,0,0.0
+2008,8,3,USA,5989,sale,P022,green,6,profile,79.07,1,5,0,0.0
+2008,5,20,India,8868,blouses,P036,pink,6,en face,83.65,1,4,0,0.0
+2008,8,11,USA,7165,skirts,P014,burgundy,1,profile,14.41,1,2,0,0.0
+2008,6,19,Sweden,729,trousers,P001,olive,1,en face,42.43,1,1,0,0.0
+2008,8,22,India,7588,skirts,P066,white,4,profile,41.79,1,4,0,0.0
+2008,4,25,Germany,7544,sale,P005,brown,3,profile,135.91,2,3,0,0.0
+2008,8,26,UK,413,trousers,P217,burgundy,1,profile,15.01,1,1,0,0.0
+2008,5,26,Germany,5746,trousers,P299,blue,1,en face,96.74,1,3,0,0.0
+2008,4,22,Sweden,7669,sale,P128,burgundy,1,en face,103.3,1,2,0,0.0
+2008,8,14,India,826,blouses,P209,olive,1,en face,90.26,1,2,0,0.0
+2008,7,15,UK,3268,skirts,P142,beige,1,en face,14.11,1,5,0,0.0
+2008,6,23,UK,3975,blouses,P010,navy blue,5,profile,94.95,1,4,0,0.0
+2008,7,20,Australia,8809,trousers,P132,burgundy,3,profile,136.68,2,2,0,0.0
+2008,4,18,Italy,8307,trousers,P221,green,4,profile,29.79,1,1,0,0.0
+2008,5,2,Italy,418,blouses,P124,blue,6,en face,23.12,1,5,1,40.5
+2008,4,17,USA,6749,blouses,P031,red,2,en face,180.52,2,3,0,0.0
+2008,8,20,India,8968,trousers,P028,pink,2,en face,157.39,2,1,0,0.0
+2008,8,5,Australia,2083,sale,P031,red,3,en face,37.31,1,2,0,0.0
+2008,5,15,Italy,8946,skirts,P054,blue,3,profile,187.74,2,1,1,360.2
+2008,7,24,Germany,3374,blouses,P267,red,6,en face,75.74,1,2,0,0.0
+2008,8,12,France,5727,sale,P144,burgundy,6,en face,43.8,1,1,0,0.0
+2008,6,22,UK,4108,skirts,P267,burgundy,3,en face,190.99,2,5,0,0.0
+2008,8,6,Sweden,4381,blouses,P208,navy blue,1,profile,81.34,1,4,0,0.0
+2008,8,28,Sweden,7724,trousers,P284,white,5,en face,178.36,2,1,0,0.0
+2008,7,18,Germany,1067,blouses,P011,navy blue,1,en face,74.16,1,2,0,0.0
+2008,6,12,USA,3914,blouses,P158,violet,6,en face,93.08,1,3,0,0.0
+2008,4,20,India,5537,blouses,P140,red,3,profile,22.0,1,2,0,0.0
+2008,8,13,India,8003,skirts,P103,black,2,profile,50.93,1,3,0,0.0
+2008,4,21,Australia,5388,blouses,P189,red,6,en face,112.58,2,2,0,0.0
+2008,6,23,Germany,5733,blouses,P050,navy blue,5,profile,160.58,2,1,0,0.0
+2008,4,12,France,2739,sale,P158,violet,6,en face,179.35,2,4,0,0.0
+2008,7,19,Sweden,5053,skirts,P031,white,2,en face,127.84,2,2,0,0.0
+2008,6,21,Italy,4001,skirts,P158,blue,1,profile,63.12,1,2,0,0.0
+2008,5,26,France,2428,sale,P117,burgundy,6,profile,155.08,2,5,0,0.0
+2008,8,16,France,6834,skirts,P275,brown,6,en face,48.46,1,3,0,0.0
+2008,6,20,India,1688,skirts,P293,navy blue,3,en face,117.13,2,1,0,0.0
+2008,8,16,France,852,skirts,P010,white,2,en face,23.65,1,5,0,0.0
+2008,7,12,UK,6304,trousers,P230,violet,4,profile,21.08,1,1,0,0.0
+2008,5,17,France,9088,trousers,P238,violet,6,profile,103.05,1,5,0,0.0
+2008,4,14,Sweden,5879,skirts,P213,pink,5,en face,25.29,1,1,0,0.0
+2008,8,18,India,8528,sale,P012,red,5,en face,12.1,1,3,0,0.0
+2008,8,22,Italy,2840,trousers,P198,burgundy,1,profile,143.82,2,4,0,0.0
+2008,4,4,USA,4612,sale,P081,blue,3,en face,163.97,2,3,1,342.32
+2008,8,25,Sweden,9541,blouses,P013,gray,3,profile,187.17,2,4,0,0.0
+2008,5,9,Italy,9208,blouses,P149,green,2,en face,87.91,1,1,0,0.0
+2008,4,8,India,2490,sale,P055,black,2,profile,112.44,2,3,0,0.0
+2008,7,3,Germany,6906,blouses,P254,green,2,profile,23.31,1,1,0,0.0
+2008,5,20,Italy,7391,skirts,P079,green,1,profile,179.45,2,5,0,0.0
+2008,4,10,UK,2850,trousers,P135,violet,5,profile,168.8,2,2,0,0.0
+2008,6,9,Italy,6666,sale,P281,blue,3,en face,99.94,1,5,0,0.0
+2008,4,8,Australia,5882,skirts,P220,pink,1,profile,135.14,2,2,0,0.0
+2008,5,23,Australia,4453,blouses,P267,burgundy,2,profile,47.45,1,1,0,0.0
+2008,6,1,UK,7422,skirts,P027,black,3,en face,19.37,1,4,0,0.0
+2008,4,13,India,6485,skirts,P106,beige,6,en face,93.61,1,4,0,0.0
+2008,4,27,Australia,2480,blouses,P177,brown,1,profile,172.09,2,3,0,0.0
+2008,5,27,Germany,6618,blouses,P090,olive,6,profile,26.83,1,2,0,0.0
+2008,6,4,India,2142,trousers,P244,black,2,en face,75.95,1,4,0,0.0
+2008,4,7,India,5189,blouses,P117,beige,1,profile,73.05,1,3,0,0.0
+2008,5,17,UK,9705,sale,P221,beige,4,en face,165.15,2,1,0,0.0
+2008,7,25,Sweden,2745,blouses,P023,navy blue,5,en face,186.21,2,4,0,0.0
+2008,4,23,Italy,7254,skirts,P288,olive,4,en face,98.91,1,5,0,0.0
+2008,8,20,Germany,3507,blouses,P096,olive,4,profile,158.09,2,1,0,0.0
+2008,6,12,France,1680,blouses,P263,pink,3,en face,118.26,2,1,0,0.0
+2008,8,28,Germany,4250,blouses,P243,red,1,en face,107.62,2,2,0,0.0
+2008,4,4,Germany,3148,sale,P197,beige,4,profile,111.45,2,2,0,0.0
+2008,4,6,Italy,8131,skirts,P018,red,4,en face,101.47,1,2,0,0.0
+2008,5,18,India,7005,trousers,P219,burgundy,2,profile,117.67,2,1,0,0.0
+2008,7,12,UK,581,trousers,P045,black,5,en face,60.19,1,2,0,0.0
+2008,6,28,Germany,4071,skirts,P173,brown,4,en face,168.83,2,2,0,0.0
+2008,7,6,Australia,3344,sale,P220,red,3,en face,91.53,1,5,0,0.0
+2008,4,12,Germany,7405,trousers,P227,burgundy,5,en face,75.31,1,1,1,152.04
+2008,8,16,France,3673,trousers,P048,burgundy,3,en face,105.49,1,1,0,0.0
+2008,7,24,USA,560,sale,P072,blue,1,en face,155.38,2,3,0,0.0
+2008,5,3,Sweden,5238,blouses,P184,brown,4,en face,128.42,2,3,0,0.0
+2008,8,20,UK,7806,skirts,P256,blue,2,profile,93.67,1,3,0,0.0
+2008,4,7,France,513,sale,P009,gray,5,profile,58.77,1,1,0,0.0
+2008,6,3,Australia,1082,skirts,P191,navy blue,5,profile,175.26,2,5,0,0.0
+2008,7,5,India,1665,trousers,P077,blue,6,profile,18.92,1,3,0,0.0
+2008,8,2,Australia,9205,blouses,P143,blue,3,en face,160.23,2,2,0,0.0
+2008,8,7,Germany,1932,skirts,P149,brown,2,profile,130.69,2,4,0,0.0
+2008,4,7,Sweden,9667,sale,P247,green,6,en face,72.69,1,4,0,0.0
+2008,4,8,USA,1151,sale,P118,green,6,profile,68.83,1,4,0,0.0
+2008,4,26,Australia,2839,trousers,P038,blue,6,profile,46.6,1,2,0,0.0
+2008,5,16,India,5950,trousers,P131,white,1,profile,105.21,1,4,0,0.0
+2008,7,11,India,8309,trousers,P046,green,5,en face,54.57,1,5,0,0.0
+2008,4,4,UK,8933,blouses,P183,green,6,profile,176.09,2,4,0,0.0
+2008,6,25,UK,9789,blouses,P286,navy blue,5,en face,81.97,1,1,0,0.0
+2008,7,19,Germany,5178,sale,P202,blue,4,profile,113.2,2,1,0,0.0
+2008,7,16,Germany,831,sale,P146,red,3,profile,121.1,2,2,0,0.0
+2008,6,8,Australia,8312,trousers,P269,violet,3,en face,117.25,2,4,0,0.0
+2008,5,15,Australia,4753,skirts,P262,green,4,en face,133.66,2,5,0,0.0
+2008,7,27,Germany,9851,trousers,P210,burgundy,3,en face,61.74,1,5,0,0.0
+2008,4,24,Sweden,636,sale,P227,blue,4,profile,125.0,2,2,0,0.0
+2008,8,18,France,4466,trousers,P240,white,6,profile,108.51,2,2,0,0.0
+2008,7,23,Australia,6800,blouses,P153,pink,6,en face,50.82,1,1,0,0.0
+2008,8,21,India,7988,blouses,P113,red,2,profile,43.44,1,5,0,0.0
+2008,5,7,USA,7080,sale,P225,navy blue,5,en face,186.39,2,2,0,0.0
+2008,8,8,Italy,6967,blouses,P181,pink,1,profile,143.43,2,3,0,0.0
+2008,4,18,Germany,4143,sale,P136,burgundy,3,profile,57.87,1,5,0,0.0
+2008,4,27,USA,7028,skirts,P293,pink,6,profile,154.14,2,3,0,0.0
+2008,7,26,USA,9184,blouses,P059,brown,3,profile,25.99,1,2,1,57.69
+2008,4,13,Australia,877,sale,P040,green,6,en face,23.27,1,5,0,0.0
+2008,4,24,Germany,4870,sale,P093,navy blue,4,en face,119.26,2,4,0,0.0
+2008,4,19,UK,5316,skirts,P090,burgundy,2,profile,112.83,2,2,0,0.0
+2008,4,7,France,5223,trousers,P027,blue,2,profile,23.43,1,5,0,0.0
+2008,8,20,USA,5,blouses,P269,beige,6,profile,176.2,2,3,0,0.0
+2008,6,1,USA,3052,trousers,P134,black,5,en face,85.2,1,5,0,0.0
+2008,8,26,India,5692,skirts,P180,navy blue,2,profile,99.94,1,2,0,0.0
+2008,4,8,Italy,3125,sale,P232,red,5,profile,184.83,2,3,0,0.0
+2008,8,3,Australia,2492,sale,P005,burgundy,4,profile,196.6,2,3,0,0.0
+2008,5,18,Sweden,3855,trousers,P016,violet,2,profile,136.85,2,2,0,0.0
+2008,5,9,USA,4778,trousers,P206,pink,5,profile,141.42,2,1,0,0.0
+2008,8,8,France,7510,blouses,P184,white,5,profile,107.26,2,5,0,0.0
+2008,8,6,Sweden,6458,trousers,P015,pink,4,profile,84.75,1,5,0,0.0
+2008,6,24,Italy,6294,trousers,P154,white,5,profile,161.1,2,2,0,0.0
+2008,5,26,Italy,1149,blouses,P263,pink,5,en face,79.43,1,4,1,228.43
+2008,8,9,India,575,blouses,P121,black,1,en face,25.72,1,1,1,36.72
+2008,7,8,Australia,3770,blouses,P045,violet,3,en face,72.53,1,1,0,0.0
+2008,4,16,Sweden,4147,sale,P142,violet,2,profile,154.52,2,5,0,0.0
+2008,5,23,Australia,854,sale,P299,pink,2,profile,95.3,1,2,0,0.0
+2008,6,19,Sweden,5920,skirts,P034,green,4,profile,59.65,1,2,0,0.0
+2008,4,24,Italy,9359,blouses,P238,red,5,en face,191.67,2,2,0,0.0
+2008,8,21,Germany,6615,trousers,P076,white,5,en face,103.38,1,3,0,0.0
+2008,5,10,Australia,6003,skirts,P166,navy blue,1,profile,139.7,2,3,0,0.0
+2008,7,15,USA,9164,sale,P290,black,4,en face,51.9,1,3,0,0.0
+2008,4,9,USA,4496,blouses,P029,blue,1,profile,166.21,2,2,0,0.0
+2008,8,4,UK,8174,skirts,P156,burgundy,6,en face,79.78,1,4,0,0.0
+2008,7,7,France,6656,blouses,P127,green,6,profile,162.08,2,1,0,0.0
+2008,8,27,France,2369,skirts,P116,burgundy,4,en face,40.7,1,1,0,0.0
+2008,8,10,Italy,4781,sale,P066,brown,2,en face,35.13,1,3,0,0.0
+2008,6,23,UK,7993,trousers,P009,pink,4,en face,89.1,1,2,0,0.0
+2008,8,21,Italy,2951,trousers,P096,navy blue,1,profile,120.66,2,5,0,0.0
+2008,6,12,Germany,5626,blouses,P165,green,1,profile,125.95,2,4,0,0.0
+2008,6,25,France,6972,trousers,P166,beige,3,profile,179.68,2,2,0,0.0
+2008,7,28,Germany,8717,skirts,P059,pink,4,profile,119.53,2,5,0,0.0
+2008,4,19,Sweden,1842,skirts,P106,brown,4,profile,127.56,2,3,1,366.97
+2008,6,3,USA,5987,blouses,P193,green,4,profile,111.54,2,4,0,0.0
+2008,6,13,Sweden,538,blouses,P272,black,6,profile,132.95,2,5,0,0.0
+2008,7,26,USA,2807,sale,P285,white,3,en face,167.16,2,1,1,242.46
+2008,8,25,USA,5802,sale,P088,brown,6,profile,42.24,1,5,0,0.0
+2008,7,6,UK,5597,blouses,P298,pink,5,profile,17.71,1,4,0,0.0
+2008,6,24,Sweden,7207,blouses,P091,green,1,en face,15.16,1,2,0,0.0
+2008,8,26,Italy,7344,trousers,P285,red,1,profile,43.61,1,4,0,0.0
+2008,4,17,USA,7561,blouses,P282,gray,6,en face,112.24,2,2,0,0.0
+2008,7,9,Sweden,8097,skirts,P198,brown,6,en face,18.42,1,4,1,31.06
+2008,8,20,Sweden,785,skirts,P116,pink,6,en face,26.43,1,2,0,0.0
+2008,4,21,Sweden,1410,sale,P074,navy blue,6,profile,86.44,1,3,0,0.0
+2008,6,19,USA,155,trousers,P187,violet,2,en face,100.45,1,2,0,0.0
+2008,8,12,Italy,7807,trousers,P283,pink,1,en face,199.9,2,3,0,0.0
+2008,6,15,Germany,3010,trousers,P034,green,4,en face,17.92,1,1,0,0.0
+2008,6,18,Italy,1687,trousers,P176,brown,6,profile,159.85,2,5,0,0.0
+2008,7,1,Germany,4015,sale,P245,burgundy,6,profile,138.91,2,4,0,0.0
+2008,4,23,UK,7456,skirts,P203,blue,5,en face,92.87,1,1,0,0.0
+2008,4,28,India,3864,trousers,P144,beige,2,profile,89.66,1,4,0,0.0
+2008,8,22,USA,2734,blouses,P010,black,1,en face,132.24,2,4,0,0.0
+2008,6,8,Italy,1896,blouses,P083,violet,2,profile,148.22,2,3,1,408.37
+2008,7,22,Germany,5443,skirts,P226,beige,5,profile,143.76,2,2,0,0.0
+2008,6,18,Sweden,570,blouses,P227,violet,5,en face,137.09,2,4,0,0.0
+2008,4,21,Australia,6710,sale,P037,green,2,profile,110.72,2,3,0,0.0
+2008,7,18,India,5855,sale,P220,black,4,profile,191.75,2,5,0,0.0
+2008,7,24,Australia,1817,trousers,P202,green,6,profile,16.62,1,1,0,0.0
+2008,8,7,UK,8320,trousers,P195,gray,3,profile,121.31,2,2,0,0.0
+2008,5,24,Australia,3395,trousers,P181,red,2,en face,160.5,2,2,0,0.0
+2008,8,14,UK,3328,blouses,P116,red,3,en face,29.44,1,2,0,0.0
+2008,4,5,France,9983,sale,P241,beige,5,en face,47.85,1,1,0,0.0
+2008,5,5,UK,6103,trousers,P255,blue,1,en face,105.04,1,4,0,0.0
+2008,7,3,France,2976,trousers,P008,green,2,en face,67.16,1,3,0,0.0
+2008,6,17,Italy,981,blouses,P191,black,5,en face,166.33,2,5,0,0.0
+2008,5,22,India,191,blouses,P255,black,4,en face,70.79,1,3,0,0.0
+2008,5,13,USA,9332,blouses,P004,black,2,en face,103.91,1,1,1,112.89
+2008,4,2,France,5089,blouses,P016,black,3,profile,90.14,1,5,0,0.0
+2008,5,25,USA,700,trousers,P097,black,1,en face,94.41,1,2,0,0.0
+2008,7,19,India,9760,skirts,P175,olive,2,profile,10.97,1,1,0,0.0
+2008,7,27,India,607,blouses,P231,red,1,en face,86.3,1,4,0,0.0
+2008,8,27,Germany,302,sale,P056,burgundy,6,profile,143.55,2,2,0,0.0
+2008,7,26,Italy,3421,sale,P054,violet,1,profile,16.42,1,2,0,0.0
+2008,6,18,India,9805,blouses,P011,navy blue,5,profile,67.53,1,5,0,0.0
+2008,4,12,USA,1061,skirts,P023,navy blue,1,profile,41.28,1,3,0,0.0
+2008,4,16,Germany,3445,trousers,P032,olive,3,en face,20.42,1,2,0,0.0
+2008,4,9,UK,1070,blouses,P048,gray,6,profile,122.49,2,5,0,0.0
+2008,8,6,Germany,2206,blouses,P237,gray,3,en face,123.61,2,2,0,0.0
+2008,5,8,Sweden,9436,blouses,P276,gray,5,profile,54.2,1,2,0,0.0
+2008,8,10,Sweden,7340,trousers,P121,gray,3,profile,29.84,1,3,0,0.0
+2008,5,24,Australia,8209,blouses,P216,beige,3,profile,175.24,2,1,0,0.0
+2008,4,19,USA,7680,trousers,P252,gray,6,profile,131.99,2,5,0,0.0
+2008,4,6,India,4643,blouses,P288,violet,1,profile,115.26,2,3,0,0.0
+2008,5,5,India,7684,sale,P026,blue,1,en face,86.09,1,1,0,0.0
+2008,7,20,Sweden,9008,blouses,P142,gray,6,en face,164.2,2,2,0,0.0
+2008,7,15,Germany,7997,trousers,P111,black,3,en face,79.72,1,1,1,214.9
+2008,7,26,France,5601,skirts,P065,black,5,profile,45.9,1,1,0,0.0
+2008,5,22,UK,9152,blouses,P294,violet,4,profile,178.56,2,3,0,0.0
+2008,5,5,Australia,7023,trousers,P102,violet,3,profile,85.72,1,4,1,111.9
+2008,8,1,Germany,4894,skirts,P119,gray,1,en face,75.18,1,3,0,0.0
+2008,4,24,Germany,226,trousers,P163,gray,5,profile,66.6,1,2,0,0.0
+2008,4,13,UK,3355,trousers,P105,burgundy,6,profile,162.55,2,4,0,0.0
+2008,4,5,Italy,5896,blouses,P273,navy blue,4,profile,173.56,2,3,0,0.0
+2008,7,7,USA,8755,blouses,P163,olive,5,profile,112.95,2,5,0,0.0
+2008,8,14,India,3437,skirts,P270,white,2,en face,87.27,1,5,0,0.0
+2008,8,2,India,1694,skirts,P244,violet,4,en face,113.94,2,4,0,0.0
+2008,6,1,USA,6894,trousers,P018,pink,1,en face,37.06,1,4,0,0.0
+2008,6,9,Sweden,1046,sale,P032,violet,5,profile,165.51,2,4,0,0.0
+2008,6,21,Germany,3447,skirts,P014,green,1,profile,111.57,2,1,0,0.0
+2008,5,15,Sweden,8051,blouses,P154,white,2,en face,171.21,2,5,0,0.0
+2008,8,8,Italy,9147,trousers,P058,burgundy,5,en face,128.16,2,5,0,0.0
+2008,4,16,Germany,9982,blouses,P173,pink,6,en face,76.1,1,4,0,0.0
+2008,7,26,Italy,4736,trousers,P094,navy blue,4,profile,11.47,1,1,0,0.0
+2008,5,14,UK,4497,skirts,P138,violet,1,en face,156.52,2,2,0,0.0
+2008,8,3,Australia,1219,sale,P291,beige,1,en face,135.23,2,1,0,0.0
+2008,8,18,UK,6016,trousers,P130,pink,2,profile,113.02,2,2,0,0.0
+2008,7,2,Australia,9720,blouses,P200,blue,6,profile,90.18,1,1,0,0.0
+2008,5,8,India,3988,trousers,P084,olive,1,en face,180.45,2,4,0,0.0
+2008,6,19,India,4912,trousers,P046,white,2,en face,18.25,1,1,0,0.0
+2008,7,6,UK,9493,blouses,P256,violet,4,profile,102.08,1,4,0,0.0
+2008,4,24,UK,4494,sale,P083,green,2,en face,97.65,1,4,0,0.0
+2008,6,16,Sweden,6945,blouses,P132,blue,4,en face,153.91,2,3,0,0.0
+2008,7,6,UK,5700,blouses,P125,pink,5,en face,33.56,1,3,0,0.0
+2008,4,3,Sweden,8353,skirts,P229,gray,1,en face,153.76,2,3,1,308.48
+2008,8,5,Australia,957,skirts,P293,white,6,en face,147.39,2,2,1,352.78
+2008,5,7,UK,2870,skirts,P236,gray,1,en face,123.2,2,3,0,0.0
+2008,8,24,France,4434,trousers,P222,green,5,en face,103.66,1,3,0,0.0
+2008,6,6,Germany,4974,blouses,P288,burgundy,5,en face,154.66,2,5,0,0.0
+2008,8,12,Australia,2962,skirts,P034,pink,5,en face,142.0,2,1,0,0.0
+2008,6,11,Australia,2201,trousers,P006,blue,4,en face,51.76,1,5,0,0.0
+2008,5,3,Australia,99,skirts,P031,blue,2,en face,172.11,2,4,0,0.0
+2008,4,12,Italy,9850,skirts,P097,green,2,profile,44.3,1,5,0,0.0
+2008,5,21,Sweden,2558,blouses,P032,violet,3,en face,24.75,1,1,0,0.0
+2008,5,21,USA,8446,skirts,P057,olive,5,en face,73.36,1,2,0,0.0
+2008,6,26,USA,4200,skirts,P040,green,3,profile,147.87,2,3,0,0.0
+2008,4,11,Sweden,9638,skirts,P270,red,6,en face,86.5,1,4,0,0.0
+2008,6,23,USA,5540,blouses,P082,pink,5,profile,44.8,1,2,0,0.0
+2008,5,8,France,1649,sale,P202,violet,1,en face,68.75,1,3,1,73.46
+2008,5,24,Australia,6198,blouses,P022,gray,3,profile,11.74,1,3,0,0.0
+2008,7,23,Australia,6296,skirts,P105,blue,3,profile,143.81,2,3,0,0.0
+2008,4,16,France,4500,trousers,P286,olive,3,en face,139.24,2,5,0,0.0
+2008,5,10,France,1155,blouses,P118,blue,1,en face,163.33,2,3,0,0.0
+2008,7,26,India,2256,blouses,P189,red,2,profile,108.76,2,2,0,0.0
+2008,5,23,USA,3171,blouses,P073,red,2,profile,38.61,1,3,0,0.0
+2008,5,9,Australia,7401,blouses,P020,green,2,en face,42.57,1,4,0,0.0
+2008,7,7,France,7159,blouses,P247,white,1,profile,194.67,2,3,1,410.72
+2008,7,28,Italy,3109,sale,P215,white,1,en face,43.96,1,1,0,0.0
+2008,6,9,India,4549,blouses,P154,beige,1,profile,192.05,2,5,0,0.0
+2008,5,14,France,5424,blouses,P225,olive,1,en face,11.99,1,1,0,0.0
+2008,5,10,Australia,2050,sale,P160,pink,4,profile,76.28,1,5,0,0.0
+2008,7,19,Italy,9209,sale,P175,olive,5,en face,134.27,2,1,0,0.0
+2008,5,3,India,8816,blouses,P146,pink,6,profile,80.62,1,1,0,0.0
+2008,4,14,Italy,9798,sale,P174,pink,3,en face,100.33,1,3,0,0.0
+2008,8,19,USA,263,trousers,P190,blue,4,profile,102.87,1,4,0,0.0
+2008,5,6,Italy,4062,sale,P116,brown,5,en face,177.0,2,5,0,0.0
+2008,6,14,UK,5535,blouses,P002,brown,5,profile,97.75,1,3,0,0.0
+2008,5,27,France,6617,trousers,P036,brown,2,profile,89.9,1,4,0,0.0
+2008,8,6,USA,8121,sale,P194,brown,3,en face,30.0,1,2,0,0.0
+2008,8,8,UK,8156,trousers,P139,black,6,profile,163.83,2,2,0,0.0
+2008,5,15,India,1803,trousers,P233,pink,3,en face,162.44,2,5,0,0.0
+2008,4,28,Australia,4737,blouses,P052,olive,3,en face,39.83,1,2,0,0.0
+2008,4,8,Germany,2386,skirts,P267,brown,2,profile,16.52,1,5,1,47.2
+2008,5,11,UK,6695,blouses,P197,burgundy,3,profile,162.56,2,1,0,0.0
+2008,4,27,USA,5760,sale,P282,burgundy,3,en face,167.31,2,2,0,0.0
+2008,8,18,Sweden,1960,sale,P277,pink,2,profile,26.63,1,4,0,0.0
+2008,6,2,Australia,2977,trousers,P225,violet,4,en face,12.49,1,3,0,0.0
+2008,8,10,France,8681,sale,P173,olive,4,profile,20.82,1,2,0,0.0
+2008,6,27,France,1844,sale,P225,gray,4,profile,191.24,2,1,0,0.0
+2008,8,11,Germany,1735,sale,P249,blue,5,profile,34.08,1,2,1,62.74
+2008,4,3,USA,2912,blouses,P037,navy blue,1,profile,158.74,2,1,1,226.07
+2008,5,9,Germany,8339,skirts,P038,gray,1,en face,169.18,2,2,0,0.0
+2008,7,24,France,1987,skirts,P098,pink,4,en face,28.25,1,3,0,0.0
+2008,5,25,USA,9562,trousers,P259,blue,1,en face,70.1,1,4,0,0.0
+2008,4,25,UK,6547,blouses,P032,beige,1,profile,94.47,1,2,0,0.0
+2008,8,25,Sweden,7099,sale,P191,pink,2,profile,78.17,1,4,0,0.0
+2008,4,15,India,2812,trousers,P154,burgundy,3,profile,91.87,1,3,0,0.0
+2008,6,12,Australia,660,blouses,P274,black,4,en face,24.18,1,2,0,0.0
+2008,6,23,UK,2512,sale,P220,black,5,profile,118.47,2,3,0,0.0
+2008,8,23,Australia,4283,skirts,P203,red,1,en face,173.69,2,2,0,0.0
+2008,6,19,Germany,9340,skirts,P115,gray,1,en face,111.16,2,1,0,0.0
+2008,5,23,Germany,8801,sale,P125,black,6,en face,68.71,1,1,0,0.0
+2008,4,10,UK,6288,trousers,P214,black,4,profile,14.86,1,2,0,0.0
+2008,7,24,India,1931,sale,P247,navy blue,2,en face,118.65,2,5,0,0.0
+2008,6,8,France,7126,skirts,P210,blue,5,en face,84.15,1,5,1,191.99
+2008,4,10,India,198,trousers,P294,red,5,en face,77.55,1,2,1,218.46
+2008,6,9,Italy,7778,blouses,P007,white,2,en face,186.03,2,2,0,0.0
+2008,8,5,Sweden,2932,trousers,P167,pink,1,profile,43.22,1,4,0,0.0
+2008,8,12,Sweden,8005,sale,P023,blue,4,profile,121.5,2,4,0,0.0
+2008,4,6,USA,2328,skirts,P106,white,4,en face,183.57,2,5,0,0.0
+2008,4,14,India,4390,blouses,P242,olive,5,en face,142.23,2,2,0,0.0
+2008,6,28,Italy,8959,skirts,P062,burgundy,2,en face,182.96,2,2,0,0.0
+2008,4,25,Sweden,4219,sale,P266,brown,2,en face,31.31,1,5,1,45.35
+2008,4,28,India,203,skirts,P131,olive,4,en face,116.83,2,1,0,0.0
+2008,5,23,UK,3511,skirts,P221,gray,1,en face,149.77,2,4,0,0.0
+2008,6,22,India,4932,blouses,P216,blue,6,profile,54.38,1,3,0,0.0
+2008,7,16,India,5536,skirts,P161,red,3,en face,15.26,1,5,0,0.0
+2008,5,11,Germany,5792,trousers,P080,beige,6,en face,101.23,1,5,0,0.0
+2008,7,22,UK,1708,skirts,P236,olive,3,profile,133.76,2,4,0,0.0
+2008,7,2,France,5173,sale,P010,green,6,en face,183.8,2,5,0,0.0
+2008,7,8,USA,5250,sale,P261,brown,5,en face,103.88,1,4,0,0.0
+2008,6,23,Germany,6529,skirts,P241,burgundy,2,profile,69.35,1,2,0,0.0
+2008,7,27,UK,9849,blouses,P164,olive,2,en face,136.68,2,4,0,0.0
+2008,5,15,France,5856,blouses,P047,red,1,en face,44.03,1,3,0,0.0
+2008,8,12,India,8165,blouses,P175,burgundy,5,profile,160.64,2,4,1,271.71
+2008,7,13,India,855,blouses,P152,olive,2,en face,73.62,1,5,0,0.0
+2008,8,22,USA,4738,trousers,P041,black,1,profile,56.22,1,4,0,0.0
+2008,5,20,Sweden,699,sale,P023,beige,2,en face,57.56,1,3,0,0.0
+2008,8,18,Italy,3697,trousers,P246,pink,1,en face,31.92,1,1,0,0.0
+2008,5,19,Italy,1637,blouses,P252,red,3,profile,195.48,2,4,1,430.0
+2008,8,21,Sweden,7281,blouses,P296,brown,1,en face,75.44,1,2,0,0.0
+2008,6,1,Italy,7555,sale,P181,burgundy,1,en face,51.63,1,4,0,0.0
+2008,6,18,USA,3582,skirts,P212,gray,3,en face,88.5,1,2,0,0.0
+2008,7,1,Australia,1292,trousers,P223,violet,5,en face,134.87,2,4,0,0.0
+2008,7,2,Sweden,6586,sale,P172,green,6,en face,187.14,2,4,0,0.0
+2008,4,20,Australia,1854,blouses,P071,red,5,profile,123.11,2,4,0,0.0
+2008,4,16,Italy,5233,blouses,P014,gray,1,en face,33.24,1,3,0,0.0
+2008,7,4,Sweden,3764,sale,P014,navy blue,1,profile,182.26,2,2,0,0.0
+2008,4,26,India,3305,blouses,P168,black,4,en face,12.9,1,5,0,0.0
+2008,7,7,Sweden,1496,sale,P159,red,2,en face,144.24,2,1,1,400.32
+2008,7,1,USA,7995,trousers,P060,pink,5,en face,79.19,1,3,0,0.0
+2008,8,7,India,1999,skirts,P291,gray,5,profile,169.32,2,5,0,0.0
+2008,6,11,France,664,sale,P134,green,5,en face,145.24,2,5,1,200.04
+2008,8,16,UK,3749,trousers,P203,red,2,en face,183.05,2,1,0,0.0
+2008,7,14,Italy,4414,trousers,P178,gray,4,profile,71.83,1,1,0,0.0
+2008,8,8,Germany,5531,skirts,P233,green,5,en face,58.5,1,2,0,0.0
+2008,6,21,Germany,5576,skirts,P006,red,3,profile,197.15,2,4,0,0.0
+2008,4,4,Australia,8902,sale,P070,violet,6,profile,64.47,1,1,0,0.0
+2008,8,8,Sweden,7527,trousers,P188,gray,2,en face,147.35,2,5,0,0.0
+2008,7,26,Australia,9475,sale,P147,brown,3,en face,36.42,1,1,1,58.69
+2008,5,21,Italy,5865,sale,P098,olive,2,profile,14.95,1,2,1,24.48
+2008,7,21,India,6777,sale,P035,blue,3,profile,172.98,2,4,0,0.0
+2008,7,26,Germany,1307,sale,P006,brown,1,en face,85.04,1,3,1,112.35
+2008,5,6,Italy,7393,blouses,P205,beige,5,profile,171.83,2,2,0,0.0
+2008,5,11,UK,5593,trousers,P222,beige,6,profile,75.15,1,3,0,0.0
+2008,6,2,Germany,9722,blouses,P203,brown,2,profile,70.79,1,4,0,0.0
+2008,7,27,Germany,1664,sale,P035,beige,6,en face,47.89,1,4,0,0.0
+2008,7,18,UK,5451,skirts,P025,blue,6,en face,70.12,1,3,0,0.0
+2008,8,4,Australia,9955,trousers,P020,pink,2,en face,11.87,1,5,1,24.49
+2008,6,28,Germany,3628,trousers,P247,black,5,en face,90.27,1,3,0,0.0
+2008,5,5,India,2694,sale,P033,beige,5,profile,106.71,2,4,0,0.0
+2008,8,26,Australia,9790,trousers,P087,black,2,profile,56.94,1,1,0,0.0
+2008,6,9,India,5916,blouses,P296,beige,3,en face,59.12,1,5,0,0.0
+2008,5,21,Germany,3158,sale,P101,red,5,profile,23.66,1,4,0,0.0
+2008,8,18,Italy,6669,skirts,P191,white,6,profile,143.37,2,2,0,0.0
+2008,8,18,USA,1060,skirts,P140,white,5,en face,27.85,1,3,0,0.0
+2008,8,21,Australia,4637,trousers,P079,white,3,en face,183.74,2,5,0,0.0
+2008,5,23,Germany,3243,blouses,P018,navy blue,1,profile,150.28,2,2,0,0.0
+2008,5,11,Italy,1679,sale,P082,pink,4,profile,96.12,1,5,0,0.0
+2008,5,23,Italy,6893,trousers,P020,brown,3,en face,189.98,2,3,0,0.0
+2008,8,18,Australia,6375,sale,P034,brown,1,en face,175.15,2,3,0,0.0
+2008,8,7,India,7575,blouses,P138,brown,3,en face,127.82,2,5,0,0.0
+2008,5,4,Sweden,1758,sale,P252,red,6,en face,150.05,2,1,0,0.0
+2008,8,27,USA,6020,blouses,P285,blue,4,en face,143.36,2,1,0,0.0
+2008,8,4,France,5117,skirts,P151,navy blue,4,en face,91.71,1,4,0,0.0
+2008,6,26,Italy,8756,sale,P223,burgundy,4,en face,44.63,1,5,0,0.0
+2008,8,23,USA,7409,blouses,P123,navy blue,3,en face,99.49,1,4,0,0.0
+2008,7,10,Germany,2791,trousers,P186,violet,5,profile,83.8,1,5,0,0.0
+2008,5,7,Italy,864,sale,P097,beige,6,en face,126.53,2,5,0,0.0
+2008,6,12,India,7859,blouses,P269,black,1,en face,152.68,2,3,0,0.0
+2008,4,12,USA,1485,trousers,P109,beige,5,profile,113.24,2,5,0,0.0
+2008,6,21,Australia,7036,sale,P271,brown,3,profile,21.31,1,5,0,0.0
+2008,8,9,UK,7722,sale,P229,burgundy,5,en face,22.08,1,1,1,64.18
+2008,6,8,France,5978,skirts,P077,blue,4,profile,129.17,2,3,0,0.0
+2008,4,14,USA,5135,trousers,P211,black,5,profile,155.79,2,2,1,464.58
+2008,8,9,Australia,207,trousers,P175,black,3,en face,97.1,1,1,0,0.0
+2008,5,9,India,4489,trousers,P005,violet,2,en face,44.66,1,3,0,0.0
+2008,6,14,Italy,6939,skirts,P173,gray,2,en face,20.37,1,2,0,0.0
+2008,8,5,Italy,9063,trousers,P070,white,3,en face,18.7,1,4,1,39.04
+2008,7,21,Sweden,6911,skirts,P275,pink,5,profile,57.9,1,3,0,0.0
+2008,8,8,UK,503,skirts,P091,black,1,profile,100.59,1,3,0,0.0
+2008,4,13,France,7386,skirts,P275,brown,1,profile,165.59,2,5,0,0.0
+2008,7,9,France,1029,blouses,P216,olive,1,en face,27.63,1,1,0,0.0
+2008,7,23,France,3841,skirts,P193,gray,3,profile,151.72,2,4,0,0.0
+2008,7,8,India,8111,sale,P021,pink,5,profile,130.75,2,3,0,0.0
+2008,4,9,Germany,5057,blouses,P232,violet,4,profile,31.83,1,3,0,0.0
+2008,7,12,UK,9763,sale,P190,burgundy,3,profile,159.95,2,3,0,0.0
+2008,4,17,Italy,8155,skirts,P298,beige,5,en face,11.37,1,2,0,0.0
+2008,4,7,UK,2732,skirts,P158,green,2,profile,124.02,2,4,0,0.0
+2008,7,2,Australia,8997,skirts,P120,blue,2,en face,136.11,2,1,0,0.0
+2008,6,14,Sweden,2455,blouses,P182,burgundy,2,profile,67.79,1,1,0,0.0
+2008,4,7,Italy,7216,skirts,P294,gray,3,profile,182.43,2,2,0,0.0
+2008,7,25,France,3105,sale,P071,pink,4,profile,22.58,1,1,0,0.0
+2008,6,23,Australia,8393,sale,P170,gray,5,en face,31.57,1,3,0,0.0
+2008,4,12,Germany,6279,blouses,P074,pink,1,en face,24.8,1,4,0,0.0
+2008,8,5,UK,3100,skirts,P293,violet,2,profile,86.67,1,3,0,0.0
+2008,6,7,Sweden,6185,skirts,P038,gray,5,profile,58.09,1,1,0,0.0
+2008,6,22,Australia,3562,skirts,P047,green,4,en face,137.89,2,5,0,0.0
+2008,5,21,Germany,5893,sale,P285,red,3,profile,52.26,1,4,0,0.0
+2008,8,5,USA,392,sale,P119,navy blue,2,en face,172.13,2,3,0,0.0
+2008,7,7,USA,6737,sale,P036,navy blue,6,en face,162.13,2,5,0,0.0
+2008,7,22,Italy,5619,trousers,P212,brown,4,profile,186.8,2,3,0,0.0
+2008,8,4,USA,5259,trousers,P149,blue,5,en face,154.66,2,4,0,0.0
+2008,4,1,India,9688,skirts,P072,gray,1,profile,141.59,2,2,0,0.0
+2008,8,18,India,2696,trousers,P069,beige,1,en face,67.48,1,5,0,0.0
+2008,7,20,France,2028,trousers,P074,navy blue,1,en face,196.97,2,1,0,0.0
+2008,6,17,France,5464,blouses,P036,red,3,en face,49.15,1,5,0,0.0
+2008,8,25,India,2569,sale,P278,black,1,profile,33.64,1,2,0,0.0
+2008,6,21,Italy,8007,sale,P093,burgundy,4,profile,87.93,1,5,0,0.0
+2008,5,17,USA,65,skirts,P039,violet,2,profile,183.29,2,1,0,0.0
+2008,4,2,Germany,2063,trousers,P229,white,1,en face,106.28,1,4,0,0.0
+2008,8,15,Germany,5277,skirts,P068,pink,5,profile,56.7,1,2,0,0.0
+2008,6,7,Sweden,7209,trousers,P004,burgundy,4,profile,72.82,1,3,0,0.0
+2008,8,27,Sweden,8685,sale,P262,black,4,profile,140.27,2,4,1,300.17
+2008,5,17,France,8572,skirts,P217,burgundy,1,profile,171.69,2,5,0,0.0
+2008,8,8,USA,6332,sale,P171,blue,5,en face,28.95,1,2,0,0.0
+2008,6,18,Australia,4860,sale,P189,white,5,en face,53.95,1,1,1,95.54
+2008,8,24,Australia,4888,trousers,P005,gray,6,en face,134.21,2,3,0,0.0
+2008,5,20,Sweden,9269,blouses,P042,black,1,profile,145.91,2,4,0,0.0
+2008,8,27,Italy,879,skirts,P215,red,6,en face,179.04,2,5,0,0.0
+2008,8,6,USA,8530,trousers,P009,black,3,profile,126.58,2,1,1,142.83
+2008,6,4,Italy,7917,blouses,P200,pink,4,en face,111.64,2,1,0,0.0
+2008,7,20,USA,6864,skirts,P082,beige,2,en face,27.99,1,1,0,0.0
+2008,4,27,UK,7893,skirts,P298,green,3,en face,42.95,1,4,0,0.0
+2008,5,23,Germany,6440,blouses,P124,red,5,profile,63.27,1,1,0,0.0
+2008,6,15,UK,7870,sale,P259,black,1,profile,42.96,1,4,1,81.89
+2008,8,17,Sweden,1017,skirts,P232,brown,4,profile,111.23,2,2,0,0.0
+2008,5,2,Italy,9468,sale,P184,black,5,en face,10.56,1,1,0,0.0
+2008,4,4,USA,7630,skirts,P024,burgundy,3,en face,58.61,1,2,0,0.0
+2008,5,24,India,996,sale,P046,violet,3,en face,77.16,1,1,0,0.0
+2008,7,24,France,4298,trousers,P172,beige,1,profile,25.94,1,2,0,0.0
+2008,4,28,France,162,trousers,P124,brown,6,en face,113.67,2,2,0,0.0
+2008,8,4,Italy,5676,trousers,P221,blue,4,en face,105.15,1,4,0,0.0
+2008,7,12,France,6874,skirts,P167,pink,1,profile,146.8,2,1,0,0.0
+2008,7,19,France,9693,skirts,P064,pink,3,profile,190.76,2,3,0,0.0
+2008,5,18,Australia,7990,trousers,P291,brown,6,en face,108.86,2,2,0,0.0
+2008,7,13,France,3844,skirts,P238,green,1,profile,119.68,2,5,0,0.0
+2008,4,12,Australia,1022,blouses,P198,red,2,en face,134.84,2,2,0,0.0
+2008,6,22,Sweden,3074,blouses,P166,red,1,en face,92.93,1,3,0,0.0
+2008,6,1,Italy,7556,skirts,P201,violet,2,en face,171.87,2,3,0,0.0
+2008,7,19,France,3944,skirts,P017,burgundy,3,profile,27.01,1,5,0,0.0
+2008,7,11,UK,1586,blouses,P213,gray,1,en face,170.97,2,1,0,0.0
+2008,6,1,Sweden,3153,trousers,P260,brown,2,profile,42.56,1,4,1,47.92
+2008,5,13,Sweden,8227,skirts,P194,pink,4,en face,77.36,1,4,0,0.0
+2008,4,26,Sweden,776,skirts,P044,white,4,en face,86.17,1,5,1,126.65
+2008,5,21,Australia,9671,trousers,P024,gray,6,profile,109.54,2,1,0,0.0
+2008,5,9,India,7100,trousers,P194,gray,2,en face,101.87,1,5,0,0.0
+2008,6,2,Sweden,5487,trousers,P098,white,5,en face,79.43,1,1,0,0.0
+2008,4,22,India,6236,trousers,P049,red,2,profile,46.38,1,2,1,62.66
+2008,5,1,Italy,9556,sale,P156,navy blue,6,en face,94.06,1,1,0,0.0
+2008,4,25,Sweden,7042,trousers,P177,white,3,en face,42.59,1,1,0,0.0
+2008,5,25,Germany,2613,trousers,P271,violet,5,en face,123.75,2,2,0,0.0
+2008,5,4,Italy,7514,blouses,P251,navy blue,5,en face,168.62,2,4,0,0.0
+2008,8,5,Germany,8434,blouses,P250,navy blue,4,profile,28.28,1,5,0,0.0
+2008,8,21,France,8793,sale,P087,navy blue,1,profile,60.15,1,5,0,0.0
+2008,6,23,Sweden,5394,blouses,P072,burgundy,1,en face,59.1,1,1,0,0.0
+2008,7,20,UK,8839,blouses,P269,violet,1,profile,78.26,1,3,0,0.0
+2008,5,25,Sweden,3891,blouses,P025,olive,1,en face,82.26,1,3,0,0.0
+2008,5,28,UK,3557,trousers,P002,green,2,en face,81.49,1,4,0,0.0
+2008,5,20,UK,1529,trousers,P114,black,6,profile,68.0,1,1,0,0.0
+2008,8,8,Italy,1268,trousers,P278,beige,6,profile,192.97,2,5,1,256.12
+2008,8,5,USA,7735,sale,P099,brown,3,profile,184.27,2,2,0,0.0
+2008,7,21,Germany,1900,trousers,P128,gray,4,en face,186.8,2,5,0,0.0
+2008,6,26,Sweden,4659,trousers,P085,olive,1,en face,62.7,1,4,0,0.0
+2008,7,21,Germany,3006,trousers,P035,green,1,en face,18.06,1,3,0,0.0
+2008,7,21,Germany,2735,blouses,P022,green,3,profile,119.82,2,4,1,349.21
+2008,6,9,UK,190,blouses,P277,red,3,profile,95.4,1,2,0,0.0
+2008,4,25,USA,9168,trousers,P073,olive,1,profile,68.33,1,5,1,116.21
+2008,7,26,Australia,2748,sale,P119,black,6,profile,13.56,1,1,0,0.0
+2008,5,8,Sweden,2048,skirts,P237,brown,4,en face,134.04,2,1,1,311.46
+2008,4,15,Sweden,7850,blouses,P206,red,4,profile,128.62,2,2,0,0.0
+2008,8,28,Sweden,2559,sale,P063,brown,2,en face,56.26,1,5,0,0.0
+2008,4,18,Germany,9275,skirts,P005,navy blue,2,profile,46.82,1,3,0,0.0
+2008,4,25,Sweden,8667,trousers,P270,burgundy,6,profile,162.34,2,4,0,0.0
+2008,5,6,Sweden,6397,blouses,P084,brown,1,en face,94.57,1,3,0,0.0
+2008,6,13,Australia,3386,skirts,P007,beige,6,en face,23.8,1,1,0,0.0
+2008,4,6,UK,4556,sale,P199,olive,6,profile,100.48,1,2,0,0.0
+2008,8,1,Germany,1185,skirts,P118,burgundy,1,profile,12.47,1,1,0,0.0
+2008,6,5,Sweden,6421,skirts,P004,brown,6,profile,33.07,1,3,0,0.0
+2008,8,18,USA,5052,trousers,P026,green,1,en face,151.32,2,2,0,0.0
+2008,4,23,India,5312,skirts,P004,green,2,profile,29.75,1,4,0,0.0
+2008,4,27,UK,2434,trousers,P273,white,5,en face,155.58,2,1,0,0.0
+2008,7,27,Australia,6950,skirts,P137,black,1,en face,139.3,2,5,0,0.0
+2008,4,12,Australia,770,sale,P299,navy blue,1,en face,192.38,2,4,0,0.0
+2008,5,6,France,1686,sale,P161,olive,5,profile,172.28,2,3,0,0.0
+2008,5,10,USA,8323,blouses,P268,olive,5,profile,176.25,2,3,0,0.0
+2008,7,21,USA,5579,blouses,P076,white,3,en face,170.08,2,4,0,0.0
+2008,6,7,Italy,4427,blouses,P185,olive,4,en face,47.27,1,2,0,0.0
+2008,5,22,India,467,sale,P052,green,5,en face,18.62,1,1,1,29.88
+2008,6,2,Australia,6266,blouses,P017,pink,2,en face,102.03,1,4,0,0.0
+2008,8,27,Germany,5735,blouses,P159,red,2,profile,31.53,1,2,0,0.0
+2008,7,24,Italy,5192,trousers,P245,burgundy,4,en face,105.61,1,4,1,247.52
+2008,7,10,Sweden,5391,trousers,P105,red,6,en face,13.04,1,5,0,0.0
+2008,4,27,USA,861,skirts,P015,black,6,en face,197.97,2,3,0,0.0
+2008,7,14,Italy,7271,blouses,P094,beige,3,profile,14.11,1,5,0,0.0
