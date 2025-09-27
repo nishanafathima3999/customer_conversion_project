@@ -1,0 +1,5 @@
+"models/" 
+"data/" 
+"*.joblib" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
